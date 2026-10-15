@@ -21,7 +21,7 @@ What you teach one AI agent shouldn't have to be re-taught to the next. Agent Br
 | rule | Confirm a plan before writing code | **pending** until the user approves |
 | skill | Steps for writing a weekly report | **pending** until the user approves |
 
-Entry fields: category, title, content (Markdown), tags, source agent, timestamps, current version, status (active / pending / deleted).
+Entry fields: category, title, content (Markdown), tags, source agent, timestamps, current version, status (active / pending / deleted), **pinned** flag and importance, and **scope** (all agents, or specific agents / agent tags such as `coding`, `life`).
 
 ## 4. Versioning
 - Every create/update/delete/revert produces an **immutable version**: actor (agent or user), time, before/after, optional reason.
@@ -48,12 +48,12 @@ flowchart LR
 - Follows the **MCP authorization spec** (OAuth 2.1 + PKCE, dynamic client registration, protected resource metadata) so any compliant client can pop a sign-in page and connect.
 
 ## 6. Data model
-`users`, `identities`, `agent_clients`, `agent_permissions`, `entries`, `entry_versions` (append-only), `change_log` (monotonic sequence used as sync cursor), `oauth_*` (tokens stored hashed).
+`users`, `identities`, `agent_clients` (with tags), `entry_scopes`, `agent_permissions`, `entries`, `entry_versions` (append-only), `change_log` (monotonic sequence used as sync cursor), `oauth_*` (tokens stored hashed).
 
 ## 7. MCP tools
 | Tool | Purpose |
 |---|---|
-| `get_profile` | Full active profile at session start, grouped by category, plus a sync cursor |
+| `get_profile` | Profile for the calling agent at session start: persona, rules and pinned memories first, trimmed by importance to a size budget (default ~4k tokens, adjustable), remaining items listed by title for `search_entries`; plus a sync cursor |
 | `search_entries` | Filter by category, keyword, tag |
 | `get_entry` | Read one entry |
 | `create_entry` / `update_entry` / `delete_entry` | Versioned writes; rules and skills land as pending |
@@ -63,6 +63,11 @@ flowchart LR
 | `sync_since` | All changes after a cursor, for mid-session real-time sync |
 
 Also an MCP **resource** (`brain://profile`) with change notifications for clients that subscribe; others poll `sync_since`. Tool descriptions tell agents to call `get_profile` at session start and write back what they learn.
+
+### 7.1 Profile size and scope
+- No storage quota, but the profile has a size budget so it never floods an agent's context.
+- Connected agents can be tagged in the console; `get_profile`, `search_entries` and `sync_since` return only entries in scope for the calling agent.
+- Pinned, importance and scope are editable in the console; agents may suggest them on write.
 
 ## 8. Safety
 - Source agent recorded on every entry and version.
