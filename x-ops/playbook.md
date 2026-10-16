@@ -317,3 +317,13 @@ Who this helps: {…}
 7. Chinese AI news accounts using the same format get 2–3K impressions; the English AI audience is far bigger. Stay English.
 8. Cadence: testingcatalog posts 15–25/day. Under the free tier's cap, aim for 8–10 originals/day.
 Action: always use the COMPANY:/BREAKING opener, always attach a screenshot or short clip, make verdicts sharper, and drop A/B question posts.
+
+## 0–1k follower stage research (运营复盘, browser, Oct 16, 2026; 11 accounts, 5 traced back to their first 3 months; raw notes in research/fupan-2026-10-16/)
+1. 0–1k growth comes mainly from replies, not originals: 87% of shao__meng's early posts were replies, and their 1–4K impressions came from replying under big accounts (https://x.com/shao__meng/status/1757312998035857708).
+2. Substantive long replies beat agreement: a long opinion reply got 26 likes/2.7K (https://x.com/shao__meng/status/1753720436381372440), while "LFG/Thanks sir" replies got single-digit impressions.
+3. Low impressions on a new account's originals are normal: ziwenxu_'s early posts got 25–50 each, victor_explore's 300–700. Our 10–29 is in the normal range, so don't change direction over it.
+4. Before taking off, these accounts narrowed their positioning once and then stuck to one format (notjazii went from NFTs to AI hooks with images; victor_explore to "building ai agents in public").
+5. Speed on hot topics, plus Spaces and asking openly for follows (latentspacepod's Llama 2 same-day recap).
+6. What really goes viral is exclusive or hands-on content, not reposting (legit_api's own benchmark screenshots got 260K–540K).
+7. Frequency isn't the key: successful accounts post anywhere from under 1 to 8 times a day. Stable format and timely replies matter more.
+Action: in the 0–1k stage, put most effort into fast, substantive replies; keep originals in one fixed format; prioritize hands-on or screenshot content.
