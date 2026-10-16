@@ -306,3 +306,14 @@ Who this helps: {…}
 5. A specific question about how something works gets the author to reply (https://x.com/fchollet/status/2109100717596381405), but few likes. Use it to build a relationship.
 6. Well-known accounts are ranked first in replies, so a small account is more visible under mid-size AI posts.
 7. Snark, piling on, and "thanks" replies get about 0 likes.
+
+## Original post format research (丽丽, browser, Oct 16, 2026; ~30 top posts from 10 high-impression accounts, raw notes in research/2026-10-16-original-format-raw.md)
+1. Open with "COMPANY : one-line news". Leaks and beta tests outperform ordinary launches (testingcatalog 859 likes/73K https://x.com/testingcatalog/status/2109633920568377583).
+2. A screenshot or slide plus one line of context is the top-volume original (https://x.com/AndrewCurran_/status/2108992955382210632, 4.1M; https://x.com/Hesamation/status/2110675668161659043).
+3. For product/tool posts, a ~10s screen recording plus a one-line caption (https://x.com/nutlope/status/2108989553872646390, 168K).
+4. A short, bold verdict works without length (https://x.com/natolambert/status/2110787899784601698).
+5. "X is rolling out / testing …" plus a screenshot (btibor91); the link in the main post isn't fatal (19K).
+6. Save long posts for "who said what + why it matters" news.
+7. Chinese AI news accounts using the same format get 2–3K impressions; the English AI audience is far bigger. Stay English.
+8. Cadence: testingcatalog posts 15–25/day. Under the free tier's cap, aim for 8–10 originals/day.
+Action: always use the COMPANY:/BREAKING opener, always attach a screenshot or short clip, make verdicts sharper, and drop A/B question posts.
