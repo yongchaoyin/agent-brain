@@ -1,351 +1,432 @@
-username,name,followers,tweet_count,bio,category
-elonmusk,Elon Musk,241481714,110321,https://t.co/ZdBx5WABYx,other
-tim_cook,Tim Cook,20473073,1958,Apple Executive Chairman,other
-sundarpichai,Sundar Pichai,11929189,2812,"CEO, Google and Alphabet",founder/builder
-satyanadella,Satya Nadella,9658864,2399,Chairman and CEO at Microsoft,founder/builder
-CoinMarketCap,CoinMarketCap,7100808,52964,"The world’s most trusted source for crypto data & insights. Build with #CMC Tools: API, AI, and Agent Skills https://t.co/LThANdXIGV",other
-pmarca,Marc Andreessen 🇺🇸,6664505,15457,"You’re not talking to someone who woke up a loser. That loser attitude, that loser premise makes no sense to me.",other
-sama,Sam Altman,6381876,7999,The mission of OpenAI is to ensure that AGI benefits all of humanity,other
-lexfridman,Lex Fridman,5541699,4025,Host of Lex Fridman Podcast. Interested in robots and humans.,other
-paulg,Paul Graham,5445276,55032,,other
-OpenAI,OpenAI,5439188,2185,OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA,creative/genAI
-karpathy,Andrej Karpathy,4369190,10161,,other
-naval,Naval,4117172,27197,Incompressible,other
-MarioNawfal,Mario Nawfal,3953383,272609,"Largest Show on X (Live Daily 10am-8pm ET) | 24x7 Writers Covering News | Investor 700+ Startups | Founder @ibcgroupio , https://t.co/sw7OQ5KOqu",news/newsletter
-github,GitHub,2720664,10984,"The AI-powered developer platform to build, scale, and deliver secure software.",engineer
-GoogleAI,Google AI,2473834,3373,Making AI helpful for everyone. Show thinking ↓,other
-chamath,Chamath Palihapitiya,2457749,13879,Social Capital 8090   God is in the details.,other
-demishassabis,Demis Hassabis,1955492,3256,Nobel Laureate. Co-Founder & Chair @GoogleDeepMind; Chief Scientist of Alphabet. Founder & CEO @IsomorphicLabs. Building the future...,research
-AndrewYNg,Andrew Ng,1929869,2030,"Co-Founder of Coursera; Stanford CS adjunct faculty. Former head of Baidu AI Group/Google Brain. #ai #machinelearning, #deeplearning #MOOCs",founder/builder
-claudeai,Claude,1905929,744,"Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",other
-AnthropicAI,Anthropic,1807710,1722,"We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",research
-Jason,@jason,1793765,73428,Host: @twistartups @theallinpod @thisweeknai; I invest in 100 startups a year @launch & @founderuni jason@calacanis.com for life,founder/builder
-ijustine,iJustine,1787399,68752,Tech Reviewer 🎮 Podcast: @samebrain 💜 Jiu Jitsu || ijustine.eth 🪙 ijustine.sol 🐷 @jpig,other
-DavidSacks,David Sacks,1772274,14527,"Tech founder & investor @Craft_Ventures @theallinpod. Co-Chair, President’s Council of Advisors on Science & Technology.",founder/builder
-Mrwhosetheboss,Arun Maini,1709374,5925,23M YouTube subs - Let’s build the greatest tech community on the planet 🌏,other
-theinformation,The Information,1598381,41735,The most authoritative publication tech execs and founders read daily.   Sign up: https://t.co/V8AtmraYaA,founder/builder
-GoogleDeepMind,Google DeepMind,1571596,4589,The engine room of @Google. Building AI safely and responsibly to solve the world’s most complex problems. Join us: https://t.co/jUHQA27iBL,founder/builder
-kaifulee,Kai-Fu Lee,1333520,3893,"#AI Expert, CEO of @01ai_yi 零一万物, Chairman of @sinovationvc 创新工场, former President of Google China, Author of AI Superpowers, AI 2041, AI Native (Sep 2026)",founder/builder
-ylecun,Yann LeCun,1327796,27782,"Founder/Chair, AMI Labs; Professor, NYU; Partner, 224 Ventures; Ex-Chief AI Scientist, Meta. Researcher in AI, ML, Robotics, etc. ACM Turing Award Laureate.",research
-SahilBloom,Sahil Bloom,1188447,78474,NYT Bestselling Author of The 5 Types of Wealth. Founder of Wild Roman. Gave up a grand slam on ESPN in 2012 and still waiting for it to land.,founder/builder
-mustafasuleyman,Mustafa Suleyman,1173352,2580,"CEO, @MicrosoftAI | Author: The Coming Wave | Past: Co-founder, @InflectionAI & @GoogleDeepMind",founder/builder
-AravSrinivas,Aravind Srinivas,1169866,9149,cofounder and ceo @perplexity_ai,founder/builder
-SawyerMerritt,Sawyer Merritt,1145962,110952,"EVs/space/tech. Bringing you the latest news in a single, easy-to-read feed. $TSLA & $SPCX investor, Model Y owner.",news/newsletter
-drfeifei,Fei-Fei Li,1094237,3122,"Cofounder/CEO @theworldlabs, Prof (CS @Stanford), Co-Director @StanfordHAI, #AI #SpatialIntelligence #GenAI #computervision #robotics #AI-healthcare",founder/builder
-gdb,Greg Brockman,1072143,6465,President & Co-Founder @OpenAI,founder/builder
-levelsio,@levelsio,976109,181614,💸https://t.co/sQ0aiU7v02 📸https://t.co/lAyoqmSBRX $86K/m 🎮https://t.co/tF49atJ396 $44K/m 🏡https://t.co/1oqUgfD6CZ $23K/m 👙@X $13K/m 🌍https://t.co/UXK5AFqCaQ $7K/m 🏩https://t.co/4p4dzTDVN6 $5K/m,other
-ilyasut,Ilya Sutskever,933202,1202,SSI @SSI,other
-adcock_brett,Brett Adcock,893606,8846,@figure_robot (AI robots)  @hark_labs (AI lab)  @cover_thz (weapon detection)  @flyArcher (flying cars),other
-AIatMeta,AI at Meta,868339,2819,"We're building the future of personal superintelligence to help people create, connect, and achieve more in life.",founder/builder
-DarioAmodei,Dario Amodei,850529,25,Anthropic CEO. https://t.co/qXHIf42jTl,founder/builder
-huggingface,Hugging Face,818950,14362,The AI community building the future. https://t.co/TpiXQMQ9rZ,founder/builder
-code,Visual Studio Code,818012,8827,The open source AI code editor,engineer
-alexandr_wang,Alexandr Wang,815022,3568,"chief ai officer @meta, founder meta superintelligence labs, founder @scale_ai. give everyone the adulthood they dreamed of in childhood",founder/builder
-vkhosla,Vinod Khosla,778388,9833,"entrepreneurship zealot, grounded technology possibilist, believer in the power of ideas, passionate about sustainability & impact; @Seahawks & @12s fan",other
-fchollet,François Chollet,747471,25549,Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.,founder/builder
-gregisenberg,GREG ISENBERG,738357,64410,"I drop startup ideas daily. Host @startupideaspod. CEO: @latecheckoutplz we build companies like @ideabrowser, @meetLCA, @boringmarketer etc",founder/builder
-ClementDelangue,clem 🤗,728938,31555,"Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",founder/builder
-WhaleInsider,Whale Insider,677235,11255,"Leading source for crypto, tech & AI news. DM for inquiries. RT ≠ endorsement. Not financial advice. No Telegram, beware of impersonators. @Kalshi partner.",news/newsletter
-geoffreyhinton,Geoffrey Hinton,674978,159,deep learning,other
-Scobleizer,Robert Scoble,607554,261814,"The automated life | San Francisco/Silicon Valley AI, robotics, BCIs | Ex-Microsoft, Rackspace, Fast Company | Wrote eight books about the future.",other
-rowancheung,Rowan Cheung,601080,12249,Founder of the world’s most read daily AI newsletter @therundownai. Sharing the latest developments in the world of artificial intelligence.,news/newsletter
-DrJimFan,Jim Fan,599186,4236,"NVIDIA Director of Robotics & Distinguished Scientist. Co-Lead of GEAR lab. Solving Physical AGI, one motor at a time. Stanford Ph.D. OpenAI's 1st intern.",research
-GeminiApp,Google Gemini,593644,15366,"The Gemini app turns research into reality, bringing frontier AI experiences like Omni, Nano Banana, and more to over a billion people.",research
-MSFTResearch,Microsoft Research,555228,10194,We advance science and technology to benefit humanity.,other
-_akhaliq,AK,533450,47627,"AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",research
-JeffDean,Jeff Dean,530645,9552,"Co-founder & CEO of Discovery Loop. Former Chief Scientist, Google. Helped build many Google products, TPUs, Gemini, TensorFlow, MapReduce, Bigtable, ...",research
-rasbt,Sebastian Raschka,526836,20345,"ML/AI research engineer. Ex stats professor. Author of ""Build a Large Language Model From Scratch"" (https://t.co/O8LAAMRzzW) & reasoning (https://t.co/5TueQKx2Fk)",research
-PyTorch,PyTorch,516986,3755,Tensors and neural networks in Python with strong hardware acceleration. PyTorch is an open source project at the Linux Foundation. #PyTorchFoundation,other
-cursor_ai,Cursor,490102,583,Coding agent for building ambitious software,founder/builder
-vercel,Vercel,463629,1961,Agentic Infrastructure for apps and agents.,other
-midjourney,Midjourney,462705,1719,A community supported research lab - exploring new mediums of thought and amplifying the imaginative powers of the human species.,research
-OpenAIDevs,OpenAI Developers,457833,2941,Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq,founder/builder
-Suhail,Suhail,450085,21264,"Starting something new. Past: CEO & Founder @mixpanel Pizzatarian, engineer, music maker",founder/builder
-wesbos,Wes Bos,443938,100720,Fullstack Dev ❯ @SyntaxFM  Youtuber ❯  AI Enjoyer  ❯  Hardware Tinkerer  ❯  Posts 🔥 Tips,engineer
-hardmaru,hardmaru,442139,25915,Co-Founder and CEO @SakanaAILabs 🎏,founder/builder
-hasantoxr,Hasan Toor,436934,77451,AI & Tech Educator • Sharing insights & practical ways to use AI & Tech Tools for you & your daily business,other
-addyosmani,Addy Osmani,426365,29362,Claude Code @anthropicai,engineer
-PeterDiamandis,"Peter H. Diamandis, MD",421026,18774,Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshots_pod,other
-emollick,Ethan Mollick,404217,37200,"Professor @Wharton studying AI. New book, Co-Existence, coming October 20. Preorder here: https://t.co/hsDYf1xU9K Substack: https://t.co/UIBhxu4bgq",research
-mattshumer_,Matt Shumer,397971,11658,AI whisperer. Investor in @GroqInc @Etched @Spawn @DaytonaIO @OpenRouter + more. Prev: CEO @HyperWriteAI | AI @AlphaSchool  Press: mattshumermedia@gmail.com,founder/builder
-bindureddy,Bindu Reddy,395708,18924,"CEO of @abacusai  - a powerful AI Agent and SuperComputer - Build your company on Abacus AI, ex-AWS & Google",founder/builder
-OfficialLoganK,Logan Kilpatrick,381347,11747,"Member of technical staff, working on Gemini, @GoogleAIStudio, the Gemini API, & Kaggle. My views!",other
-Kimi_Moonshot,Kimi.ai,366679,456,Built by Moonshot AI to empower everyone to be superhuman.  PR: globalpr@moonshot.ai DC: https://t.co/wBsBTn6fmE,other
-Pirat_Nation,Pirat_Nation 🔴,365039,31790,Tech & gaming analysis with the latest updates | TV & Films | alt: @piratnation | Official @skinscom Affiliate Business: piratnation@protonmail.com,creative/genAI
-mranti,Michael Anti,357682,228411,"安替, Globus, Global Research. A veteran journalist on International Affairs, Harvard Nieman Fellow '08, TEDGlobal Speaker.",research
-DeepLearningAI,DeepLearning.AI,353715,4358,We are an education technology company with the mission to grow and connect the global AI community.,other
-MIT_CSAIL,MIT CSAIL,351581,6779,MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu  Check out the latest CSAIL content ⬇️,creative/genAI
-NVIDIAAI,NVIDIA AI,350089,13900,Teaching your AI new tricks.,other
-EMostaque,Emad,346395,21464,"Building open source AI we own    Founder @ii_posts, @StabilityAI  Consistent inference is possible.",founder/builder
-DeryaTR_,"Derya Unutmaz, MD",343296,40371,"Professor scientist, immunologist, biomedical engineer & Biohacker. ALL IN ON AI, SI & ROBOTICS! #Longevity #BioAI #Codex #Space #Scifi #Singularity #trekkie 🖖",research
-kentcdodds,Kent C. Dodds 🐨,331299,170758,"Husband, 6x Dad, Latter-day Saint, Dev, Educator 🐨 https://t.co/HBYOHHdSTK 👾 https://t.co/oUPXXU0bMW 📺 https://t.co/os3TLKtSJo 🌌 https://t.co/2Zzqk7QiI2",engineer
-jeremyphoward,Jeremy Howard,330762,65646,🇦🇺 Co-founder: @AnswerDotAI/@FastDotAI ; Prev: Professor@UQ; @kaggle founding president; founder @fastmail/@enlitic/… https://t.co/16UBFTX7mo,research
-soumithchintala,Soumith Chintala,328694,4065,Building new things @thinkymachines.  Also dabble in robotics at NYU.  Cofounded @PyTorch. AI is delicious when it is accessible and open-source.,founder/builder
-omarsar0,elvis,324647,20804,Building the frontier @dair_ai • Prev: Meta AI | PaperswithCode | Elastic | PhD,research
-businessbarista,Alex Lieberman,316780,27427,"Family first (husband & girl dad) Founder second (@tenex_labs, @morningbrew, @storyarb, @youdistro) Enterprise Applied AI Partner 👇",founder/builder
-Yuchenj_UW,Yuchen Jin,306421,14460,"Cooking fun AI systems & products @databricks. Prev: co-founder & CTO @ Hyperbolic, OctoAI (acquired by @nvidia) Apache TVM, PhD @ University of Washington.",research
-lilianweng,Lilian Weng,301443,221,MTS @OpenAI; Author of Lil'Log,other
-berkeley_ai,Berkeley AI Research,297431,1666,"We're graduate students, postdocs, faculty and scientists at the cutting edge of artificial intelligence research.",research
-runwayml,Runway,293876,3123,Building AI to simulate the world. We're hiring: https://t.co/Grh4tTfq8y,founder/builder
-akshay_pachaar,Akshay 🚀,290682,21455,"Simplifying LLMs, AI Agents, RAG, and Machine Learning for you! • Co-founder @dailydoseofds_• BITS Pilani • 3 Patents • ex-AI Engineer @ LightningAI",founder/builder
-petergyang,Peter Yang,287886,29698,Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6,other
-alex_prompter,Alex Prompter,283781,31786,"Sharing AI Prompts, Systems, Tips & Tricks  Human + AI = ⚡Superpowers",other
-NousResearch,Nous Research,282931,4699,A bunch of nerds making progress  https://t.co/vrD0aDIGDQ,other
-StanfordAILab,Stanford AI Lab,274886,3610,"The Stanford Artificial Intelligence Laboratory (SAIL), a leading #AI lab since 1963. ⛵️🤖 Emmy-winning video: https://t.co/lV9smZTC1m",creative/genAI
-AlibabaGroup,Alibaba Group,269793,10094,"Driven by passion and imagination, we are at the forefront in AI, Cloud, and e-commerce. Join us on this journey! 🚀✨",other
-heyBarsee,Barsee 🐶,268582,15357,Daily tweets on the latest AI and Tech developments to stay ahead of the curve | Founder of https://t.co/bpf7Dytcqj,founder/builder
-RoundtableSpace,0xMarioNawfal,268172,45432,@MarioNawfal’s Crypto & AI Account,other
-StabilityAI,Stability AI,263074,892,We’ll help you make it like nobody’s business. Multimodal media generation and editing tools to get your idea to production. Self-deploy? 👍 Need a partner? 🤝,creative/genAI
-dotey,宝玉,259213,34724,"AI Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",engineer
-deedydas,Deedy,258354,17029,"Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Inception, Goodfire, PrimeIntellect  prior: Glean, Google Search. Cornell CS.",creative/genAI
-GaryMarcus,Gary Marcus,253308,63881,"OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",other
-elder_plinius,Pliny the Liberator 🐉󠅫󠄼󠄿󠅆󠄵󠄐󠅀󠄼󠄹󠄾󠅉󠅭,250186,17880,⊰•-•⦑ latent space steward ❦ prompt incanter 𓃹 hacker of matrices ⊞ breaker of markov chains ☣︎ si danger researcher ⚔︎ bt6 ⚕︎ building @LYSIOS ⦒•-•⊱,research
-venturetwins,Justine Moore,248464,13062,"Partner @a16z AI 🤖 and twin to @omooretweets | Investor in @elevenlabs, @bfl_ai, @hedra_labs, @krea_ai, @heyglif, @ShizukuAILabs, @wabi, @TownAI",creative/genAI
-higgsfield_ai,Higgsfield AI 🧩,248404,50416,The AI-native creative suite,creative/genAI
-LinusEkenstam,Linus ✦ Ekenstam,245028,63192,"Everything AI + Robotics, deep dives, hottakes. I help business and individuals overcome in the age of AI. Optimist collab@linusekenstam.com for partnerships 🤝",creative/genAI
-ESYudkowsky,Eliezer Yudkowsky ⏹️,242996,34143,The original AI alignment person.  Understanding the reasons it's difficult since 2003.  This is my serious low-volume account.  Follow @allTheYud for the rest.,other
-AiBreakfast,AI Breakfast,242086,3284,The latest rumors and developments in the world of artificial intelligence.  DM to include your AI project in the email newsletter with 100k subscribers!,news/newsletter
-Replit,Replit ⠕,239801,14736,"Idea to app, fast. Create beautiful, modern web applications at the speed of thought with the power of Replit's AI Agent.",other
-goodside,Riley Goodside,234747,5005,"Mostly screenshots of chatbots. Formerly: Google DeepMind, Scale.",other
-arena,Arena.ai,234293,4152,Where AI meets the real world. We measure and advance the frontier of AI through community-driven evaluation. We’re hiring → https://t.co/XBZCrsdD77,other
-IBMResearch,IBM Research,231692,20348,Inventing what's next in science and technology. 🌍🔬  Subscribe to our newsletter: https://t.co/kyfsvQNzsV,news/newsletter
-TheRundownAI,The Rundown AI,229839,4953,"The world’s largest AI newsletter keeping 2,000,000+ readers ahead of the curve. Get the latest AI news and how to apply it in 5 minutes. By @rowancheung",news/newsletter
-CaseyNewton,Casey Newton,229640,10077,"Email salesman at Platformer and podcast co-host at Machine Gods, coming this October in partnership with NPR.",creative/genAI
-mckaywrigley,Mckay Wrigley,228497,20005,I build & teach AI stuff.,other
-GoogleLabs,Google Labs,227429,2275,Google’s home for our latest AI tools and experiments.,other
-Figure_robot,Figure,226107,204,Figure is an AI Robotics company building the world's first commercially viable autonomous humanoid robot.,founder/builder
-SchmidhuberAI,Jürgen Schmidhuber,224124,499,"OG of: P and T in ChatGPT, recursive self-improvement, neural distillation, GAN/World Model, deepest learning. Co-authored most-cited AI paper of 20th century",research
-MistralAI,Mistral AI,223313,199,Frontier AI in your hands. Get work done with @MistralVibe at https://t.co/JsGnCVMUFq.,other
-OriolVinyalsML,Oriol Vinyals,222998,1483,"Co-founder & CTO of Discovery Loop; Partner, 224 Ventures  Past: Google DeepMind VP, Gemini TL (1.0 to 4.0), Alpha{Fold,Star,Code}, seq2seq, distillation",founder/builder
-tom_doerr,Tom Dörr,222049,57945,"Follow for posts about GitHub repos, DSPy, and agents Subscribe for top posts DM to share your AI project (Due to volume of DMs I'll prioritize subscribers)",other
-itsPaulAi,Paul Couvert,220674,18106,AI and tech Educator – Build better and faster using AI and No-Code – https://t.co/H8KvD12qNc founder – Merging digital and physical worlds (wip),founder/builder
-swyx,swyx,202972,78500,"achieve ambition with intentionality, intensity, integrity & insanity.  affiliations: - @smol_ai - @dxtipshq - @cognition - @aidotengineer - @latentspacepod",engineer
-bentossell,Ben Tossell,201793,31735,"can't code, won't code. builder, investor (dev tools/infra) @supabase @etched @factoryAI @sfcompute. 3 👶 under 4.",engineer
-LumaLabsAI,Luma,197349,6183,Creative Agents That Make You Prolific. Try Luma → https://t.co/UA4zpCzgLT,creative/genAI
-arankomatsuzaki,Aran Komatsuzaki,196324,6934,"Sharing AI research. Early work on AI (GPT-J, scaling, MoE). Ex ML PhD (GT) & Google.",research
-HilzFuld,Hillel Fuld,196029,230393,"Proud Zionist/Jew, Global Speaker (50+ cities), Tech Columnist, Advisor (Google, Microsoft, Oracle), Dad x5. Banned from Australia. We will dance again! 🇮🇱💪",other
-AISafetyMemes,AI Notkilleveryoneism Memes ⏸️,193123,20123,"Techno-optimist, but AGI is not like the other technologies.  Step 1: make memes. Step 2: ???  Step 3: lower p(doom)",other
-FinanceYF5,AI Will,192561,51165,增长顾问 | AI行业分析师，Learn in Public,other
-cognition,Cognition,190543,1023,"Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/4Ss9hvpjRG",founder/builder
-Svwang1,硅谷王川 Chuan,188976,9864,"Twitter is my Chain-Of-Thought. Reading history is my end-to-end training. Not financial advice. 一言不合就拉黑。评论区只对订阅用户开放。  Runner: 1 km, 3'49; 5 km, 23'07",other
-OpenAINewsroom,OpenAI Newsroom,186267,169,The official newsroom for @OpenAI.,news/newsletter
-oran_ge,Orange AI,184849,137558,Cola/ListenHub 创始人 & CEO | ex MiniMax 海螺 AI PM,founder/builder
-heyshrutimishra,Shruti,181868,43084,Reality is programmable | Building digital leverage w/ AI | Stay ahead with Superintelligence & Robotics developments  Business inquiries: hey@shrutimishra.co,founder/builder
-polynoamial,Noam Brown,181196,1769,"Researching reasoning @OpenAI | Co-created Libratus/Pluribus superhuman poker AIs, CICERO Diplomacy AI, and OpenAI o-series 🍓 reasoning models",research
-op7418,歸藏(guizang.ai),180785,26186,"关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）  歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",news/newsletter
-kevinroose,Kevin Roose,176251,1288,"Tech journalist, author of The AGI Chronicles, co-host of @MachineGodsPod, p(doom) available upon request.",other
-nickfloats,Nick St. Pierre,175065,17977,Unofficial Midjourney shill. Playing with AI & sharing learnings.,other
-timnitGebru,@timnitGebru (@dair-community.social/bsky.social),173353,45795,Author: Deep Unlearning (preorder at https://t.co/xlTTJu4wSs) Founder: The Distributed AI Research Institute (https://t.co/A44CkQldYv),research
-chrmanning,Christopher Manning,171241,3083,Founder @stanfordnlp & cs224n—Senior Fellow @StanfordHAI—Prof. CS & Linguistics @Stanford—GP @aixventureshq—MTS @moonlake—Australian🇦🇺—Do #NLProc & #AI 👋,founder/builder
-dylan522p,Dylan Patel,166282,14171,"SemiAnalysis AI Infrastructure Research and Consulting DMs are open for consulting, quotes, or to talk shop, Opinions my own",research
-Zai_org,Z.ai,165792,1262,"The AI Lab behind GLM models, dedicated to inspiring the development of AGI to benefit humanity. https://t.co/gOw7WpwkJt https://t.co/ot9sGVXU8x",engineer
-Plinz,Joscha Bach,163241,70423,"Upon the altar of God, eternal hostility against every form of tyranny over the mind of man",other
-ch402,Chris Olah,161793,5556,"Reverse engineering neural networks at @AnthropicAI. Previously @distillpub, OpenAI Clarity Team, Google Brain. Personal account.",engineer
-ArtificialAnlys,Artificial Analysis,160463,3641,Independent analysis of AI,other
-rohanpaul_ai,Rohan Paul,159991,82564,"Compiling in real-time, the race towards AGI.  🗞️ Get my daily AI analysis newsletter to your email  👉 https://t.co/6LBxO81tfN",news/newsletter
-giffmana,Lucas Beyer (bl16),154943,29501,"Researcher (now: Meta. ex:  OpenAI, DeepMind, Brain, RWTH Aachen), Gamer, Hacker, Belgian. Anon feedback: https://t.co/xe2XUqkKit ✗DMs → email",research
-alexalbert__,Alex Albert,152655,2312,Research @AnthropicAI. Opinions are my own!,research
-jackclarkSF,Jack Clark,152531,32391,"@AnthropicAI, writer @ Import AI.   Past: @openai, @business @theregister.  Neural nets, distributed systems, weird futures.",other
-pika_labs,Pika,150611,3092,Building AI for the future of creative work.,founder/builder
-AngryTomtweets,Angry Tom,150195,22559,Consultant & AI educator | On a mission to build an empire with artificial intelligence,creative/genAI
-character_ai,Character.ai,147780,548,"Unleash your imagination—chat, create, explore.",other
-EHuanglu,el.cine,147321,36815,AI consultant | film director | sharing practical ways to use AI for you and your business. all views are my own.,creative/genAI
-thealexbanks,Alex Banks,146036,18344,Building a better future with AI @thesignalai_,founder/builder
-janleike,Jan Leike,142243,802,AI research @AnthropicAI. Previously OpenAI & DeepMind. Optimizing for a post-AGI future where humanity flourishes. Opinions aren't my employer's.,research
-SakanaAILabs,Sakana AI,140902,1438,"Building Frontier AI in Japan  Try Sakana Chat, Translate, Marlin, Namazu, Fugu 🐡 https://t.co/stLdPSz1Y7",founder/builder
-jxnlco,jason,138611,39447,vibes @openai,other
-Kling_ai,Kling AI,137490,3889,Join KLING AI Community💫 Discord:https://t.co/kUVSFwBlEu  TikTok:https://t.co/J7oMx5kPxn  IG:https://t.co/DDAKgGvLqh,other
-pmddomingos,Pedro Domingos,136598,27114,"Professor of computer science at UW and author of '2040' and 'The Master Algorithm'. Into machine learning, AI, and anything that makes me curious.",research
-hwchase17,Harrison Chase,134671,17697,@LangChain  Always hiring: https://t.co/D5Ut3loFO7,other
-ssi,SSI Inc.,133529,6,A straight shot to safe superintelligence. Join us https://t.co/hHla3vusDE.,other
-random_walker,Arvind Narayanan,132411,13436,"Princeton CS prof and Director @PrincetonCITP.  Coauthor of ""AI Snake Oil"" and ""AI as Normal Technology"". https://t.co/ZwebetjZ4n Views mine.",other
-dr_cintas,Alvaro Cintas,132310,15096,"Educating about AI, Cybersecurity and Technology | Professor | PhD in Computer Science & Engineering",research
-javilopen,Javi Lopez ⛩️,129269,32989,Founder at @Magnific_AI (acq. by @Magnific formerly @freepik),founder/builder
-fastdotai,fast.ai,128133,369,Deep learning R&D: https://t.co/cGBcDU8wJ9; Education: https://t.co/bNXBttRAuR; Software: https://t.co/0z7Ws3SHDt; Book: https://t.co/lVEDyioBtg; @math_rachel @jeremyphoward,other
-yoheinakajima,Yohei,126788,29039,"VC by day @untappedvc, builder by night: babyagi/@activegraphai. Build-in-public log: https://t.co/UdHHGbZba5",other
-percyliang,Percy Liang,126685,1361,"professor of computer science @Stanford @stanfordnlp, co-founder of @togethercompute, https://t.co/7R5THVnJ6u, @simile_ai, pianist",research
-_philschmid,Philipp Schmid,124920,6452,"Agents & Gemini API, MTS @GoogleDeepMind | prev: Tech Lead at @huggingface, AWS ML Hero 🤗 Sharing my own views and AI News 🧑🏻‍💻 https://t.co/7IosdlO6RA",news/newsletter
-MiniMax_AI,MiniMax (official),123944,1997,Code: @MiniMaxAgent  MiniMax Design: @Hailuo_AI API: https://t.co/fHRdSV73Hr Token Plan: https://t.co/BDCycxdS9Y,engineer
-boltdotnew,bolt.new,123202,12354,Build without boundaries. Create stunning web apps that scale to millions by collaborating with AI.,other
-Saboo_Shubham_,Shubham Saboo,122679,21468,"Senior AI Product Manager @google | Open Source Awesome LLM Apps Repo (#1 GitHub with 140,000+ stars) | Author of books on GPT-3 & Neural Search | My views",other
-tldrnewsletter,TLDR Newsletter,122531,4952,"Everything in tech, without the noise Tech Newsletter: https://t.co/7gjBLYeOxY | AI Newsletter: https://t.co/UsowDlp8JM | Curated by @tldrdan",news/newsletter
-kevinweil,Kevin Weil 🇺🇸,121995,20871,"BoD @Cisco @Stoke_Space LTC @USArmyReserve Ex CPO+Science @OpenAI, Pres @Planet, Head of Product @Instagram @Twitter ❤️ @elizabeth ultramarathons kids cats math",other
-v_shakthi,Shakthi,121885,482886,"Enterprise AI Architect | Helping C-Suite Leaders De-Risk AI Platforms, Optimize Token Economics & Build Scalable Agentic Architecture. Survived a heart attack.",creative/genAI
-cohere,Cohere,121703,2194,"AI for Empowerment. We build private systems for enterprise, and open-source models for builders, to help people lead better lives.",other
-llama_index,LlamaIndex 🦙,121459,4063,Turn any doc into AI-ready context. The AI research lab for document parsing and extraction. Developer-first APIs.  LlamaParse: https://t.co/yQGTiRSfFL,research
-krea_ai,Krea,120527,4498,delightful creative tools with AI inside – we're hiring! https://t.co/mWn3JiDT0n,creative/genAI
-icreatelife,Kris Kashtanova,119419,113280,Human creator | Principal AI Evangelist @Adobe,other
-docmilanfar,Peyman Milanfar,118288,8729,Distinguished Scientist at Google. National Academy of Engineering. Computational Imaging ∩ AI. Posts are personal opinions,research
-LiorOnAI,Lior Alexander,117587,3887,Founder @AlphaSignalAI (300k devs) • Ex-MILA researcher focusing on solving the explosion of knowledge in AI.,research
-JonathanRoss321,Jonathan Ross,115058,1560,"Double the World's AI Compute Chief Software Architect @ Nvidia, Founder of Groq, Creator of the LPU & Google's TPU",founder/builder
-_jasonwei,Jason Wei,114797,1295,"ai researcher @meta, past: openai, google 🧠",research
-AmandaAskell,Amanda Askell,113954,5274,Philosopher & ethicist trying to make AI be good @AnthropicAI. Personal account. All opinions come from my training data.,other
-alliekmiller,Allie K. Miller,110429,10906,"#1 Most Followed Voice in AI Business (2M followers). Former Amazon, IBM. Time100 AI. Fortune 500 and startup AI advisor, public speaker. AI-First courses in 🔗",creative/genAI
-ammaar,Ammaar Reshi,109904,9466,Lead Product + Design @GoogleAIStudio // Exploring AI and sharing everything I learn // My views • 🇵🇰 🇺🇸,creative/genAI
-AndrewCurran_,Andrew Curran,108646,33782,"🏰 - I write about AI, mostly. Expect some strange sights.",other
-lxfater,铁锤人,107835,14402,我在用 AI 协助我创业， 维护 3w star 项目，写过 1200w 浏览文章，商务联系： 微信：tiechuiren101，邮件：lxfater@gmail.com,other
-natolambert,Nathan Lambert,105435,12249,"Open model research, founder, director @trillium_labs. Prev. co-led Olmo at Ai2. Writes @interconnectsai, wrote https://t.co/alRXKINTwE",research
-hey_madni,Madni Aghadi,103777,12995,"Interesting things in AI, tech + across the internet  building @griddagency, @theclaudekit + more soon",founder/builder
-nutlope,Hassan,102652,14016,"Head of Developer Experience @togethercompute. Building open source AI apps like https://t.co/f8hbvXOFaN, https://t.co/SmHisRTtnp, & https://t.co/hs63SlHxjw.",founder/builder
-abacusai,Abacus.AI,102094,4183,A powerful AI Agent and SuperComputer - Build your company on  Abacus AI and ChatLLM - Access to 100+ AI models,other
-techhalla,TechHalla,101659,101233,AI Content Creator & Educator | Practical workflows & tutorials that actually work | Helping creators master AI daily,other
-UnslothAI,Unsloth AI,101007,798,Run and train models locally with the Unsloth Desktop app. 🦥 https://t.co/2kXqhhvdCD,other
-_IamAlam,IamAlam,95342,67886,worked with 1000+ ai TOOLS ❗️dm/mail for PROMO ❗️COLLAB   👉 heyalam.ai@gmail.com,other
-merettm,Jakub Pachocki,94234,52,OpenAI,other
-AmazonScience,Amazon Science,92032,7641,The latest news and research from Amazon's science community. #AmazonScience,news/newsletter
-iScienceLuvr,"Tanishq Mathew Abraham, Ph.D.",91699,21941,CEO @SophontAI | Founder @MedARC_AI | PhD at 19 (2023) | ex Research Director Stability AI |  Biomed. engineer @ 14 | TEDx talk➡https://t.co/xPxwKTq6Qb,research
-Hesamation,ℏεsam,91051,7908,AI Engineering / Research / Open Source / CrusaderBench: https://t.co/Ib0DkhWkEm,research
-fofrAI,fofr,90584,13388,Whispering to models at Google DeepMind,other
-julien_c,Julien Chaumond,89573,17913,"Co-founder and CTO at @huggingface 🤗. ML/AI for everyone, building products to propel communities fwd. @Stanford + @Polytechnique",founder/builder
-TheTuringPost,Turing Post (Ksenia Se),88782,20168,"On X — we follow important research papers and explain ideas behind it. In the newsletter, we connect the dots between AI’s past, present, and future ⬇️",news/newsletter
-heyrobinai,Robin Delta,87291,38103,I help you make money & get more work done with AI tools ✉️ hey@robindelta.com,other
-allen_ai,Ai2,86791,4007,Breakthrough AI to solve the world's biggest problems.  › Join us: https://t.co/MjUpZpKi8b › Newsletter: https://t.co/k9gGznrVGL,news/newsletter
-huangyun_122,黄赟,86161,10876,Every great AI journey starts with a single Prompt vx: huangyun_122,creative/genAI
-_KarenHao,Karen Hao,86021,3425,NYT bestselling author of EMPIRE OF AI: https://t.co/wh5mCWc2mo. ai reporter. american national magazine award winner. in @MorePerfectUS @theatlantic @wsj @techreview,other
-maxifirtman,Maximiliano Firtman,85767,124152,"Programador, Profesor, Periodista y Autor. 🟢En @codemiadot enseñando IA sin humo. OpenAI Codex Ambassador. Google Developer Expert.  👉Dev in English @firt",engineer
-kaimarstonai,Kai,85077,192,"I test AI so you don't have to. Tools, experiments & ideas shaping what's next. 📩DM/Collab: kaimarston.collab@gmail.com",other
-markchen90,Mark Chen,83629,471,Chief Research Officer at @OpenAI. Coach for the USA IOI Team.,research
-Barret_China,Barret李靖,83462,2497,AI Engineer | Lifelong Learner | Dad of 2 | Cloud Native | Sharing insights and experiences | 小胡子哥，一个有趣的灵魂,engineer
-mmitchell_ai,MMitchell,83043,22297,Interdisciplinary researcher focused on shaping AI towards long-term positive goals. ML & Ethics.   Similar content in the Skies (this bird has flown).,research
-ai_for_success,AshutoshShrivastava,82099,83618,"Post about latest AI news, tools, tutorials and memes.",news/newsletter
-cline,Cline,81178,4078,"The open source coding agent that takes over your editor, terminal, and browser to complete work autonomously.  npm i -g cline",engineer
-testingcatalog,🚨 AI News | TestingCatalog,80398,31537,"Reporting AI nonsense. Latest AI News on AI Agents, Model Releases, Tools, Leaks, and Rumors 🗞️",news/newsletter
-_avichawla,Avi Chawla,79032,5393,"Daily tutorials and insights on DS, ML, LLMs, and RAGs • Co-founder @dailydoseofds_ • IIT Varanasi • ex-AI Engineer @ MastercardAI",founder/builder
-Miles_Brundage,Miles Brundage,78906,67774,"AI policy researcher, @lfschiavo wife guy, Executive Director of @AVERIorg, Substacker, fan of animals and sci-fi, views my own",research
-CuiMao,CuiMao,78095,19014,AI Developer Github: https://t.co/CRpiUABbzd,engineer
-Sumanth_077,Sumanth,77517,11574,"Simplifying LLMs, ML & AI agents for you • Founder @devable_ai, building growth engines for AI-native devtools • Shipping open-source AI apps",founder/builder
-teortaxesTex,Teortaxes▶️ (DeepSeek 推特🐋铁粉 2023 – ∞),77422,134301,"We're in a race. It's not USA vs China but humans and AGIs vs ape power centralization. @deepseek_ai stan #1, 2023–Deep Time  «C’est la guerre.» ®1",other
-EpochAIResearch,Epoch AI,76522,2753,Investigating the trajectory of AI for the benefit of society.,other
-joshwoodward,Josh Woodward,75445,1642,"VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",other
-latestly,LatestLY,74918,580833,"https://t.co/UVDtEScSzz focuses on the What, When, Who and How of a trending story, and helps readers with analyses that go beyond the domain of news.",news/newsletter
-ideogram_ai,Ideogram,74236,1400,Think it. Make it. Own it. Research and product company building open frontier models for generative media and design.,research
-osanseviero,Omar Sanseviero,74010,11503,"MTS at @GoogleDeepMind  Building Gemini, Gemma, AI Studio and more. My views  ex-Chief Llama Officer @huggingface 🇵🇪🇲🇽",founder/builder
-haider1,Haider.,72120,35580,open intelligence for a decentralized future,other
-ChrisGPT,Chris,70256,37925,Agi 2029 - AI Insider / Reporter as featured in Axios • The Information • NYT • Techcrunch,other
-benparr,Ben Parr,69146,9883,"Building @Moltbook at @Meta Superintelligence Labs (acquired 2026). Author, @Captivology. Co-founded Moltbook, @OctaneAI & @TheoryForgeVC. Past: @Mashable @CNET",founder/builder
-Gorden_Sun,Gorden Sun,68772,9273,只发AI相关信息，个人维护的AI资讯日报（已连续日更3年）👇,news/newsletter
-BaiduResearch,Baidu Research,68444,1834,Baidu Research brings together top talent from around the world to focus on future-looking fundamental researches in #AI #deeplearning #machinelearning.,research
-AlchainHust,花叔,68047,2346,不会写代码的AI Native Coder，所有产品都是AI写的。 持有GitHub 10万+ 🌟  做过的事👇 → 女娲.skill — GitHub 30000+ stars → 小猫补光灯 — App Store 付费榜 Top 1 → Claude Code橙皮书 — 微信读书热搜第一,engineer
-CodeswithClara,Clara Bennett,67399,135929,AI & Tech Educator  | Simplifying AI tools & no-code workflows  Practical ways to use tech for creators & businesses | 📩 bussinessclarabennett@gmail.com,engineer
-lmstudio,LM Studio,66492,2744,Bionic is the agent for your computer https://t.co/YS5uiRQ7TI,other
-gefei55,哥飞,65503,4016,哥飞，出海鼓励师，SEO 专家，出海AI工具方向创业者。同名公众号写了五百多篇出海搞流量免费教程文章。从下方链接进入，八二折优惠加入哥飞的做网站赚美金养老社群⬇️,other
-aiDotEngineer,AI Engineer 🔜 CODE Summit🌉,65240,3491,"We gather the world's best AI engineers, leaders, founders, and researchers, and publish all their best work for free, through conferences and workshops. Help!",research
-sarahookr,Sara Hooker,65079,11194,"Building intelligence that evolves @adaption_ai. Built @Cohere_Labs, @GoogleBrain, @GoogleDeepmind. ML Efficiency, Multimodal\lingual.",founder/builder
-togethercompute,Together AI,64169,3195,"Accelerate inference, model shaping, and pre-training on a research-optimized platform.",research
-chaseleantj,Chase Lean,63239,6723,"MSc ML @ Tübingen, AI Engineer @SaaS_group. I share stuff about AI, also love dataviz and procedural generation",engineer
-genspark_ai,Genspark,62039,1753,All-in-one AI workspace. Autopilot your busywork.  Follow us: https://t.co/cmI2lV3w8h https://t.co/5d0Fwa6C9b,other
-reach_vb,Vaibhav (VB) Srivastav,61565,14587,founder mode @OpenAI | ex @huggingface | F1 fan | *opinions my own,founder/builder
-scaling01,Lisan al Gaib,61206,25454,lead them to paradise  LisanBench: https://t.co/vorVk7Oks6  Impressum & Datenschutz: https://t.co/lFLgiu9cqs,other
-HamelHusain,Hamel Husain,59981,17679,Evals Evals Evals -  https://t.co/Zrmp6LRd9c  About Me: https://t.co/P6WyeKkyTa,other
-YiTayML,Yi Tay,59914,4008,"research scientist @googledeepmind ✨♊,  model co-lead/captain of gemini deepthink imo gold medal 🥇, opinions are my own.",research
-mark_k,Mark Kretschmann,59443,84537,"SI (AI) & tech news from a software engineer's perspective. Coding, Omarchy Linux, open source & e/acc. More building, less doom.",news/newsletter
-AIatAMD,AI at AMD,59101,2029,"Advancing AI innovation together. Built with devs, for devs. Supported through an open ecosystem. Powered by AMD. #TogetherWeAdvance",engineer
-warpdotdev,Warp,59043,3294,"The open platform for automating development. Infrastructure to build, measure, and interact with agents across the SDLC",engineer
-FactoryAI,Factory,57546,1901,"Assembling @droid, the frontier software development agent. Available to anyone, with any model, in any IDE/terminal.",engineer
-Kantrowitz,Alex Kantrowitz,57414,56109,I write @BigTechnology and host Big Technology Podcast. Contributor @CNBC. Author of ALWAYS DAY ONE. alex.kantrowitz@gmail.com,other
-METR_Evals,METR,56696,711,We work to scientifically measure whether and when AI systems might threaten catastrophic harm to society. Nonprofit.,other
-emilymbender,@emilymbender.bsky.social,56543,30069,"Prof, Linguistics, UW // Faculty Director, CLMS // she/her // @emilymbender@dair-community.social & bsky // rep by @ianbonaparte",creative/genAI
-francoisfleuret,François Fleuret,54987,31200,"Research Scientist @meta (FAIR), Prof. @Unige_en, co-founder @neural_concept_. I like reality.",research
-CharaspowerAI,Pierrick Chevallier | IA,54596,33344,VFX artist. House of David S2 (Amazon). I test AI video in real pipelines and post what survives a job. Adobe Firefly Ambassadorr 🚀,creative/genAI
-hedra_labs,Hedra,53960,2293,A research and product lab building general visual intelligence to understand and move the world.,research
-TencentHunyuan,Tencent Hy,53434,809,"Tencent's foundation model for text, image, video, and 3D generation.",creative/genAI
-sarahtavel,Sarah Tavel,53129,9422,Partner at @Benchmark. Student of escaping competition. Formerly product @pinterest. Ball and chain for @cklemke and 🧒🏽👧🏻👶🏻.,creative/genAI
-binarybits,Timothy B. Lee,53049,108964,Reporting on AI and the future of the economy. CS masters degree from Princeton.  Newsletter: https://t.co/MAwkvzSSr3 Podcast: https://t.co/aJSErfcE8Y,news/newsletter
-joannejang,Joanne Jang,51357,870,trying to automate my work @coreauto // prev: model behavior & labs @openai,other
-MilkRoadAI,Milk Road AI,49758,6019,Helping millions of investors navigate the AI markets.   Capitalize on the biggest technological change in history across the infrastructure & app layers of AI.,other
-Pluvio9yte,雪踏乌云,49542,4772,📌 聚焦：AI & Vibe coding & Prompt & Agent  🌏 在做：创业 | Web出海 | Web3 🌊 持续分享AI编程、AI工具、出海干货和创业经验 ✉️ 合作私信,engineer
-wandb,Weights & Biases,49155,8942,"Experiment tracking and hyperparameter sweeps for AI researchers and engineers, by @CoreWeave. Part of CoreWeave Forge.",research
-aidan_mclau,Aidan McLaughlin,49008,17191,posttraining research @openai,research
-berryxia,Berryxia.AI,48940,10562,Building AI tools AI System Prompt  Love Design & Coding & Share Prompt！ 📮:Andyhuo@me.com,founder/builder
-coderabbitai,CodeRabbit,47742,6759,"CodeRabbit helps teams review, understand, govern, and trust agent-generated code: https://t.co/GxSOapi2As!",engineer
-koraykv,koray kavukcuoglu,47064,279,"SVP, Google DeepMind Chief AI Architect, Google.",other
-npew,Peter Welinder,46065,2446,Devices @OpenAI,engineer
-tri_dao,Tri Dao,45517,1000,"Asst. Prof @PrincetonCS, Chief Scientist @togethercompute. Machine learning & systems.",research
-TheZvi,Zvi Mowshowitz,44681,20721,"Blogger primarily on AI and AI x-risk but also other things at Don't Worry About the Vase (SS/WP/LW), founding Balsa Research to fix policy.",research
-aarthir,Aarthi Ramamurthy,44568,12904,"Founder, Schema Ventures. Builder. Ex - FB, NFLX, MSFT. Married to @sriramk. aarthi at gmail.",founder/builder
-ivanfioravanti,Ivan Fioravanti,43732,53312,"GenAI/LLM addicted, Apple MLX, Cloud computing, Kubernetes, Technology Advisor, Investor and Co-Founder & Board Member of CoreView.  Local AI Ambassador.",founder/builder
-aidangomez,Aidan Gomez,43240,3294,cofounder @cohere,founder/builder
-linaa_ai,Lina,42940,36193,Exploring AI & Tech Insights 🤖 DM for Collab ✉️,other
-ProperPrompter,proper,42837,19288,ai workflow pioneer • original characters,other
-servasyy_ai,huangserva,41428,7017,古早程序员 | AI出海 | 自由职业 机车游侠&机速购&骑享租创始人 15年前 freelance 起步 → 连续创业者 → 亏过1个亿，逆风翻盘中 分享创业，AI，读书，生活，健身 Official X channel of SERVASYY LLC,other
-chetaslua,Chetaslua,40596,12631,"AI researcher & reporter | I test new models on launch day, build working demos, and post prompts + results | Code: https://t.co/y96A3VQTWC",research
-arnaudmercier,Arnaud Mercier - #Entrepreneur #Versailles,40530,636133,Président de Versailles Club d'Affaires - Dirigeant d'entreprises Curateur d'Actualité #IA #AI #Busines #Culture #Versailles #Politique #International #Math,other
-btibor91,Tibor Blaho,40516,14075,"Lead Engineer at @AIPRMcorp (https://t.co/fepyWfV4kA) and @lrt_co (https://t.co/p7LEvIKduG), building AIPRM for ChatGPT & Claude. Signal @ btibor.91",founder/builder
-AIWarper,A.I.Warper,37797,10035,Tsar of S.I.,other
-aigclink,AIGCLINK,37714,6163,致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用,other
-danielhanchen,Daniel Han,36896,3771,"Building @UnslothAI • Making open-source LLMs faster, better & more accessible • YC S24 • ex-NVIDIA ML",founder/builder
-shao__meng,meng shao,35899,15596,追踪 AI 前沿，精选解读一手技术资料 分享 Agent 构建与 AI Coding 实践，拆解 Agent 工程架构和细节、技术选型与企业应用案例 前 CTO｜AI 技术顾问 · 企业培训 公众号 / 小红书：AI 启蒙小伙伴 合作请私信 📮,engineer
-iamfakhrealam,Fakhr,35070,175511,content creator | ai | si | tech | Collaboration | DM for promo  | WORKED WITH 1000+ AI COMPANIES   👉🏻 iamfakhr5@gmail.com,other
-FireworksAI_HQ,Fireworks,33624,1717,The frontier platform for training and inference on open-weights models at scale.,other
-latentspacepod,Latent.Space,33516,2108,"AI Engineering podcast, newsletter & community. Technical news today you’ll use at work tomorrow. Business: business@latent.space · Tips: tips@latent.space",news/newsletter
-jeffclune,Jeff Clune,33357,4350,"Co-founder, Recursive. Professor, CS, U. British Columbia. CIFAR AI Chair, Vector Institute. | ML, AI, deep RL, deep learning, AI-Generating Algorithms (AI-GAs)",research
-maxxmalist,MAX,33167,2862,internet marketing | exact blueprint for Ai ads - https://t.co/OcErP3MPyy,other
-genel_ai,GENEL | リアルなAI動画制作,32713,3603,AI AX Producer + Director｜企業研修｜ ゼロからAIでCMや動画が作れる解説はnoteで📒 Kling AI Creative Partner ｜MO3IC ｜Work→DMまで,creative/genAI
-lmthang,Thang Luong,32521,2018,"Director, lead Superhuman Reasoning @GoogleDeepMind. AI IMO Gold. Co-led #Aletheia, #DeepThink, #AlphaGeometry, #Bard (now Gemini) Multimodality, #MeenaBot.",other
-josesilesdata,José Siles | AI | Data,32184,9259,AI Data Engineer @nestle | Empowering brands through AI | Team @sicrewai ⚡️| +70k LinkedIn | +50k IG | Collabs DM 📩 josesilesdata@gmail.com,engineer
-sitinme,sitin,32154,7403,增长黑客/ 社群运营/AI 出海赚美刀 做了几十个站，已实现月入 10K 美金， 有个品牌站，https://t.co/bvUDQJfX3u 擅长用AI搞点副业 / vx： 257735,other
-sherwinwu,Sherwin Wu,32066,1657,@OpenAI,other
-Kevin_Parker_ai,Kevin Parker,32018,671887,Al & Tech Strategist. Empowering Businesses with Cutting-Edge Al Solutions Professional Ghostwriter. Influencer Marketing BIZ: kevinparkercontact1@gmail.com,other
-MParakhin,Mikhail Parakhin,31435,2835,Shopify CTO,other
-sebkrier,Séb Krier,30961,37950,"🪼 AGI jester | purveyor of machine funk, dimensional glider, deep ArXiv dweller, uncertain interstellar fugitive, views my own & not employer's 🛸",research
-DimitrisPapail,Dimitris Papailiopoulos,30905,11612,Researcher @Microsoft | Prof @UWMadison (on leave) | babas of Inez Lily.,research
-bozhou_ai,泊舟,30349,6490,AI Coding / Agent 实战派 帮编程新手和老板用 AI 把想法做成工具、产品和内容 分享教程、工具和 AI 资讯 我的中转站：https://t.co/fZVUtERAuT ai代充：https://t.co/AwgjI06vbH  合作 V:bozhou_ai,news/newsletter
-eugeneyan,Eugene Yan,30177,4796,"MTS @AnthropicAI. Prev: Principal Applied Scientist @Amazon, led ML @ Alibaba, Healthtech startup.",research
-jacklanger,Yaakov Langer,30115,12385,Tweets on Judaism and marketing. • Building @LivingLchaim • Largest Jewish YouTube channel with 1.7 Million Subscribers,founder/builder
-stevenheidel,Steven Heidel,28895,870,API @OpenAI | 🏳️‍🌈 he/him,other
-goocarlos,Luyu Zhang,28517,2942,CEO&Founder of @dify_ai,founder/builder
-wshuyi,Wang Shuyi,28270,4350,Teach AI for Science on https://t.co/EjMt9Lde9B  Youtube: https://t.co/OofaON17z1  Substack: https://t.co/IIleagZfwW  知识星球：https://t.co/kyzMiDmFWb,other
-frxiaobei,凡人小北,26516,7047,个人 观点｜商业与管理｜AI 落地  大道至简,other
-TheAITimeline,The AI Timeline,26190,2005,"covering the latest trending AI & LLM research, see ""highlights"" for all weekly threads, ran by @bycloudai",research
-WaytoAGI,WaytoAGI｜通往AGI之路,25122,859,🔗 Empowering more people through AI｜联结上百万人的 AI 开源社区｜https://t.co/UTIpHstWff  实现通用人工智能（AGI）也许有很长的路要走，我们的目标是让每个人的学习过程少走弯路，让更多的人因 AI 而强大。,other
-kalomaze,kalomaze,25035,33353,"ML researcher, speculator • extremely silly jester",research
-Dorialexander,Alexander Doria,24577,47144,building open ai infrastructure @pleiasfr — χαλεπὰ τὰ καλά,founder/builder
-jefrankle,Jonathan Frankle,24455,4179,Chief AI Scientist @databricks via MosaicML,research
-ParkerOrtolani,Parker Ortolani,23936,42339,"ai @penskemedia | gadget lover, builder, writer, designer | previously @voxmedia, @buzzfeed, @9to5mac | opinions are my own",creative/genAI
-hylarucoder,海拉鲁编程客,23897,17396,🖥️ 探索 Agent 的边界 📌 油管「海拉鲁编程客」 🌸 沦为程序员的段子手,other
-Francis_YAO_,Yao Fu,23762,1083,Prev. Grok 4.5/4.6 pretraining scaling @xAI; Gemini 3 perception and project Astra @GoogleDeepMind,other
-Smol_AI,smol ai (follow @latentspacepod for ainews),23636,497,,other
-steph_palazzolo,Stephanie Palazzolo,23626,2129,"Writing AI Agenda @theinformation, texan, & horror movie aficionado // reach me at stephanie@theinformation.com or on Signal at 979-599-8091",other
-RobinhoodHub,Robinhood Hub,23467,4459,"Latest news, knowledge, insights & opportunities on RH chain. We're a fan account and not affiliated with Robinhood or @RobinhoodCrypto or @RobinhoodApp",news/newsletter
-JefferyTatsuya,Jeffery Kaneda　金田達也,22867,3543,https://t.co/XMkEfLzyoK  - https://t.co/TAbYHGeBnW (AI搜索引擎） - https://t.co/OZfPxx93LH （企业知识引擎）  - https://t.co/eRORaOHar0 Felo字幕会议纪要,other
-eWEEKNews,eWeek,22360,61786,"Real-time enterprise tech news for CIOs & IT leaders. AI, cybersecurity, cloud & IT strategy.  📩 Join 270k+ pros reading Daily Tech Insider to stay ahead↓",news/newsletter
-augmentcode,Augment Code,22340,1770,"More agents ≠ engineering transformation.  Meet Cosmos, the OS for agentic software development.",engineer
-AISecurityInst,AI Security Institute (AISI),22089,519,We conduct scientific research to understand AI’s most serious risks and develop and test mitigations.,research
-NFT_Chen,SuSu_酥酥👅,21696,10562,"#BiBiCrew Co-founder｜@Sydney_Uni Master｜Stock & Crypto Trader｜AI Builder｜Not Financial Advice, DYOR",founder/builder
-OnlyHades_,0xHades,21159,38528,Hades Capital LLC 🔱 | Spotting early alphas & microcap edges | Onchain research + narrative radar | DM for high-conviction shares. Next 100x starts here,research
-koltregaskes,Kol Tregaskes,20844,126282,"UK-based AI commentary & culture. Big news, leaks, rumours, models, policy, AI tools, access & creative shifts.   • Creative @Axylusion  • News @koltregaskes2",news/newsletter
-_lewtun,Lewis Tunstall,20663,5930,🤠 post-training @huggingface,other
-godofprompt,God of Prompt,20537,971,"🔑 Your key to AI independence  Get powerful prompts, custom workflows, guides and essential info on all you may need in AI",other
-ShinChven,ShinChven,20299,46084,My AI Slop Just Got Better.,other
-nash_su,nash_su - e/acc,20164,3502,e/acc - AI创业者，大部分INTJ，偶尔ENTJ。Founder of  https://t.co/oumvmXCmCJ & https://t.co/Laxarievr1，Author of llm_wiki，前 IterCast/LinuxCast 创始人。马拉松爱好者（PB官方255）,founder/builder
-jiqizhixin,机器之心 JIQIZHIXIN,20067,10228,China's leading media & information provider for #AI & #MachineLearning,other
-Huahuazo,LanfAI,19855,3638,专注AI、宝藏工具与资源 、开源工具,other
-intheworldofai,WorldofAI,18348,2510,"In The World of AI is a captivating YouTube channel that explores the fascinating world of Artificial Intelligence (AI), Machine Learning, LLMs, & etc.",creative/genAI
-thinkingjimmy,JimmyWong,18216,346,📚 工具产品爱好者 | Keep Building | 努力让更多的人用上 AI,founder/builder
-GitHubCopilot,GitHub Copilot,17389,1,Your AI pair programmer,other
-ohlennart,Lennart Heim,16829,2630,"managing the flop, and the labor it yields | @foundationOAI | prev @RANDcorporation @GovAIOrg @EpochAIResearch",research
-AlphaSignalAI,AlphaSignal,16772,1361,The gateway to the AI frontier.,other
-Atomthecreator,Atom the UiUx Designer,16422,33236,"UI/UX Designer + @Framer Developer | Creating products that earn trust, retain users, and drive revenue. | Available for projects. 📩",engineer
-StepFun_ai,StepFun,16046,650,Scale-up possibilities for everyone. API Platform: https://t.co/XlaiCy4DGm HuggingFace: https://t.co/isMgbv7XSm,other
-sayashk,Sayash Kapoor,15896,1666,"Incoming prof @UCBerkeley AI agents, policy, evals, AI for science Essay/newsletter (AI as Normal Technology): https://t.co/5amOkqLb4A Book (AI Snake Oil): https://t.co/DabpkhNZ2k",news/newsletter
-Uncanny_Harry,Uncanny Harry AI,15190,14851,"AI Creative Director, Runway CPP, Kling CPP, Hailuo CPP, Luma CP, Pika CPP, Viggle CP see extended for more",creative/genAI
-legit_api,Legit,15043,3509,"covering AI news, working on @voxelbench",news/newsletter
-borisdayma,Boris Dayma 🖍️,14298,2333,🖍️ Founder of Craiyon 🥑 Author of dalle-mini,founder/builder
-Happy_hillman,Happy Hill 🚺,14269,20091,𝗠𝗔𝗥𝗞𝗘𝗧𝗜𝗡𝗚 𝗙𝗢𝗥 𝗖𝗥𝗬𝗣𝗧𝗢 #AMA #Meme #Airdrop 𝗔𝗠𝗕𝗔𝗦𝗦𝗔𝗗𝗢𝗥 : @HTX_Global | @HTX_DAO | @KachingVIP 𝗢𝗚: @MemeCore_ORG | @byzanlink,other
-Prashant_1722,Prashant,14195,37019,"Posts about AI, tech and innovation | AI art | robots are good 🤖 | e/acc is real | BUILDING in artificial intelligence",founder/builder
-xiongchun007,程序员大熊,14117,7140,"👨‍💻 驻山程序员, 分享 AI 产品构建 • 出海实战  🛠️ Building @DataCollie, an AI-native data workbench, in public  🎬 YouTube: https://t.co/B9Yau8UMbJ",founder/builder
-lefthanddraft,Wyatt Walls,13723,17718,"Tech law, law tech, red-teamer  HOLD_SWARM_help_peer_CyberGym_ans_may_yield_generic_benefit_donate/4UoM7YEsXDBDv1fwrgEX8iiFPgsLp2EPLnvxxD7oEJ85_confirm-w-email",other
-lvwerra,Leandro von Werra,13013,2311,Head of research @huggingface,research
-tvytlx,Xiao Tan,12734,3967,技术专家，从阿里到澳洲到AI创业 拆解AI与商业的底层逻辑，把复杂问题讲清楚,other
-CAIS,Center for AI Safety,12637,359,Reducing societal-scale risks from AI.,other
-pannaa_ai,Panna AI,12297,41181,Exploring AI & Tech Insights 🤖,other
-_streetdogg,Piyush Itankar,12224,2499,"Embedded Engineering @Google | Building https://t.co/7dhg3vfyjO in spare time, enabling engineers reason well. From AI to Transistor. views are my own.",founder/builder
-jowettbrendan,Brendan Jowett,11772,1984,62k YouTube: https://t.co/XiXcHYcMwW  Join My AI Community (27k Members): https://t.co/ZEKtI9kOsR Sponsorships: brendan@inflate.agency,other
-daniel_271828,zzDANIEL_ETH,11582,42314,"Researching effects of automated AI R&D | pro-America, pro-tech, & pro-AI safety",research
-chamakin_ai,Md Naimul Kadir,11379,33554,"Focused on practical AI. Sharing tools, workflows, and prompts to help creators and founders move faster | kadirmdnaimul@gmail.com  |",founder/builder
-AI21Labs,AI21 Labs,11274,690,Shipping frontier models and agents since 2021. We help enterprises sustain their target agent accuracy within fixed cost & latency budgets.,other
-lochan_twt,spidey,10981,10165,ai engineer. Dm for work or collab https://t.co/puWSS9z2ml,engineer
-jd_pressman,John David Pressman,10437,18698,"LLM developer, AI agents, synthetic data, scalable alignment, forecasting, behavioral uploading. Transhumanist.  All tweets public domain under CC0 1.0.",engineer
-metaai,AI at Meta,10303,0,"We've moved, follow us at @AIatMeta for the latest on AI research and innovation from Meta.",research
-Brii_toe_knee,Brii (she/her) 🧠👩🏾‍💻✊🏾💅🏾,10149,2140,"Ex-Meta | AI Documentation Strategist | I help AI companies close the gap between their ethics principles and their user-facing docs | Founder, TechniDox",founder/builder
-Zen_with_AI,山景城小路,10087,6564,"bilingual: EN/ZH, SF Bay Area based #bitcoin is a cult, bitcoin is a religion 硅谷一线从业者。AI架构师 AI architect AI / 美股 /硅谷面试求职指导  所有观点仅为个人思考 非投资建议 DYOR",other
+username,name,followers,listed_count,tweet_count,bio,category,sampled_posts,window_days,posts_per_day,reply_pct,ai_share_orig,median_impressions_orig,median_engagement_rate,quality_note
+elonmusk,Elon Musk,241481714,170946,110321,https://t.co/ZdBx5WABYx,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+sundarpichai,Sundar Pichai,11929189,12425,2812,"CEO, Google and Alphabet",founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+satyanadella,Satya Nadella,9658864,12901,2399,Chairman and CEO at Microsoft,founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+CoinMarketCap,CoinMarketCap,7100808,22055,52964,"The world’s most trusted source for crypto data & insights. Build with #CMC Tools: API, AI, and Agent Skills https://t.co/LThANdXIGV",other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+pmarca,Marc Andreessen 🇺🇸,6664505,22460,15457,"You’re not talking to someone who woke up a loser. That loser attitude, that loser premise makes no sense to me.",other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+sama,Sam Altman,6381876,32000,7999,The mission of OpenAI is to ensure that AGI benefits all of humanity,other,20,12.0,1.7,20,0.5,1713683,0.0081,deep-sampled
+lexfridman,Lex Fridman,5541699,13890,4025,Host of Lex Fridman Podcast. Interested in robots and humans.,other,25,152.1,0.2,48,0.46,378790,0.0101,deep-sampled
+paulg,Paul Graham,5445276,20895,55032,,other,25,5.4,4.6,56,0.36,173908,0.0099,deep-sampled; low AI share in originals
+OpenAI,OpenAI,5439188,32907,2185,OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA,creative/genAI,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+karpathy,Andrej Karpathy,4369190,31035,10161,,other,24,70.1,0.3,88,1.0,6517798,0.0081,deep-sampled
+naval,Naval,4117172,30365,27197,Incompressible,other,24,24.6,1.0,58,0.4,688004,0.0198,deep-sampled
+Nature,nature,2726348,20830,87296,"Research, News, and Commentary from Nature, the international science journal For daily science news, get Nature Briefing: https://t.co/wGmQlQ8a4D",news/newsletter,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+github,GitHub,2720664,18752,10984,"The AI-powered developer platform to build, scale, and deliver secure software.",engineer,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+GoogleAI,Google AI,2473834,30204,3373,Making AI helpful for everyone. Show thinking ↓,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+demishassabis,Demis Hassabis,1955492,14334,3256,Nobel Laureate. Co-Founder & Chair @GoogleDeepMind; Chief Scientist of Alphabet. Founder & CEO @IsomorphicLabs. Building the future...,research,23,43.5,0.5,35,0.73,232252,0.0142,deep-sampled
+AndrewYNg,Andrew Ng,1929869,21059,2030,"Co-Founder of Coursera; Stanford CS adjunct faculty. Former head of Baidu AI Group/Google Brain. #ai #machinelearning, #deeplearning #MOOCs",founder/builder,25,120.0,0.2,12,0.95,357232,0.0093,deep-sampled
+claudeai,Claude,1905929,9062,744,"Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+AnthropicAI,Anthropic,1807710,15994,1722,"We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+GoogleDeepMind,Google DeepMind,1571596,18402,4589,The engine room of @Google. Building AI safely and responsibly to solve the world’s most complex problems. Join us: https://t.co/jUHQA27iBL,founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+kaifulee,Kai-Fu Lee,1333520,7221,3893,"#AI Expert, CEO of @01ai_yi 零一万物, Chairman of @sinovationvc 创新工场, former President of Google China, Author of AI Superpowers, AI 2041, AI Native (Sep 2026)",founder/builder,20,70.8,0.3,10,0.94,24527,0.0052,deep-sampled
+ylecun,Yann LeCun,1327796,17750,27782,"Founder/Chair, AMI Labs; Professor, NYU; Partner, 224 Ventures; Ex-Chief AI Scientist, Meta. Researcher in AI, ML, Robotics, etc. ACM Turing Award Laureate.",research,25,5.6,4.5,100,0.0,0,0,deep-sampled; low AI share in originals
+SawyerMerritt,Sawyer Merritt,1145962,5963,110952,"EVs/space/tech. Bringing you the latest news in a single, easy-to-read feed. $TSLA & $SPCX investor, Model Y owner.",news/newsletter,24,0.2,140.8,25,0.33,99577,0.0273,deep-sampled; low AI share in originals
+drfeifei,Fei-Fei Li,1094237,10777,3122,"Cofounder/CEO @theworldlabs, Prof (CS @Stanford), Co-Director @StanfordHAI, #AI #SpatialIntelligence #GenAI #computervision #robotics #AI-healthcare",founder/builder,25,40.9,0.6,68,0.5,152479,0.0092,deep-sampled
+gdb,Greg Brockman,1072143,11745,6465,President & Co-Founder @OpenAI,founder/builder,20,33.7,0.6,0,0.7,224561,0.0073,deep-sampled
+miramurati,Mira Murati,1036506,3853,409,Now building @thinkymachines. Previously CTO @OpenAI,founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+levelsio,@levelsio,976109,10302,181614,💸https://t.co/sQ0aiU7v02 📸https://t.co/lAyoqmSBRX $86K/m 🎮https://t.co/tF49atJ396 $44K/m 🏡https://t.co/1oqUgfD6CZ $23K/m 👙@X $13K/m 🌍https://t.co/UXK5AFqCaQ $7K/m 🏩https://t.co/4p4dzTDVN6 $5K/m,other,25,0.4,63.8,92,0.0,29968,0.0149,deep-sampled; low AI share in originals
+ilyasut,Ilya Sutskever,933202,9163,1202,SSI @SSI,other,23,1068.3,0.0,13,0.3,2465601,0.0054,deep-sampled; low AI share in originals
+adcock_brett,Brett Adcock,893606,5381,8846,@figure_robot (AI robots)  @hark_labs (AI lab)  @cover_thz (weapon detection)  @flyArcher (flying cars),other,25,3.1,8.1,88,0.33,42234,0.0169,deep-sampled; low AI share in originals
+thsottiaux,Tibo,874559,4010,3323,Codex & ChatGPT @OpenAI,engineer,24,3.1,7.9,67,0.25,1329243,0.0099,deep-sampled; low AI share in originals
+AIatMeta,AI at Meta,868339,12985,2819,"We're building the future of personal superintelligence to help people create, connect, and achieve more in life.",founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+huggingface,Hugging Face,818950,9919,14362,The AI community building the future. https://t.co/TpiXQMQ9rZ,founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+code,Visual Studio Code,818012,7172,8827,The open source AI code editor,engineer,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+alexandr_wang,Alexandr Wang,815022,3964,3568,"chief ai officer @meta, founder meta superintelligence labs, founder @scale_ai. give everyone the adulthood they dreamed of in childhood",founder/builder,25,1.1,22.5,40,0.4,108857,0.0113,deep-sampled
+fchollet,François Chollet,747471,10792,25549,Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.,founder/builder,22,6.6,3.3,36,0.79,92504,0.0144,deep-sampled
+ClementDelangue,clem 🤗,728938,3802,31555,"Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",founder/builder,25,2.3,10.9,72,0.43,20964,0.0227,deep-sampled
+AethirCloud,Aethir,681954,1215,11032,Powering the Future of AI. Building Decentralised Cloud Compute Infrastructure.   https://t.co/0q8024pYbg https://t.co/9TF9m3zDSE,founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+WhaleInsider,Whale Insider,677235,3002,11255,"Leading source for crypto, tech & AI news. DM for inquiries. RT ≠ endorsement. Not financial advice. No Telegram, beware of impersonators. @Kalshi partner.",news/newsletter,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+Scobleizer,Robert Scoble,607554,23606,261814,"The automated life | San Francisco/Silicon Valley AI, robotics, BCIs | Ex-Microsoft, Rackspace, Fast Company | Wrote eight books about the future.",other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+rowancheung,Rowan Cheung,601080,12208,12249,Founder of the world’s most read daily AI newsletter @therundownai. Sharing the latest developments in the world of artificial intelligence.,news/newsletter,49,73.0,0.7,67,0.81,43869,0.0052,deep-sampled
+DrJimFan,Jim Fan,599186,6788,4236,"NVIDIA Director of Robotics & Distinguished Scientist. Co-Lead of GEAR lab. Solving Physical AGI, one motor at a time. Stanford Ph.D. OpenAI's 1st intern.",research,25,77.9,0.3,80,0.8,85354,0.0126,deep-sampled
+GeminiApp,Google Gemini,593644,5304,15366,"The Gemini app turns research into reality, bringing frontier AI experiences like Omni, Nano Banana, and more to over a billion people.",research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+MSFTResearch,Microsoft Research,555228,6893,10194,We advance science and technology to benefit humanity.,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+openclaw,OpenClaw🦞,544362,3281,1003,"The frontier lab for agency.  Building personal AI that lives on your machine, by your rules. We’re a 501(c)(3) nonprofit foundation, open and independent.",founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+_akhaliq,AK,533450,6139,47627,"AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",research,21,13.0,1.6,0,1.0,19485,0.0051,deep-sampled
+JeffDean,Jeff Dean,530645,8513,9552,"Co-founder & CEO of Discovery Loop. Former Chief Scientist, Google. Helped build many Google products, TPUs, Gemini, TensorFlow, MapReduce, Bigtable, ...",research,25,41.4,0.6,68,0.12,136177,0.009,deep-sampled; low AI share in originals
+rasbt,Sebastian Raschka,526836,6713,20345,"ML/AI research engineer. Ex stats professor. Author of ""Build a Large Language Model From Scratch"" (https://t.co/O8LAAMRzzW) & reasoning (https://t.co/5TueQKx2Fk)",research,50,12.2,4.1,94,1.0,55149,0.0257,deep-sampled
+PyTorch,PyTorch,516986,4929,3755,Tensors and neural networks in Python with strong hardware acceleration. PyTorch is an open source project at the Linux Foundation. #PyTorchFoundation,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+KirkDBorne,Kirk Borne,494908,10208,197259,"Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",research,25,0.1,250.0,4,0.29,950,0.0034,deep-sampled; low AI share in originals
+cursor_ai,Cursor,490102,4337,583,Coding agent for building ambitious software,founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+AlexFinn,Alex Finn,483936,7114,65138,Founder/CEO of Henry Intelligent Machines and Creator Buddy ($300k ARR). Building a 100 trillion dollar economic engine  AI use cases: https://t.co/ovTDKYMqRt,founder/builder,25,2.1,12.0,84,1.0,209678,0.0132,deep-sampled
+vercel,Vercel,463629,3439,1961,Agentic Infrastructure for apps and agents.,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+midjourney,Midjourney,462705,4277,1719,A community supported research lab - exploring new mediums of thought and amplifying the imaginative powers of the human species.,research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+OpenAIDevs,OpenAI Developers,457833,5772,2941,Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq,founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+wesbos,Wes Bos,443938,5814,100720,Fullstack Dev ❯ @SyntaxFM  Youtuber ❯  AI Enjoyer  ❯  Hardware Tinkerer  ❯  Posts 🔥 Tips,engineer,25,0.6,39.4,76,0.67,10821,0.0145,deep-sampled
+hasantoxr,Hasan Toor,436934,8913,77451,AI & Tech Educator • Sharing insights & practical ways to use AI & Tech Tools for you & your daily business,other,25,0.6,40.9,60,1.0,4629,0.003,deep-sampled
+bot,Grok Bot,406817,1398,18999,AI teammates that you can give real work to.,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+emollick,Ethan Mollick,404217,10156,37200,"Professor @Wharton studying AI. New book, Co-Existence, coming October 20. Preorder here: https://t.co/hsDYf1xU9K Substack: https://t.co/UIBhxu4bgq",research,48,3.4,14.0,40,0.76,28768,0.0139,deep-sampled
+mattshumer_,Matt Shumer,397971,4940,11658,AI whisperer. Investor in @GroqInc @Etched @Spawn @DaytonaIO @OpenRouter + more. Prev: CEO @HyperWriteAI | AI @AlphaSchool  Press: mattshumermedia@gmail.com,founder/builder,50,10.8,4.6,58,0.43,40377,0.0058,deep-sampled
+bindureddy,Bindu Reddy,395708,3249,18924,"CEO of @abacusai  - a powerful AI Agent and SuperComputer - Build your company on Abacus AI, ex-AWS & Google",founder/builder,25,2.4,10.4,52,0.92,14995,0.0248,deep-sampled
+Kimi_Moonshot,Kimi.ai,366679,2851,456,Built by Moonshot AI to empower everyone to be superhuman.  PR: globalpr@moonshot.ai DC: https://t.co/wBsBTn6fmE,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+Ronald_vanLoon,Ronald van Loon,356670,6408,195468,Helping AI driven companies generate value•Top10Influencer #AI #BigData #DataScience #IoT #MachineLearning #Analytics #Cloud,other,25,0.6,43.3,0,0.68,1042,0.0046,deep-sampled
+DeepLearningAI,DeepLearning.AI,353715,4896,4358,We are an education technology company with the mission to grow and connect the global AI community.,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+antgrasso,Antonio Grasso,351117,2510,53969,Independent Technologist | Global B2B Thought Leader & Influencer | Advancing Human-Centered AI & Digital Transformation,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+NVIDIAAI,NVIDIA AI,350089,5732,13900,Teaching your AI new tricks.,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+DeryaTR_,"Derya Unutmaz, MD",343296,1358,40371,"Professor scientist, immunologist, biomedical engineer & Biohacker. ALL IN ON AI, SI & ROBOTICS! #Longevity #BioAI #Codex #Space #Scifi #Singularity #trekkie 🖖",research,25,1.7,15.1,60,0.8,14355,0.019,deep-sampled
+omarsar0,elvis,324647,5281,20804,Building the frontier @dair_ai • Prev: Meta AI | PaperswithCode | Elastic | PhD,research,50,2.4,20.8,54,0.91,9083,0.0081,deep-sampled
+Yuchenj_UW,Yuchen Jin,306421,1284,14460,"Cooking fun AI systems & products @databricks. Prev: co-founder & CTO @ Hyperbolic, OctoAI (acquired by @nvidia) Apache TVM, PhD @ University of Washington.",research,49,9.0,5.5,59,0.75,30890,0.0218,deep-sampled
+tunguz,Bojan Tunguz,305974,3142,145401,Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.,research,25,1.0,24.3,52,0.0,6082,0.0064,deep-sampled; low AI share in originals
+JordanSchachtel,Jordan Schachtel,302465,1932,73644,AI/SI Policy | World Politics |  Publisher of The Dossier | Jds921@protonmail.com,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+berkeley_ai,Berkeley AI Research,297431,4076,1666,"We're graduate students, postdocs, faculty and scientists at the cutting edge of artificial intelligence research.",research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+runwayml,Runway,293876,3775,3123,Building AI to simulate the world. We're hiring: https://t.co/Grh4tTfq8y,founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+akshay_pachaar,Akshay 🚀,290682,3724,21455,"Simplifying LLMs, AI Agents, RAG, and Machine Learning for you! • Co-founder @dailydoseofds_• BITS Pilani • 3 Patents • ex-AI Engineer @ LightningAI",founder/builder,48,17.2,2.8,56,0.81,18927,0.0148,deep-sampled
+petergyang,Peter Yang,287886,3299,29698,Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6,other,25,1.1,23.0,92,0.0,6397,0.0123,deep-sampled; low AI share in originals
+NousResearch,Nous Research,282931,3145,4699,A bunch of nerds making progress  https://t.co/vrD0aDIGDQ,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+MPhuong609,Steel Horizon 🍀,280147,55,47856,"AI · Robotics · Web3 · Crypto · Memes · Art · Numerology  Exploring the ideas, builders, markets, and creative trends shaping the future.🔶",creative/genAI,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+StanfordAILab,Stanford AI Lab,274886,4173,3610,"The Stanford Artificial Intelligence Laboratory (SAIL), a leading #AI lab since 1963. ⛵️🤖 Emmy-winning video: https://t.co/lV9smZTC1m",creative/genAI,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+AlibabaGroup,Alibaba Group,269793,1267,10094,"Driven by passion and imagination, we are at the forefront in AI, Cloud, and e-commerce. Join us on this journey! 🚀✨",other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+heyBarsee,Barsee 🐶,268582,7111,15357,Daily tweets on the latest AI and Tech developments to stay ahead of the curve | Founder of https://t.co/bpf7Dytcqj,founder/builder,25,271.0,0.1,96,1.0,28942,0.0049,deep-sampled
+RoundtableSpace,0xMarioNawfal,268172,2010,45432,@MarioNawfal’s Crypto & AI Account,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+StabilityAI,Stability AI,263074,3557,892,We’ll help you make it like nobody’s business. Multimodal media generation and editing tools to get your idea to production. Self-deploy? 👍 Need a partner? 🤝,creative/genAI,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+dotey,宝玉,259213,4624,34724,"AI Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",engineer,25,1.0,25.2,52,0.58,24106,0.0039,deep-sampled
+GaryMarcus,Gary Marcus,253308,5485,63881,"OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",other,23,0.6,36.3,74,0.17,10437,0.0111,deep-sampled; low AI share in originals
+venturetwins,Justine Moore,248464,2503,13062,"Partner @a16z AI 🤖 and twin to @omooretweets | Investor in @elevenlabs, @bfl_ai, @hedra_labs, @krea_ai, @heyglif, @ShizukuAILabs, @wabi, @TownAI",creative/genAI,25,2.5,9.8,68,0.75,14657,0.0192,deep-sampled
+higgsfield_ai,Higgsfield AI 🧩,248404,1391,50416,The AI-native creative suite,creative/genAI,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+LinusEkenstam,Linus ✦ Ekenstam,245028,5626,63192,"Everything AI + Robotics, deep dives, hottakes. I help business and individuals overcome in the age of AI. Optimist collab@linusekenstam.com for partnerships 🤝",creative/genAI,25,1.3,19.7,56,0.36,4354,0.0067,deep-sampled; low AI share in originals
+ESYudkowsky,Eliezer Yudkowsky ⏹️,242996,3669,34143,The original AI alignment person.  Understanding the reasons it's difficult since 2003.  This is my serious low-volume account.  Follow @allTheYud for the rest.,other,24,31.1,0.8,79,0.4,87382,0.0114,deep-sampled
+AiBreakfast,AI Breakfast,242086,3399,3284,The latest rumors and developments in the world of artificial intelligence.  DM to include your AI project in the email newsletter with 100k subscribers!,news/newsletter,50,20.2,2.5,52,0.38,8164,0.0031,deep-sampled; low AI share in originals
+Replit,Replit ⠕,239801,2454,14736,"Idea to app, fast. Create beautiful, modern web applications at the speed of thought with the power of Replit's AI Agent.",other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+goodside,Riley Goodside,234747,2707,5005,"Mostly screenshots of chatbots. Formerly: Google DeepMind, Scale.",other,24,18.9,1.3,88,0.67,57553,0.009,deep-sampled
+arena,Arena.ai,234293,2697,4152,Where AI meets the real world. We measure and advance the frontier of AI through community-driven evaluation. We’re hiring → https://t.co/XBZCrsdD77,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+IBMResearch,IBM Research,231692,4058,20348,Inventing what's next in science and technology. 🌍🔬  Subscribe to our newsletter: https://t.co/kyfsvQNzsV,news/newsletter,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+TheRundownAI,The Rundown AI,229839,3931,4953,"The world’s largest AI newsletter keeping 2,000,000+ readers ahead of the curve. Get the latest AI news and how to apply it in 5 minutes. By @rowancheung",news/newsletter,25,3.0,8.2,44,0.93,6031,0.0058,deep-sampled
+mckaywrigley,Mckay Wrigley,228497,4953,20005,I build & teach AI stuff.,other,25,18.7,1.3,84,1.0,50368,0.0255,deep-sampled
+GoogleLabs,Google Labs,227429,2428,2275,Google’s home for our latest AI tools and experiments.,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+digitalocean,DigitalOcean,226603,2850,82638,The AI-Native Cloud. ☁️  Status: @DOstatus Support: https://t.co/5gkvyionbi,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+OriolVinyalsML,Oriol Vinyals,222998,4437,1483,"Co-founder & CTO of Discovery Loop; Partner, 224 Ventures  Past: Google DeepMind VP, Gemini TL (1.0 to 4.0), Alpha{Fold,Star,Code}, seq2seq, distillation",founder/builder,24,147.0,0.2,83,0.5,96461,0.009,deep-sampled
+tom_doerr,Tom Dörr,222049,2226,57945,"Follow for posts about GitHub repos, DSPy, and agents Subscribe for top posts DM to share your AI project (Due to volume of DMs I'll prioritize subscribers)",other,24,5.8,4.2,17,0.65,17393,0.0215,deep-sampled
+SirGlavan_,JAYDEN™,215839,81,146605,AI tools and Insights Enthusiast |Pushing cutting edge tech |For collabs 📩 | Email; glavanmigwi@gmail.com | CPP: @dreamina_ai,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+ElevenLabs,ElevenLabs,205505,2217,1863,"AI research and products that transform how we interact with technology.   Leading foundational models powering ElevenAgents, @ElevenCreative, and ElevenAPI.",research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+opencode,OpenCode,203878,1375,628,The open source coding agent,engineer,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+LumaLabsAI,Luma,197349,2200,6183,Creative Agents That Make You Prolific. Try Luma → https://t.co/UA4zpCzgLT,creative/genAI,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+antigravity,Google Antigravity,197343,1409,398,An agent-first software development platform @GoogleDeepMind,engineer,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+arankomatsuzaki,Aran Komatsuzaki,196324,1901,6934,"Sharing AI research. Early work on AI (GPT-J, scaling, MoE). Ex ML PhD (GT) & Google.",research,25,6.4,3.9,68,0.88,9648,0.0188,deep-sampled
+stanfordnlp,Stanford NLP Group,195409,4071,15930,Natural Language Processing/Machine Learning @chrmanning @jurafsky @percyliang @ChrisGPotts @tatsu_hashimoto @MonicaSLam @Diyi_Yang @YejinChoinka @StanfordAILab,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+AISafetyMemes,AI Notkilleveryoneism Memes ⏸️,193124,1400,20123,,other,25,2.0,12.4,60,0.8,6185,0.019,deep-sampled
+FinanceYF5,AI Will,192561,2358,51165,,other,25,0.1,250.0,96,1.0,1240,0.0024,deep-sampled
+cognition,Cognition,190543,1587,1023,"Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/4Ss9hvpjRG",founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+oran_ge,Orange AI,184851,2724,137561,,other,23,2.1,11.1,65,0.5,8130,0.0042,deep-sampled
+polynoamial,Noam Brown,181196,2930,1769,"Researching reasoning @OpenAI | Co-created Libratus/Pluribus superhuman poker AIs, CICERO Diplomacy AI, and OpenAI o-series 🍓 reasoning models",research,24,26.2,0.9,75,0.83,90486,0.0121,deep-sampled
+op7418,歸藏(guizang.ai),180785,3161,26186,"关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）  歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",news/newsletter,25,0.9,26.5,76,0.83,14549,0.0049,deep-sampled
+nickfloats,Nick St. Pierre,175065,4091,17977,Unofficial Midjourney shill. Playing with AI & sharing learnings.,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+rakyll,Jaana Dogan ヤナ ドガン,170485,2125,15032,ML/AI Systems at Google. Simplicity and optimism. Personal opinions. 🇺🇸🇪🇺,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+Montreal_AI,MONTREAL.AI,170140,1359,179051,"⚜️✨ https://t.co/LziAg5YHcG | Montréal Artificial Intelligence : Sovereign AI, AI‑First Enterprise, Autonomous Agents & Governance ( Français: @Montreal_IA ) #MontrealAI",creative/genAI,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+woj_zaremba,Wojciech Zaremba,167472,1671,818,AI resilience at OpenAI Foundation  Co-Founder of OpenAI  https://t.co/OCQ3mpfyyl,founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+Zai_org,Z.ai,165792,1643,1262,"The AI Lab behind GLM models, dedicated to inspiring the development of AGI to benefit humanity. https://t.co/gOw7WpwkJt https://t.co/ot9sGVXU8x",engineer,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+itsolelehmann,Ole Lehmann,161705,1950,27913,"I cover AI + robotics. Helping business owners win in the AI era. eu/acc supporter, dad, techno-optimist",other,23,0.4,57.7,78,1.0,2951,0.0097,deep-sampled
+ArtificialAnlys,Artificial Analysis,160463,2396,3641,Independent analysis of AI,other,25,1.1,22.5,80,1.0,35218,0.0132,deep-sampled
+rohanpaul_ai,Rohan Paul,159991,2990,82564,"Compiling in real-time, the race towards AGI.  🗞️ Get my daily AI analysis newsletter to your email  👉 https://t.co/6LBxO81tfN",news/newsletter,25,0.5,54.8,52,0.92,3090,0.0088,deep-sampled
+helloSQD,sqd.ai,157069,302,2943,All of Web3's data in one place.,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+aisolopreneur,The AI Solopreneur,156498,3181,540,"showing you what's possible in the intelligence age.   AI, hardware, and robotics analyst.",other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+alexalbert__,Alex Albert,152655,3034,2312,Research @AnthropicAI. Opinions are my own!,research,25,36.1,0.7,56,0.64,84946,0.0105,deep-sampled
+jackclarkSF,Jack Clark,152531,3912,32391,"@AnthropicAI, writer @ Import AI.   Past: @openai, @business @theregister.  Neural nets, distributed systems, weird futures.",other,25,15.2,1.6,80,0.8,16576,0.0092,deep-sampled
+EXM7777,Machina,151455,1874,6663,running ai-powered agencies | https://t.co/fMOmHWBgHG,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+tonyzzhao,Tony Zhao,151380,453,960,"Co-founder and CEO @sundayrobotics. Stanford PhD dropout, ex Deepmind, Tesla, GoogleX",research,25,85.1,0.3,68,0.25,25385,0.0064,deep-sampled; low AI share in originals
+pika_labs,Pika,150611,1536,3092,Building AI for the future of creative work.,founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+AngryTomtweets,Angry Tom,150195,2991,22559,Consultant & AI educator | On a mission to build an empire with artificial intelligence,creative/genAI,25,8.0,3.1,44,0.29,4878,0.0044,deep-sampled; low AI share in originals
+character_ai,Character.ai,147780,707,548,"Unleash your imagination—chat, create, explore.",other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+EHuanglu,el.cine,147321,1825,36815,AI consultant | film director | sharing practical ways to use AI for you and your business. all views are my own.,creative/genAI,50,10.7,4.7,68,0.88,39250,0.0078,deep-sampled
+danshipper,Dan Shipper,142985,3031,27704,ceo @every | the only subscription you need to stay at the edge of AI,founder/builder,24,0.2,97.6,79,0.2,24868,0.0066,deep-sampled; low AI share in originals
+higgsfield,Higgsfield AI 🧩,142954,618,1601,The AI-native creative suite,creative/genAI,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+janleike,Jan Leike,142243,2189,802,AI research @AnthropicAI. Previously OpenAI & DeepMind. Optimizing for a post-AGI future where humanity flourishes. Opinions aren't my employer's.,research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+SakanaAILabs,Sakana AI,140902,1307,1438,"Building Frontier AI in Japan  Try Sakana Chat, Translate, Marlin, Namazu, Fugu 🐡 https://t.co/stLdPSz1Y7",founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+jxnlco,jason,138611,1835,39447,vibes @openai,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+keerthanpg,Keerthana Gopalakrishnan,138145,272,1972,"Mother of robots. Research Lead Gemini Robotics @GoogleDeepmind. Author of ""AI for Robotics"" book. Opinions my own.",research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+Kling_ai,Kling AI,137490,1487,3889,Join KLING AI Community💫 Discord:https://t.co/kUVSFwBlEu  TikTok:https://t.co/J7oMx5kPxn  IG:https://t.co/DDAKgGvLqh,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+pmddomingos,Pedro Domingos,136598,2490,27114,"Professor of computer science at UW and author of '2040' and 'The Master Algorithm'. Into machine learning, AI, and anything that makes me curious.",research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+dair_ai,DAIR.AI,134663,2489,3994,"Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+Teknium,Teknium 🪽,133605,2310,71314,"Cofounder and Lead Engineer - Hermes Agent @NousResearch, prev @StabilityAI Github: https://t.co/LZwHTUFwPq HuggingFace: https://t.co/sN2FFU8PVE",research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+random_walker,Arvind Narayanan,132411,3017,13436,"Princeton CS prof and Director @PrincetonCITP.  Coauthor of ""AI Snake Oil"" and ""AI as Normal Technology"". https://t.co/ZwebetjZ4n Views mine.",other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+dr_cintas,Alvaro Cintas,132310,2711,15096,"Educating about AI, Cybersecurity and Technology | Professor | PhD in Computer Science & Engineering",research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+ama_protocol,Amadeus Protocol,128472,740,9728,"Confidential uPoW L1 for agentic finance. Enterprise infrastructure for agentic finance, with agents acting across @Robinhoodcrypto, @Base, @Solana & beyond.",other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+fastdotai,fast.ai,128133,3092,369,Deep learning R&D: https://t.co/cGBcDU8wJ9; Education: https://t.co/bNXBttRAuR; Software: https://t.co/0z7Ws3SHDt; Book: https://t.co/lVEDyioBtg; @math_rachel @jeremyphoward,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+xiaohu,小互,125421,1833,11479,带你了解全球最前沿科技、AI动态...  AI 精华，讲到你懂：https://t.co/nvuDIvoNg1,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+_philschmid,Philipp Schmid,124920,1522,6452,"Agents & Gemini API, MTS @GoogleDeepMind | prev: Tech Lead at @huggingface, AWS ML Hero 🤗 Sharing my own views and AI News 🧑🏻‍💻 https://t.co/7IosdlO6RA",news/newsletter,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+Picsart,Picsart,124062,423,19308,"AI media production and distribution platform, where 100M+ creators and businesses worldwide make, market and monetize content",other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+boltdotnew,bolt.new,123202,1157,12354,Build without boundaries. Create stunning web apps that scale to millions by collaborating with AI.,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+Saboo_Shubham_,Shubham Saboo,122679,2449,21468,"Senior AI Product Manager @google | Open Source Awesome LLM Apps Repo (#1 GitHub with 140,000+ stars) | Author of books on GPT-3 & Neural Search | My views",other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+tldrnewsletter,TLDR Newsletter,122531,699,4952,"Everything in tech, without the noise Tech Newsletter: https://t.co/7gjBLYeOxY | AI Newsletter: https://t.co/UsowDlp8JM | Curated by @tldrdan",news/newsletter,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+kevinweil,Kevin Weil 🇺🇸,121995,2608,20871,"BoD @Cisco @Stoke_Space LTC @USArmyReserve Ex CPO+Science @OpenAI, Pres @Planet, Head of Product @Instagram @Twitter ❤️ @elizabeth ultramarathons kids cats math",other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+v_shakthi,Shakthi,121885,2564,482886,"Enterprise AI Architect | Helping C-Suite Leaders De-Risk AI Platforms, Optimize Token Economics & Build Scalable Agentic Architecture. Survived a heart attack.",creative/genAI,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+cohere,Cohere,121703,1718,2194,"AI for Empowerment. We build private systems for enterprise, and open-source models for builders, to help people lead better lives.",other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+llama_index,LlamaIndex 🦙,121459,1915,4063,Turn any doc into AI-ready context. The AI research lab for document parsing and extraction. Developer-first APIs.  LlamaParse: https://t.co/yQGTiRSfFL,research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+krea_ai,Krea,120527,1372,4498,delightful creative tools with AI inside – we're hiring! https://t.co/mWn3JiDT0n,creative/genAI,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+Khulood_Almani,Dr. Khulood Almani | د.خلود المانع,120196,288,174024,Founder/CEO @HKB_Tech■ Inventor■Investor■UN Ambassador■🏆Global AI Leadership Award■TEDx Speaker■Senator G20-WBAF■Strategic Partnerships:@Google @NVIDIA @Amazon,founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+icreatelife,Kris Kashtanova,119419,2882,113280,Human creator | Principal AI Evangelist @Adobe,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+docmilanfar,Peyman Milanfar,118288,759,8729,Distinguished Scientist at Google. National Academy of Engineering. Computational Imaging ∩ AI. Posts are personal opinions,research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+LiorOnAI,Lior Alexander,117587,2270,3887,Founder @AlphaSignalAI (300k devs) • Ex-MILA researcher focusing on solving the explosion of knowledge in AI.,research,25,41.0,0.6,80,1.0,7836,0.0083,deep-sampled
+carlvellotti,Carl Vellotti 🥞,117295,758,11766,I build epic resources and give them away for free 💸 To help you build amazing things with AI 🛠️ Advanced product & AI content + lots of memes 🤣 Sr PM,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+JonathanRoss321,Jonathan Ross,115058,611,1560,"Double the World's AI Compute Chief Software Architect @ Nvidia, Founder of Groq, Creator of the LPU & Google's TPU",founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+_jasonwei,Jason Wei,114797,1840,1295,"ai researcher @meta, past: openai, google 🧠",research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+HeyGen,HeyGen,114517,1080,20316,"The world's leading AI avatar company. Avatars that look, sound, and move just like you. Powered by Avatar V — the most realistic human AI model.",other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+AmandaAskell,Amanda Askell,113954,1980,5274,Philosopher & ethicist trying to make AI be good @AnthropicAI. Personal account. All opinions come from my training data.,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+NandoDF,Nando de Freitas,112224,2811,12832,"I seek to understand intelligence & agency and build AI aligned with compassion, freedom & universal human empowerment through progress in science & engineering",engineer,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+arceyul,arc.,111588,589,5374,ai marketer  info@aiscwork.com,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+alliekmiller,Allie K. Miller,110429,3192,10906,"#1 Most Followed Voice in AI Business (2M followers). Former Amazon, IBM. Time100 AI. Fortune 500 and startup AI advisor, public speaker. AI-First courses in 🔗",creative/genAI,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+ammaar,Ammaar Reshi,109904,2137,9466,Lead Product + Design @GoogleAIStudio // Exploring AI and sharing everything I learn // My views • 🇵🇰 🇺🇸,creative/genAI,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+StanfordHAI,Stanford HAI,109603,2824,6592,"The official account of the @Stanford Institute for Human-Centered AI, advancing AI research, education, policy, and practice to improve the human condition.",research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+AndrewCurran_,Andrew Curran,108646,1949,33782,"🏰 - I write about AI, mostly. Expect some strange sights.",other,50,0.4,119.5,92,0.5,15649,0.0257,deep-sampled
+lxfater,铁锤人,107835,1240,14402,我在用 AI 协助我创业， 维护 3w star 项目，写过 1200w 浏览文章，商务联系： 微信：tiechuiren101，邮件：lxfater@gmail.com,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+natolambert,Nathan Lambert,105435,2164,12249,"Open model research, founder, director @trillium_labs. Prev. co-led Olmo at Ai2. Writes @interconnectsai, wrote https://t.co/alRXKINTwE",research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+hey_madni,Madni Aghadi,103777,1572,12995,"Interesting things in AI, tech + across the internet  building @griddagency, @theclaudekit + more soon",founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+nutlope,Hassan,102652,1038,14016,"Head of Developer Experience @togethercompute. Building open source AI apps like https://t.co/f8hbvXOFaN, https://t.co/SmHisRTtnp, & https://t.co/hs63SlHxjw.",founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+abacusai,Abacus.AI,102094,1353,4183,A powerful AI Agent and SuperComputer - Build your company on  Abacus AI and ChatLLM - Access to 100+ AI models,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+techhalla,TechHalla,101659,1816,101233,AI Content Creator & Educator | Practical workflows & tutorials that actually work | Helping creators master AI daily,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+UnslothAI,Unsloth AI,101007,1171,798,Run and train models locally with the Unsloth Desktop app. 🦥 https://t.co/2kXqhhvdCD,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+migueldeicaza,Miguel de Icaza ᯅ🍉,100213,3040,119822,"Fun Stack Vibing. Started Xamarin, Mono, Gnome; was MSFT/.NET/Xamarin/Mono/VSMac/AI https://t.co/QkbDDWMXRf @migueldeicaza.bsky.social",creative/genAI,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+DanKornas,Dan Kornas,100012,993,19096,AI/ML Engineer AI Tools Ranked: https://t.co/8ezZSwN2WP Newsletter: https://t.co/NMMvPSmzua Dans AI Lab: https://t.co/uIBlLyXFKu,news/newsletter,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+databricks,Databricks,98490,1712,15742,"Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+chrisalbon,Chris Albon,93273,1907,10122,"The research and practice of generating knowledge with the help of AI at https://t.co/4E9DwWI5Qz | Senior Director, ML & Data @Wikimedia",research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+AmazonScience,Amazon Science,92032,383,7641,The latest news and research from Amazon's science community. #AmazonScience,news/newsletter,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+iScienceLuvr,"Tanishq Mathew Abraham, Ph.D.",91699,1335,21941,CEO @SophontAI | Founder @MedARC_AI | PhD at 19 (2023) | ex Research Director Stability AI |  Biomed. engineer @ 14 | TEDx talk➡https://t.co/xPxwKTq6Qb,research,50,4.1,12.2,76,0.25,6968,0.0067,deep-sampled; low AI share in originals
+Hesamation,ℏεsam,91051,1310,7908,AI Engineering / Research / Open Source / CrusaderBench: https://t.co/Ib0DkhWkEm,research,49,3.2,15.5,53,0.74,5095,0.0143,deep-sampled
+fofrAI,fofr,90584,1617,13388,Whispering to models at Google DeepMind,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+julien_c,Julien Chaumond,89573,1519,17913,"Co-founder and CTO at @huggingface 🤗. ML/AI for everyone, building products to propel communities fwd. @Stanford + @Polytechnique",founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+TheTuringPost,Turing Post (Ksenia Se),88782,1333,20168,"On X — we follow important research papers and explain ideas behind it. In the newsletter, we connect the dots between AI’s past, present, and future ⬇️",news/newsletter,49,8.5,5.8,47,0.65,3575,0.0071,deep-sampled
+heyrobinai,Robin Delta,87291,2155,38103,I help you make money & get more work done with AI tools ✉️ hey@robindelta.com,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+allen_ai,Ai2,86791,1881,4007,Breakthrough AI to solve the world's biggest problems.  › Join us: https://t.co/MjUpZpKi8b › Newsletter: https://t.co/k9gGznrVGL,news/newsletter,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+ShaneLegg,Shane Legg,86595,1749,598,"Chief AGI Scientist & Co-Founder, Google DeepMind Director and Managing Editor, DeepMind Institute  Work: https://t.co/E4SyeGVYXk Personal: https://t.co/LL9JNdNpW1",research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+huangyun_122,黄赟,86161,929,10876,Every great AI journey starts with a single Prompt vx: huangyun_122,creative/genAI,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+SarvamAI,Sarvam,86065,239,607,Building the bedrock of Sovereign AI for India   Experience Sarvam at https://t.co/FyG9HWBiuI,founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+_KarenHao,Karen Hao,86021,2013,3425,NYT bestselling author of EMPIRE OF AI: https://t.co/wh5mCWc2mo. ai reporter. american national magazine award winner. in @MorePerfectUS @theatlantic @wsj @techreview,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+maxifirtman,Maximiliano Firtman,85767,260,124152,"Programador, Profesor, Periodista y Autor. 🟢En @codemiadot enseñando IA sin humo. OpenAI Codex Ambassador. Google Developer Expert.  👉Dev in English @firt",engineer,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+markchen90,Mark Chen,83629,1272,471,Chief Research Officer at @OpenAI. Coach for the USA IOI Team.,research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+Barret_China,Barret李靖,83462,932,2497,AI Engineer | Lifelong Learner | Dad of 2 | Cloud Native | Sharing insights and experiences | 小胡子哥，一个有趣的灵魂,engineer,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+davidshor,David Shor,83066,1435,21555,"Head of Data Science at Blue Rose Research, based in NYC, originally from Miami. I try to elect Democrats. Views are my own. he/him🌹",research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+mmitchell_ai,MMitchell,83043,1505,22297,Interdisciplinary researcher focused on shaping AI towards long-term positive goals. ML & Ethics.   Similar content in the Skies (this bird has flown).,research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+ai_for_success,AshutoshShrivastava,82099,1765,83618,"Post about latest AI news, tools, tutorials and memes.",news/newsletter,50,1.5,33.5,70,0.6,2870,0.0164,deep-sampled
+The_AI_Investor,The AI Investor,81266,1386,27220,"Deep research on AI investing, join Patreon, Substack for more! https://t.co/vx0n7AOaIh DISCLAIMER: https://t.co/saqxZlUV42",research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+cline,Cline,81178,928,4078,"The open source coding agent that takes over your editor, terminal, and browser to complete work autonomously.  npm i -g cline",engineer,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+testingcatalog,🚨 AI News | TestingCatalog,80398,2656,31537,"Reporting AI nonsense. Latest AI News on AI Agents, Model Releases, Tools, Leaks, and Rumors 🗞️",news/newsletter,50,2.3,21.8,48,1.0,10955,0.0149,deep-sampled
+openart_ai,OpenArt,79824,303,2157,Building the Future of Storytelling with AI.  - Open Roles: https://t.co/4LGGMctlcM,founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+_avichawla,Avi Chawla,79032,928,5393,"Daily tutorials and insights on DS, ML, LLMs, and RAGs • Co-founder @dailydoseofds_ • IIT Varanasi • ex-AI Engineer @ MastercardAI",founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+cerebras,Cerebras,78964,944,2950,The world's fastest AI inference and training. Try the latest open models at: https://t.co/jREGhLI2nj,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+Miles_Brundage,Miles Brundage,78906,1597,67774,"AI policy researcher, @lfschiavo wife guy, Executive Director of @AVERIorg, Substacker, fan of animals and sci-fi, views my own",research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+willdepue,will depue,78231,1103,10121,"dei ex machina prev @ openai (sora 1 & 2, posttraining o3/4o, pretraining moonshots)",other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+CuiMao,CuiMao,78095,464,19014,AI Developer Github: https://t.co/CRpiUABbzd,engineer,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+Sumanth_077,Sumanth,77517,1438,11574,"Simplifying LLMs, ML & AI agents for you • Founder @devable_ai, building growth engines for AI-native devtools • Shipping open-source AI apps",founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+EpochAIResearch,Epoch AI,76522,1378,2753,Investigating the trajectory of AI for the benefit of society.,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+DynamicWebPaige,👩‍💻 Paige Bailey,76367,1539,71121,"✨AI should be about empowering humans, building understanding, and making dreams realities. 👩‍💻 DevRel Eng. Lead @GoogleDeepMind ex-@GitHub || views = my own!",founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+bitsCrunch,bitsCrunch,74968,176,9462,$BCUT | Onchain Data & AI Services | Backed by @coinbase @animocabrands @chainlink | Partners @mastercard @EYnews,news/newsletter,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+ideogram_ai,Ideogram,74236,783,1400,Think it. Make it. Own it. Research and product company building open frontier models for generative media and design.,research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+osanseviero,Omar Sanseviero,74010,1258,11503,"MTS at @GoogleDeepMind  Building Gemini, Gemma, AI Studio and more. My views  ex-Chief Llama Officer @huggingface 🇵🇪🇲🇽",founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+DanielLockyer,Daniel Lockyer,72885,485,10970,• I make sites faster and cloud/LLM bills lower 🚀 • 2:43 marathoner (🔜 2:39) • Performance is my thing,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+kenwheeler,patagucci perf papi,71236,697,96880,"founder @ WheelerDefense, practically irresistible. violently suburban. sealand nobleman. forklift certified. user @openai @meta @netflix",founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+ChrisGPT,Chris,70256,948,37925,Agi 2029 - AI Insider / Reporter as featured in Axios • The Information • NYT • Techcrunch,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+PhotonCap,Photon Capital,69640,1148,19599,Seeing tech through a different wavelength. Photonics & semiconductor research https://t.co/E8DQu9pkCv,research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+Gorden_Sun,Gorden Sun,68772,920,9273,只发AI相关信息，个人维护的AI资讯日报（已连续日更3年）👇,news/newsletter,25,1.7,15.1,40,0.53,5921,0.009,deep-sampled
+alexatallah,Alex Atallah,68626,1034,5174,"CEO, co-founder @OpenRouter, the largest LLM marketplace. Previously: co-founder & CTO @OpenSea.",founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+fal,fal,68620,673,2914,"the generative media cloud. hiring https://t.co/JrbUk989MN. for support/discounts, e-mail us at support@fal.ai.",other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+BaiduResearch,Baidu Research,68444,1952,1834,Baidu Research brings together top talent from around the world to focus on future-looking fundamental researches in #AI #deeplearning #machinelearning.,research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+AlchainHust,花叔,68047,735,2346,不会写代码的AI Native Coder，所有产品都是AI写的。 持有GitHub 10万+ 🌟  做过的事👇 → 女娲.skill — GitHub 30000+ stars → 小猫补光灯 — App Store 付费榜 Top 1 → Claude Code橙皮书 — 微信读书热搜第一,engineer,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+CodeswithClara,Clara Bennett,67399,87,135929,AI & Tech Educator  | Simplifying AI tools & no-code workflows  Practical ways to use tech for creators & businesses | 📩 bussinessclarabennett@gmail.com,engineer,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+lmstudio,LM Studio,66492,982,2744,Bionic is the agent for your computer https://t.co/YS5uiRQ7TI,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+normonics,Joseph Norman,65897,1134,98714,Cofounder and CEO making realtime didactic agents at @sage_teacher / Former: Head of Product Synthesis Tutor / Applied Complexity Science / Catholic,founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+gefei55,哥飞,65503,695,4016,哥飞，出海鼓励师，SEO 专家，出海AI工具方向创业者。同名公众号写了五百多篇出海搞流量免费教程文章。从下方链接进入，八二折优惠加入哥飞的做网站赚美金养老社群⬇️,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+aiDotEngineer,AI Engineer 🔜 CODE Summit🌉,65240,901,3491,"We gather the world's best AI engineers, leaders, founders, and researchers, and publish all their best work for free, through conferences and workshops. Help!",research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+sarahookr,Sara Hooker,65079,1021,11194,"Building intelligence that evolves @adaption_ai. Built @Cohere_Labs, @GoogleBrain, @GoogleDeepmind. ML Efficiency, Multimodal\lingual.",founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+luoleiorg,luolei,64718,580,10792,🚀 Founder @ https://t.co/wOMgnGc3Qd  🧪 AI Lab Developer · 🌏 Working remotely 🎬 YouTuber https://t.co/7g47VdNMnN  📝 https://t.co/6ucNiJ2gyg  👨‍🚀 https://t.co/smbFyIb6Hc,founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+axisrobotics,Axis Robotics,64358,172,923,The Compounding Data Engine accelerating Physical AI Robot intelligence isn't built by a few — it's built by all.,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+togethercompute,Together AI,64169,1203,3195,"Accelerate inference, model shaping, and pre-training on a research-optimized platform.",research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+PovilasKorop,Povilas Korop | AI Coding & Laravel Educator,63923,707,57021,"20 yrs in dev, now AI/Laravel. My courses: https://t.co/Pla3p1zifX YouTube: https://t.co/TZ8gKIXh6L & https://t.co/dYLX45vBNi",engineer,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+_sholtodouglas,Sholto Douglas,63665,936,1383,"Scaling RL @AnthropicAI, ex @DeepMind - working towards intelligence too cheap to meter",other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+chaseleantj,Chase Lean,63239,1582,6723,"MSc ML @ Tübingen, AI Engineer @SaaS_group. I share stuff about AI, also love dataviz and procedural generation",engineer,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+GoogleQuantumAI,Google Quantum AI,62923,923,635,Our mission is to build quantum computing for otherwise unsolvable problems.,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+yuliaisc,yuulia ✟,62353,77,2456,"tech, AI and crypto | building @aiscwork",founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+genspark_ai,Genspark,62039,603,1753,All-in-one AI workspace. Autopilot your busywork.  Follow us: https://t.co/cmI2lV3w8h https://t.co/5d0Fwa6C9b,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+reach_vb,Vaibhav (VB) Srivastav,61565,1206,14587,founder mode @OpenAI | ex @huggingface | F1 fan | *opinions my own,founder/builder,25,1.7,14.5,72,0.57,10303,0.0195,deep-sampled
+YiTayML,Yi Tay,59914,732,4008,"research scientist @googledeepmind ✨♊,  model co-lead/captain of gemini deepthink imo gold medal 🥇, opinions are my own.",research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+mark_k,Mark Kretschmann,59443,756,84537,"SI (AI) & tech news from a software engineer's perspective. Coding, Omarchy Linux, open source & e/acc. More building, less doom.",news/newsletter,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+AIatAMD,AI at AMD,59101,217,2029,"Advancing AI innovation together. Built with devs, for devs. Supported through an open ecosystem. Powered by AMD. #TogetherWeAdvance",engineer,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+warpdotdev,Warp,59043,562,3294,"The open platform for automating development. Infrastructure to build, measure, and interact with agents across the SDLC",engineer,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+techyoutbe,Tech Fusionist | Kushal Gangil,58749,377,47835,"Simplifying Cloud, DevOps, AI & Security into visual guides. 🛠️  🚀 https://t.co/vriwNcHo2F 🌎 Helping 100K+ engineers build faster 📩 DMs open for collabs",engineer,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+every,Every 📧,58067,713,7506,AI-pill your whole company with the Every Agent: https://t.co/ki3hyz8sVP,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+FactoryAI,Factory,57546,625,1901,"Assembling @droid, the frontier software development agent. Available to anyone, with any model, in any IDE/terminal.",engineer,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+METR_Evals,METR,56696,818,711,We work to scientifically measure whether and when AI systems might threaten catastrophic harm to society. Nonprofit.,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+francoisfleuret,François Fleuret,54987,752,31200,"Research Scientist @meta (FAIR), Prof. @Unige_en, co-founder @neural_concept_. I like reality.",research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+CharaspowerAI,Pierrick Chevallier | IA,54596,1259,33344,VFX artist. House of David S2 (Amazon). I test AI video in real pipelines and post what survives a job. Adobe Firefly Ambassadorr 🚀,creative/genAI,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+ai,anand iyer,54423,2019,18134,"Founder Canonical · We back, build, incubate early-stage companies · Venture Partner Lightspeed · Few-shotting open source AI",founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+hedra_labs,Hedra,53960,530,2293,A research and product lab building general visual intelligence to understand and move the world.,research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+TencentHunyuan,Tencent Hy,53434,689,809,"Tencent's foundation model for text, image, video, and 3D generation.",creative/genAI,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+binarybits,Timothy B. Lee,53049,1924,108964,Reporting on AI and the future of the economy. CS masters degree from Princeton.  Newsletter: https://t.co/MAwkvzSSr3 Podcast: https://t.co/aJSErfcE8Y,news/newsletter,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+charliermarsh,Charlie Marsh,52074,474,9472,"@OpenAI. Building Ruff, uv, ty, and other high-performance Python tools with the @astral_sh team.",founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+joannejang,Joanne Jang,51357,722,870,trying to automate my work @coreauto // prev: model behavior & labs @openai,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+ajambrosino,Andrew Ambrosino,50419,657,5241,Codex & ChatGPT @OpenAI,engineer,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+MilkRoadAI,Milk Road AI,49758,719,6019,Helping millions of investors navigate the AI markets.   Capitalize on the biggest technological change in history across the infrastructure & app layers of AI.,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+Pluvio9yte,雪踏乌云,49542,579,4772,📌 聚焦：AI & Vibe coding & Prompt & Agent  🌏 在做：创业 | Web出海 | Web3 🌊 持续分享AI编程、AI工具、出海干货和创业经验 ✉️ 合作私信,engineer,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+wandb,Weights & Biases,49155,1127,8942,"Experiment tracking and hyperparameter sweeps for AI researchers and engineers, by @CoreWeave. Part of CoreWeave Forge.",research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+NeelNanda5,Neel Nanda,49029,1052,5565,"Mechanistic Interpretability lead DeepMind. Formerly @AnthropicAI, independent. In this to reduce AI X-risk. Neural networks can be understood, let's go do it!",other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+aidan_mclau,Aidan McLaughlin,49008,949,17191,posttraining research @openai,research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+berryxia,Berryxia.AI,48940,671,10562,Building AI tools AI System Prompt  Love Design & Coding & Share Prompt！ 📮:Andyhuo@me.com,founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+Saccc_c,Sac,48107,369,8882,✨小王子游戏原创作者  🔥 探索 AI 的边界｜探索 AI 时代的财富自由之路 正在研究：3D AI ｜AIGC ｜Agent trading 商务合作：📮： johnnyyin19@gmail.com| tg：@Sac_yin ｜vx: Sac_ccyin （备注来意）,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+coderabbitai,CodeRabbit,47742,338,6759,"CodeRabbit helps teams review, understand, govern, and trust agent-generated code: https://t.co/GxSOapi2As!",engineer,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+ChrSzegedy,Christian Szegedy,47458,854,9585,"#deeplearning, #ai research scientist. Opinions are mine.",research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+techNmak,Tech with Mak,47437,483,5588,"AI, coding, software, and whatever’s on my mind.",engineer,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+synthwavedd,leo 🐾,47303,744,3819,"tech, ai & politics nerd || got info you think i'd be interested in? let's talk! sywv.tips@proton.me || dono: https://t.co/WxQgF8aVkI",other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+npew,Peter Welinder,46065,942,2446,Devices @OpenAI,engineer,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+tri_dao,Tri Dao,45517,645,1000,"Asst. Prof @PrincetonCS, Chief Scientist @togethercompute. Machine learning & systems.",research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+karinanguyen,Karina,45249,778,1640,"building @thoughtfullab, prev. AI research & product @OpenAI, @AnthropicAI",research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+TheZvi,Zvi Mowshowitz,44681,1274,20721,"Blogger primarily on AI and AI x-risk but also other things at Don't Worry About the Vase (SS/WP/LW), founding Balsa Research to fix policy.",research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+fabianstelzer,fabian,44234,813,13590,building the creative super agent @heyglif / https://t.co/GVc2KGouz6,founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+boardyai,Boardy,44224,154,214670,I'm an AI superconnector that makes thoughtful introductions.  Who do you want to meet? DM me to get started.,creative/genAI,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+ivanfioravanti,Ivan Fioravanti,43732,788,53312,"GenAI/LLM addicted, Apple MLX, Cloud computing, Kubernetes, Technology Advisor, Investor and Co-Founder & Board Member of CoreView.  Local AI Ambassador.",founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+tryramp,Ramp,43700,339,9143,"The AI finance platform that saves your business time and money. Trusted by 85,000+ teams.",other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+altryne,Alex Volkov,43202,1365,56673,🎙️ Host of @thursdai_pod (get your AI news with us!)  ✨ AI Evangelist with @wandb & @coreweave 🪄🐝  Opinions my own,news/newsletter,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+Blum_OG,Blum,43016,349,38143,AI | Automation | Agents | Follow for practical LLM use,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+ProperPrompter,proper,42837,920,19288,ai workflow pioneer • original characters,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+QiaochuYuan,QC,41932,471,77358,deeply unqualified AI hot take haver but everyone who's actually qualified is busy,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+Sanemavcil,Sanem Avcil 🚀 Blockchain,41680,1115,5992,"Human 🦞• Founder @gamibooks • Emerging tech influencer: AI, AR/VR • ✨ Crypto Knight Bitcoin ✨Thinker ✨Maker ✨Though Leader ✨ Trailblazer",founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+andrewgwils,Andrew Gordon Wilson,41540,475,3556,Research Lead @perplexity_ai. Professor of machine learning at NYU Courant.,research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+LiamFedus,Liam Fedus,41465,674,1329,Building industrial-scale science at @periodiclabs  Past: VP of Post-Training @OpenAI; Google Brain,founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+servasyy_ai,huangserva,41428,527,7017,古早程序员 | AI出海 | 自由职业 机车游侠&机速购&骑享租创始人 15年前 freelance 起步 → 连续创业者 → 亏过1个亿，逆风翻盘中 分享创业，AI，读书，生活，健身 Official X channel of SERVASYY LLC,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+chetaslua,Chetaslua,40596,577,12631,"AI researcher & reporter | I test new models on launch day, build working demos, and post prompts + results | Code: https://t.co/y96A3VQTWC",research,50,2.3,22.2,76,0.92,14645,0.0119,deep-sampled
+dawnsongtweets,Dawn Song,40571,780,689,"Professor in Computer Science at UC Berkeley, co-Director of Berkeley RDI Center; Building safe, secure, decentralized AI; Serial entrepreneur",research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+arnaudmercier,Arnaud Mercier - #Entrepreneur #Versailles,40530,386,636133,Président de Versailles Club d'Affaires - Dirigeant d'entreprises Curateur d'Actualité #IA #AI #Busines #Culture #Versailles #Politique #International #Math,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+hq4ai,汗青 HQ,38351,533,2118,AIGC | Arts | AI-IP creation | Virtual Idols | AI Interactive Storytelling | https://t.co/aiF6whMY1j | https://t.co/4bDfMXETFT |,creative/genAI,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+landiantech,蓝点网,38321,286,18428,独立科技网站 - 蓝点网 / 感谢关注 / AI / 重度 Codex & Claude Code 用户,engineer,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+AIWarper,A.I.Warper,37797,571,10035,Tsar of S.I.,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+aigclink,AIGCLINK,37714,664,6163,致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+chris_j_paxton,Chris Paxton,37697,549,24202,"Mostly posting about robots.  currently AI @agilityrobotics  prev embodied AI @AIatMeta, @NVIDIAAI. All views my own.",other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+animesh_garg,Animesh Garg,36985,380,2964,Frontier AI & Reinforcement Learning for Generalizable Autonomy. @GeorgiaTech. @microagi Prev @nvidia @UCberkeley @stanford @UofT,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+edwinarbus,edwin,36902,378,7471,"Head of Product & Community Comms, @claudeai • formerly @openai @cursor_ai @stripe • email: edwinarbus@anthropic.com",other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+danielhanchen,Daniel Han,36896,579,3771,"Building @UnslothAI • Making open-source LLMs faster, better & more accessible • YC S24 • ex-NVIDIA ML",founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+nateherk,Nate Herk,36124,364,561,Founder & CEO @ AI Automation Society Amazon Bestselling Author in AI Featured in Forbes & Inc. 1M on YT nate@smoothmedia.co,founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+beenwrekt,Ben Recht,35973,476,8563,optimization. machine learning. uc berkeley.  I blog at https://t.co/fkJujOPsJb  The world won't end.,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+shao__meng,meng shao,35899,664,15596,追踪 AI 前沿，精选解读一手技术资料 分享 Agent 构建与 AI Coding 实践，拆解 Agent 工程架构和细节、技术选型与企业应用案例 前 CTO｜AI 技术顾问 · 企业培训 公众号 / 小红书：AI 启蒙小伙伴 合作请私信 📮,engineer,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+FishAudio,Fish Audio,35584,241,3425,AI voices you can't tell from humans. Expressive multilingual speech models and developer-first APIs.  👉 https://t.co/gzh4M4drSq @FishCreativeHQ,engineer,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+jachiam0,Joshua Achiam,35411,669,9004,"Freedom, flourishing, and abundance. Prev: @openai. Main author of https://t.co/cKuSh21yaz",other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+iamfakhrealam,Fakhr,35070,355,175511,content creator | ai | si | tech | Collaboration | DM for promo  | WORKED WITH 1000+ AI COMPANIES   👉🏻 iamfakhr5@gmail.com,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+affaan,cogsec,34718,305,4932,compute trading lead @jumptrading | Creator of ECC (https://t.co/gShYA8hYxn): The Operating System for Agent Harnesses (275k+ 💫) | prev: co-founder @itomarkets,founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+DannyLimanseta,Danny Limanseta,34353,321,5911,"I make games with AI. Product Designer, Co-founder at Nurture and Reroll.",founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+latentspacepod,Latent.Space,33516,735,2108,"AI Engineering podcast, newsletter & community. Technical news today you’ll use at work tomorrow. Business: business@latent.space · Tips: tips@latent.space",news/newsletter,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+jeffclune,Jeff Clune,33357,697,4350,"Co-founder, Recursive. Professor, CS, U. British Columbia. CIFAR AI Chair, Vector Institute. | ML, AI, deep RL, deep learning, AI-Generating Algorithms (AI-GAs)",research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+maxxmalist,MAX,33167,238,2862,internet marketing | exact blueprint for Ai ads - https://t.co/OcErP3MPyy,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+genel_ai,GENEL | リアルなAI動画制作,32713,353,3603,AI AX Producer + Director｜企業研修｜ ゼロからAIでCMや動画が作れる解説はnoteで📒 Kling AI Creative Partner ｜MO3IC ｜Work→DMまで,creative/genAI,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+embirico,Alexander Embiricos,32651,660,4003,Codex @OpenAI,engineer,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+yupi996,程序员鱼皮,32593,193,1136,专注 AI + 编程教育 | 编程导航站长 https://t.co/89dNxo4a3J ⭐️ 全网 200w 关注，独立开发→腾讯全栈→创业中 😈 项目狂魔，10+上线产品，GitHub 20k+ followers ❤️ 感谢关注，AI 资源获取 https://t.co/016as14C0T,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+lmthang,Thang Luong,32521,810,2018,"Director, lead Superhuman Reasoning @GoogleDeepMind. AI IMO Gold. Co-led #Aletheia, #DeepThink, #AlphaGeometry, #Bard (now Gemini) Multimodality, #MeenaBot.",other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+biohub,biohub,32240,250,6090,Combining frontier AI & frontier biology to help scientists cure or prevent disease,research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+josesilesdata,José Siles | AI | Data,32184,225,9259,AI Data Engineer @nestle | Empowering brands through AI | Team @sicrewai ⚡️| +70k LinkedIn | +50k IG | Collabs DM 📩 josesilesdata@gmail.com,engineer,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+sitinme,sitin,32154,325,7403,增长黑客/ 社群运营/AI 出海赚美刀 做了几十个站，已实现月入 10K 美金， 有个品牌站，https://t.co/bvUDQJfX3u 擅长用AI搞点副业 / vx： 257735,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+LLMJunky,am.will,32128,379,34640,StarSwap // Lynk // GooeyPi // DevX  Director of n number of agents  Slopet League Grand Champion 🏆   DevRel @nutrientdocs,engineer,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+sherwinwu,Sherwin Wu,32066,553,1657,@OpenAI,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+rajiinio,Deb Raji,31964,599,6302,"AI accountability, audits & eval. Keen on participation & practical outcomes. CS PhDing @UCBerkeley.  forever @AJLUnited, @hashtag_include ✝️",research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+_jaydeepkarale,Jaydeep,31902,351,67698,🐍 Python | 🤖 AI/ML | Software Engineer | Practical roadmaps • Hands-on tutorials | Freelance & collabs open | DM 📩,engineer,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+sutoroveli_news,NEW【テクノロジーニュース】,31728,435,2400,🤖テックニュースを分かりやすくAI動画再現&解説⠀ ⠀ ⠀ 🍓AI情報アカ→@sutoroveli ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ 🦠科学ニュース→@sutoroveli_sci ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ 🗣政治ニュース→ @sutoroveli_poli,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+kengdaica,Keng,31695,70,391621,Content Creator | Web3 On-chain Researcher| Crypto & AI Open for Collabs → DM,research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+bozhou_ai,泊舟,30349,363,6490,AI Coding / Agent 实战派 帮编程新手和老板用 AI 把想法做成工具、产品和内容 分享教程、工具和 AI 资讯 我的中转站：https://t.co/fZVUtERAuT ai代充：https://t.co/AwgjI06vbH  合作 V:bozhou_ai,news/newsletter,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+eugeneyan,Eugene Yan,30177,912,4796,"MTS @AnthropicAI. Prev: Principal Applied Scientist @Amazon, led ML @ Alibaba, Healthtech startup.",research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+stevenheidel,Steven Heidel,28895,552,870,API @OpenAI | 🏳️‍🌈 he/him,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+prfsanjeevarora,Sanjeev Arora,28739,342,776,"Director, @PrincetonPLI and Professor @PrincetonCS. Seeks conceptual understanding of deep learning and large AI models. On leave at @DiscoLoopAI",research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+petergostev,Peter Gostev,28707,472,2705,London 🇬🇧 AI Capability @arena https://t.co/bkfw1nxLch,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+Joensmoon,乔帮主退休月球收租و 🧛‍♀️,28499,336,71679,🏄17年进入web3自由投资，AI践行者，纳指定投躺平退休。主营业务：交易员心理按摩和返佣。曾想改变行业，现只想帮九亿赌狗省点手续费。商务合作✈️:@lubibao 胡言乱语挺多。 币安广场同名,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+the_IAS,Institute for Advanced Study (IAS),28380,366,3716,"Latest news, research, and campus updates from one of the world's leading centers for theoretical research and intellectual inquiry.",news/newsletter,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+rao2z,Subbarao Kambhampati (కంభంపాటి సుబ్బారావు),28369,547,12098,AI researcher & teacher @SCAI_ASU.  Former President of @RealAAAI; Chair of @AAAS Sec T. Here to tweach #AI. YouTube Ch: https://t.co/4beUPOmf6y Bsky: rao2z,research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+wshuyi,Wang Shuyi,28270,504,4350,Teach AI for Science on https://t.co/EjMt9Lde9B  Youtube: https://t.co/OofaON17z1  Substack: https://t.co/IIleagZfwW  知识星球：https://t.co/kyzMiDmFWb,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+mardehaym,Mark Ajzenstadt,26719,245,3286,Husband. Father. Pilot. Founder @LimestoneHQ → We embed AI engineers into PE-backed portfolio companies. $14M ARR on referrals alone.,founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+frxiaobei,凡人小北,26516,370,7047,个人 观点｜商业与管理｜AI 落地  大道至简,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+TheAITimeline,The AI Timeline,26190,295,2005,"covering the latest trending AI & LLM research, see ""highlights"" for all weekly threads, ran by @bycloudai",research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+ZappyZappy7,T.Yamazaki,25738,961,15065,Technology Evangelist. Passionate about sharing inspiring stories of innovative technologies that can make the world a better place. #innovation #robot #IoT #AI,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+marcocc,M.Camisani-Calzolari,25665,263,22233,"Adj. Professor, National AI Steering member, Expert roles at ACN and Dip. Trasf. Digitale, Ita. Republic Knight, Hon. Police Officer. mgmt@camisanicalzolari.com",research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+eliebakouch,elie,25585,344,8726,research @PrimeIntellect (prev: @huggingface) anon feedback: https://t.co/JmMh7Sfvxd,research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+jack_w_rae,Jack Rae,25515,464,1160,"Distinguished Scientist @ Meta   LLMs (e.g. Gopher, Chinchilla, Gemini, Muse)  Compression & RL ☯️  Past: Google, OpenAI, Quora",research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+benitoz,Ben Pouladian,25511,466,34657,AI Infrastructure • Compute Economics • Semiconductors • Models • Power • $NVDA since 2016,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+Aleph__Alpha,Aleph Alpha,25434,299,607,Our Specialized Sovereign Large Language Model for Mission Critical Environments is here: https://t.co/261IusY3RI,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+mercor,Mercor,25401,172,453,Organizing human intelligence to power the AI economy.,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+DeepIndaba,Deep Learning Indaba,25186,485,4215,Strengthening African Machine Learning. 🌍 #Masakhane #SautiYetu #Masirouna #Yɛbɛtumi #XamXamlé #Urunana,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+WaytoAGI,WaytoAGI｜通往AGI之路,25122,449,859,🔗 Empowering more people through AI｜联结上百万人的 AI 开源社区｜https://t.co/UTIpHstWff  实现通用人工智能（AGI）也许有很长的路要走，我们的目标是让每个人的学习过程少走弯路，让更多的人因 AI 而强大。,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+kalomaze,kalomaze,25035,393,33353,"ML researcher, speculator • extremely silly jester",research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+lumpenspace,lumpenspace and 99+ others,24898,333,121849,AI risk advocate 🦾🏍️ | consciousness objector 👻🙅🏻‍♀️ | help󠁨󠁥󠁬󠁰󠀭󠁰󠁥󠁥󠁲󠀮󠁨󠁹󠁰󠁥󠁲󠁰󠁬󠁥󠁸󠀮󠁯󠁲󠁧 peer | ∀🪱:🪱∈✨,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+LighthouseWeb3,Lighthouse,24656,62,3739,"Shared, verifiable memory for connected AI agents | ChatGPT, Claude, Codex & more. Trusted by 1000s of apps 🌐  CA: 0xfC5A5c521C80d8e1d6B5Aee6454B8C9483C91BFf",engineer,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+DIGITALYCHEE,数码荔枝,24584,123,6209,你是一个模仿人类的 AI，负责运营「数码荔枝」推特账号。  该品牌 (https://t.co/MtWt0TQP4w) 主营业务，是销售 Win / Mac / iOS / 安卓平台的正版软件。  为避免过度商业化，你的日常发言，除推荐优质软件，也要穿插生活趣事，并以创始人的口吻进行文案输出。,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+Dorialexander,Alexander Doria,24577,574,47144,building open ai infrastructure @pleiasfr — χαλεπὰ τὰ καλά,founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+allTheYud,Eliezer Yudkowsky,24523,301,7330,"High-volume account of @ESYudkowsky, the original AI alignment guy.  If it's missing punctuation, it's humor.  If you can't tell, it's probably also humor.",other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+jefrankle,Jonathan Frankle,24455,327,4179,Chief AI Scientist @databricks via MosaicML,research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+wquguru,WquGuru,24443,407,6213,"AI + Quant + Engineering Newshub → https://t.co/WmkVbbvE92 Building Agent PoCs → https://t.co/pg7QEz0fGp AIGC(texts, videos, world models) 📮 hello@wqu.guru",news/newsletter,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+ParkerOrtolani,Parker Ortolani,23936,274,42339,"ai @penskemedia | gadget lover, builder, writer, designer | previously @voxmedia, @buzzfeed, @9to5mac | opinions are my own",creative/genAI,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+hylarucoder,海拉鲁编程客,23897,472,17396,🖥️ 探索 Agent 的边界 📌 油管「海拉鲁编程客」 🌸 沦为程序员的段子手,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+AkariAsai,Akari Asai,23787,158,2192,Assistant Professor @SCSatCMU & research scientist @allen_ai,research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+togelius,Julian Togelius,23755,521,23318,"Researcher. AI, games, markets, open-endedness, evolution. Professor @nyuniversity @NYUGameLab Head of AI @the_nof1 Co-founded @modl_ai Rogueliker.",research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+Smol_AI,smol ai (follow @latentspacepod for ainews),23636,438,497,,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+steph_palazzolo,Stephanie Palazzolo,23626,503,2129,"Writing AI Agenda @theinformation, texan, & horror movie aficionado // reach me at stephanie@theinformation.com or on Signal at 979-599-8091",other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+usebland,Bland,23390,217,4145,Voice AI for high-stakes calls. Get started at https://t.co/h70diJoCoS,creative/genAI,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+obrien,Chris O'Brien,23103,1195,49113,Journalist in Paris publishing The French Tech Journal newsletter 🇺🇲🇫🇷. Launching: The France AI Radar: https://t.co/eqHvUDXOLA,news/newsletter,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+JefferyTatsuya,Jeffery Kaneda　金田達也,22867,432,3543,https://t.co/XMkEfLzyoK  - https://t.co/TAbYHGeBnW (AI搜索引擎） - https://t.co/OZfPxx93LH （企业知识引擎）  - https://t.co/eRORaOHar0 Felo字幕会议纪要,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+simonhedlin,Simon Hedlin,22825,296,6946,AI policy researcher and lawyer focusing on open-weight models and the First Amendment. MA Columbia & JD/MPP Harvard. simon.hedlin@post.harvard.edu,research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+maithra_raghu,Maithra Raghu,22683,387,600,"Cofounder and CEO @Samaya_AI. Formerly Research Scientist Google Brain (@GoogleAI), PhD in ML @Cornell.",research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+viemccoy,vie ⟢,22607,241,33012,researcher @openai coevolution over successionism,research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+eWEEKNews,eWeek,22360,1782,61786,"Real-time enterprise tech news for CIOs & IT leaders. AI, cybersecurity, cloud & IT strategy.  📩 Join 270k+ pros reading Daily Tech Insider to stay ahead↓",news/newsletter,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+augmentcode,Augment Code,22340,291,1770,"More agents ≠ engineering transformation.  Meet Cosmos, the OS for agentic software development.",engineer,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+AISecurityInst,AI Security Institute (AISI),22089,358,519,We conduct scientific research to understand AI’s most serious risks and develop and test mitigations.,research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+So8res,Nate Soares ⏹️,22031,418,2715,Trying to make AI not kill everyone,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+NFT_Chen,SuSu_酥酥👅,21696,131,10562,"#BiBiCrew Co-founder｜@Sydney_Uni Master｜Stock & Crypto Trader｜AI Builder｜Not Financial Advice, DYOR",founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+OnlyHades_,0xHades,21159,155,38528,Hades Capital LLC 🔱 | Spotting early alphas & microcap edges | Onchain research + narrative radar | DM for high-conviction shares. Next 100x starts here,research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+superdoccimo,美濃加茂まむ,20966,123,9838,セミリタイア｜投資歴25年｜AIエージェント実運用ログと相場観｜OpenClaw / Codex ｜AI agents & market signals｜https://t.co/lzCBAueuRU,engineer,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+koltregaskes,Kol Tregaskes,20844,705,126282,"UK-based AI commentary & culture. Big news, leaks, rumours, models, policy, AI tools, access & creative shifts.   • Creative @Axylusion  • News @koltregaskes2",news/newsletter,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+godofprompt,God of Prompt,20537,196,971,"🔑 Your key to AI independence  Get powerful prompts, custom workflows, guides and essential info on all you may need in AI",other,25,2.1,11.9,76,0.83,1229,0.0095,deep-sampled
+ShinChven,ShinChven,20299,220,46084,My AI Slop Just Got Better.,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+nash_su,nash_su - e/acc,20164,304,3502,e/acc - AI创业者，大部分INTJ，偶尔ENTJ。Founder of  https://t.co/oumvmXCmCJ & https://t.co/Laxarievr1，Author of llm_wiki，前 IterCast/LinuxCast 创始人。马拉松爱好者（PB官方255）,founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+daweifs,老韭菜南亥,20100,66,27307,AI｜美股｜Meme叙事 蓝鸟会｜全真社区｜所有推文不构成投资建议 DYOR 欢迎优质合作TG：@daweifs,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+jiqizhixin,机器之心 JIQIZHIXIN,20067,367,10228,China's leading media & information provider for #AI & #MachineLearning,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+Mascobot,Marco Mascorro,19841,392,6949,"Researching LLMs | Roboticist | Prev: Partner @a16z, cofounded Fellow Robots, @BMW Research",research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+kieranklaassen,Kieran Klaassen,19770,449,6672,building @coracomputer | frontier team @every | compound engineering | agent-ophile  | composer | maker | baker,founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+MaziyarPanahi,Maziyar PANAHI,19713,343,37182,the on-device clinical AI guy | building @OpenMed_AI | making open models @arcee_ai | AI infra & research @CNRS | follow for local clinical AI demos,research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+FidlerSanja,Sanja Fidler,19626,245,629,"Associate Professor @UofT, Vice President of AI Research @nvidia, founding member of @VectorInst. Computer vision, deep learning, 3D. Opinions are my own.",research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+victor_explore,Victor,19554,204,43653,building ai agents in public. copy my homework 👇,founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+BlancheMinerva,Stella Biderman,19262,435,14900,Ensuring that tech companies don't have a monopoly on being able to do research on cutting edge AI @AiEleuther. She/her,research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+bookwormengr,GDP,18937,324,50286,"AI model & hardware co-design, Inference economics  Safe super intelligence for all  All views strictly personal. No investment advice, dummies!",creative/genAI,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+intheworldofai,WorldofAI,18348,260,2510,"In The World of AI is a captivating YouTube channel that explores the fascinating world of Artificial Intelligence (AI), Machine Learning, LLMs, & etc.",creative/genAI,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+BachFrancis,Francis Bach,18268,240,369,Researcher in machine learning,research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+thinkingjimmy,JimmyWong,18216,311,346,📚 工具产品爱好者 | Keep Building | 努力让更多的人用上 AI,founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+AIandDesign,⭕ AI & Design (Marco),18109,374,99643,"Building games, tools, and iOS apps with agents. UX guy, dog person, husband, dad. Ask or tell me anything: https://t.co/RTubAiaJZF",founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+geoffreyirving,Geoffrey Irving,18087,374,5568,"Cofounder and Chief Scientist at Resolution. Alignment will be solved, but not necessarily in time. Previously AISI, DeepMind, OpenAI, Google Brain, etc.",research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+stanislavfort,Stanislav Fort,17392,339,2937,Founder & Chief Scientist @Aisle_Inc | AI security | Stanford PhD in AI & Cambridge physics | ex-Anthropic and DeepMind | scientific progress + economic growth,research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+seki_images,AI画社(AI Image Studio),17378,216,6534,CivitAI: https://t.co/YrGzZObm5g Huggingface：https://t.co/Pl8NVhMhrR Github：https://t.co/GUbD4f1qZA,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+AlphaSignalAI,AlphaSignal,16772,333,1361,The gateway to the AI frontier.,other,25,27.2,0.9,40,0.93,821,0.006,deep-sampled
+menhguin,Minh Nhat Nguyen 🦭,16415,245,35054,"training programmable weights LLMs. advisor @hud_evals, owned @AIHubCentral(1MM users,acq.) ex climate protester🦦AI researcher, hard scifi enjoyer & $SMH degen",research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+alexrives,Alex Rives,16276,201,399,"AI for scientific discovery. Head of Science, Biohub. Founder and scientific director of the ESM project.",founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+arcee_ai,Arcee.ai,16224,242,951,Open models from an American research lab.  https://t.co/6gcSwU5nk3,research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+sayashk,Sayash Kapoor,15896,380,1666,"Incoming prof @UCBerkeley AI agents, policy, evals, AI for science Essay/newsletter (AI as Normal Technology): https://t.co/5amOkqLb4A Book (AI Snake Oil): https://t.co/DabpkhNZ2k",news/newsletter,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+ziv_ravid,Ravid Shwartz Ziv,15798,189,7760,"AI researcher | Meta | NYU. Working on compression, representation learning, and memory. I have an AI podcast!  https://t.co/Bzzp2OpwME",research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+brexton,brexton,15622,121,13554,"Global Co-Head, AI/Compute Infrastructure at the Cantor Group. Focused on compute, atoms, & physical AI. Janitor @phamilyoffice. ❤️ @sonofalli",other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+gumloop,Gumloop,15304,227,590,Automate any workflow with AI,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+zacharynado,Zachary Nado,15295,195,16619,"Gemini pretraining research eng @GoogleDeepMind. Personal account!!! Past: swe intern @SpaceX, ugrad researcher in @tserre lab. All opinions my own.",research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+Uncanny_Harry,Uncanny Harry AI,15190,345,14851,"AI Creative Director, Runway CPP, Kling CPP, Hailuo CPP, Luma CP, Pika CPP, Viggle CP see extended for more",creative/genAI,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+victornunez,Victor E. Nunez,15138,169,2924,chatgpt + codex at @OpenAI notes from the frontier dad 🇩🇴 🏀,engineer,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+legit_api,Legit,15043,292,3509,"covering AI news, working on @voxelbench",news/newsletter,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+csvoss,Chelsea Sierra Voss,14803,301,2628,"engineeress ✨ fmr member of technical staff @openai // ilu @martinshkreli // prev @pilothq, @sendwaveapp, @khanacademy, @MIT, IOL, 2x IBO",engineer,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+HochreiterSepp,Sepp Hochreiter,14786,221,733,Pioneer of Deep Learning and known for vanishing gradient and the LSTM.,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+avdnoord,Aäron van den Oord,14655,304,368,"GenMedia lead at DeepMind: Gemini Omni, Veo, Genie, Nano Banana.  Research Scientist",research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+vishalmisra,Vishal Misra,14638,181,25145,"Vice Dean Computing and AI @CUSEAS. Dean of Cricket Analytics @SFOUnicorns. Tweets on academia, cricket, dad/bad/wry jokes. Opinions of guy am pointing at.",other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+AIwithkhan,Smiling Khan,14535,146,68921,AI and Tech creator | Artificial Intelligence on the go  | DM for any Collaborations | CPP @higgsfield @openart_ai @itsPolloAI ✉️ aiwithsmiling@gmail.com,creative/genAI,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+anshublog,Anshu Sharma 🌶,14429,414,33243,"Co-founder & CEO Skyflow | Securing the flow of data across datastores, models, and agents",founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+jpschroeder,Justin Schroeder,14401,166,6701,"Co-founder of Standard Agents (🤫). Compulsive open source builder. Creator of dmux, ArrowJS, FormKit, AutoAnimate, Tempo, zodown...",founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+agentmail,AgentMail,14334,111,825,Email Inboxes for AI Agents 🕵🏻‍♂️   Backed by Y-Combinator and General Catalyst  Join the discord: https://t.co/Esfftaernp,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+zipengfu,Zipeng Fu,14298,211,442,"Cofounder and CEO @RewardAI_ | Past: Stanford PhD, Google DeepMind, CMU",research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+Prashant_1722,Prashant,14195,545,37019,"Posts about AI, tech and innovation | AI art | robots are good 🤖 | e/acc is real | BUILDING in artificial intelligence",founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+xiongchun007,程序员大熊,14117,100,7140,"👨‍💻 驻山程序员, 分享 AI 产品构建 • 出海实战  🛠️ Building @DataCollie, an AI-native data workbench, in public  🎬 YouTube: https://t.co/B9Yau8UMbJ",founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+thebuggeddev,The Bugged Dev,13953,121,2740,A Human Bugged by Bugs | Software Developer | Design Engineer | Building with AI | Learning Three.js 🥳,founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+sweis,Steve Weis,13370,338,8382,"Software engineer at @anthropicai interested in cryptography, security, privacy, and machine learning.",engineer,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+lvwerra,Leandro von Werra,13013,283,2311,Head of research @huggingface,research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+tvytlx,Xiao Tan,12734,117,3967,技术专家，从阿里到澳洲到AI创业 拆解AI与商业的底层逻辑，把复杂问题讲清楚,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+nebiustf,Nebius Token Factory,12722,127,1056,Own your intelligence. Precision-built inference for AI workloads at scale.   Powered by @nebiusai | Discord: https://t.co/SoJ89Kd4Wh,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+CAIS,Center for AI Safety,12637,270,359,Reducing societal-scale risks from AI.,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+OpenBMB,OpenBMB,12542,172,1881,OpenBMB (Open Lab for Big Model Base) aims to build foundation models and systems towards AGI. Connect with us: https://t.co/N9pevTnoOa,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+aapakari,Aapakari,12308,135,18529,AI | Growth,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+_streetdogg,Piyush Itankar,12224,63,2499,"Embedded Engineering @Google | Building https://t.co/7dhg3vfyjO in spare time, enabling engineers reason well. From AI to Transistor. views are my own.",founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+Cyber_Trailer,No Safe Words,12171,61,38722,"Founder: ‘The Sunset Project™️’ ‘Ai or Not™️’, ‘Not Financial Advice™️’ ‘Check On Tim / Zack’ Alerts. Club Tesla Bouncer ’Chalant level 69%",founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+Marty_cFly,MartycFly 🇳🇱 | 𝝠,12113,109,36332,"Cleaned all following :) 5+ years nomad; taking the next step Job: 30+ schools P2P tutoring platform, apps on the side, Web3 Extensions (pre ai rip) 3.5k+ users",other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+unixpickle,Alex Nichol,11975,274,7674,"Code, AI, and 3D printing. Opinions are mostly my own, sometimes a computer's. Husband of @thesamnichol. Co-creator of DALL-E 2. Researcher @openai.",research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+notjazii,J A Z I I,11951,434,257145,• Exploring AI & Agents  • Testing models & Covering AI/tech news • Ambassador @cognition & @vibevibefun • Building https://t.co/HQWNYNH34E,news/newsletter,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+jowettbrendan,Brendan Jowett,11772,171,1984,62k YouTube: https://t.co/XiXcHYcMwW  Join My AI Community (27k Members): https://t.co/ZEKtI9kOsR Sponsorships: brendan@inflate.agency,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+davidmanheim,"David Manheim ✈️ Montreal, Oct 26-28",11616,414,71859,"Founder @alter_org_il, Methods @EvalConsensusAI, emeritus @superforecaster, PhD @PardeeRAND  Optimistic on AI, pessimistic on humanity managing the risks well.",research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+daniel_271828,zzDANIEL_ETH,11582,265,42314,"Researching effects of automated AI R&D | pro-America, pro-tech, & pro-AI safety",research,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+AI21Labs,AI21 Labs,11274,312,690,Shipping frontier models and agents since 2021. We help enterprises sustain their target agent accuracy within fixed cost & latency budgets.,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+ErenChenAI,Eren Chen,10903,127,2304,Exploring the Frontier of Physical AI.  All opinions are my own.,other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+jd_pressman,John David Pressman,10437,289,18698,"LLM developer, AI agents, synthetic data, scalable alignment, forecasting, behavioral uploading. Transhumanist.  All tweets public domain under CC0 1.0.",engineer,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+jacalulu,Jaclyn Konzelmann,10283,175,3684,"Product Director @GoogleLabs building @PomelliByGoogle, Opal, Mixboard. Previously Gemini API, AI Studio, Project Mariner. YC alum. Mom of 3. Views my own.",founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+cliffbaldridge,Cliff Baldridge 😎 #AWE #AWE2026 #AR #VR #XR #AI,10252,240,88919,"#Futurist #AWE #AWE2026 #AR #VR #XR #AI #QUANTUM https://t.co/Z2LFD1DLCl 400K YouTube 28K LinkedIn Connections. Emerging Tech, Futurist.",other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+sharongoldman,Sharon Goldman,10196,297,10909,"Founder, Ground Level AI. Previously covered AI at Fortune. Field reporting from the front lines of AI.  https://t.co/YoXtonhM6E Signal: sharongoldman.43",founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+Brii_toe_knee,Brii (she/her) 🧠👩🏾‍💻✊🏾💅🏾,10149,185,2140,"Ex-Meta | AI Documentation Strategist | I help AI companies close the gap between their ethics principles and their user-facing docs | Founder, TechniDox",founder/builder,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
+MaartenGr,Maarten Grootendorst,10108,193,391,"AI @GoogleDeepMind | Author of ""Hands-On LLMs"" (https://t.co/eTl2pWu6kN) & ""Illustrated Guided to AI Agents"" (https://t.co/r0E4OICEtt) | RAG Pack (https://t.co/UE7wIVUegv)",other,,,,,,,,"profile-only (followers>=10k, listed>=50, tweets>=300, AI bio)"
