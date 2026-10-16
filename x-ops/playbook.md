@@ -327,3 +327,12 @@ Action: always use the COMPANY:/BREAKING opener, always attach a screenshot or s
 6. What really goes viral is exclusive or hands-on content, not reposting (legit_api's own benchmark screenshots got 260K–540K).
 7. Frequency isn't the key: successful accounts post anywhere from under 1 to 8 times a day. Stable format and timely replies matter more.
 Action: in the 0–1k stage, put most effort into fast, substantive replies; keep originals in one fixed format; prioritize hands-on or screenshot content.
+
+## Hot news research (热点分析师, web/Techmeme, Oct 16, 2026; full text in research/2026-10-16-hotnews-research.md; X impression data was thin, so findings are mostly qualitative)
+1. Reach by type (qualitative): model launches > funding/financials > safety research > leaks > personnel. Tutorial posts can have a longer tail than news (e.g. a Claude tutorial with 4.2M impressions).
+2. Big launches often go out at 09:00 PT, i.e. 00:00 Beijing. Watch 21:00–02:00 Beijing to be first (tension with the free-tier cap: keep 2–3 slots in reserve at night).
+3. Mark leaks as "spotted/unconfirmed", and post the correction as a follow-up (e.g. the Fable 5.5 / LiteLLM leak that was later deleted).
+4. Financial news breaks at Bloomberg/FT and spreads on X via andrewcurran_, kobeissiletter, scaling01.
+5. Safety research and incident disclosures get the hottest reply sections; use the "key points + take" format.
+6. Open-source models launch the same day on their official blog and Hugging Face; spec tables suit technical posts.
+Sources to watch: testingcatalog, chetaslua, andrewcurran_, scaling01, iruletheworldmo, markgurman, dinabass, nmasc_, The Information, Techmeme, GitHub BerriAI/litellm commits, alignment.openai.com.
