@@ -297,3 +297,12 @@ Who this helps: {…}
 - During cold start, spread volume across the day (peak was 76/hour at 15–16h, too concentrated). Budget about 150–180 per day, leaving room for originals.
 - When the cap hits, stop at once and don't retry. Premium raises the cap, but it's the owner's purchase decision.
 - Follow-up evidence: after hitting the cap at 19:06, one original post still went through at 19:30, but the self-reply right after it was blocked. That looks like a rolling 24h window that frees a slot or two at a time. When near the cap, keep the most important post (the original) and add its source reply later.
+
+## Reply research (小婷, browser, Oct 16, 2026; ~45 replies under OpenAI/Anthropic/karpathy/emollick/fchollet/kimmonismus plus 4 Replies tabs)
+1. Timing is everything: top replies land within 1–3h of the parent post. Our 1–7h-late replies got 1–5 impressions. Only reply to posts under 2h old, and on mega-posts only in the first 30 min. e.g. https://x.com/NFiniT7777/status/2109372159923757516 vs ours https://x.com/Gotwei/status/2111015685044281673
+2. An early image or GIF with a short caption wins on mega-posts; late copycats get nothing (https://x.com/igor_pesin/status/2109627274773590076).
+3. Pushback or a concrete added fact gets traction (https://x.com/Sophty_/status/2110896402251514276, https://x.com/m_adams/status/2110053908748148783). Plain agreement doesn't.
+4. Generic praise like "Congrats/woah" stays in single-digit likes, even from big accounts.
+5. A specific question about how something works gets the author to reply (https://x.com/fchollet/status/2109100717596381405), but few likes. Use it to build a relationship.
+6. Well-known accounts are ranked first in replies, so a small account is more visible under mid-size AI posts.
+7. Snark, piling on, and "thanks" replies get about 0 likes.
