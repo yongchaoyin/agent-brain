@@ -290,3 +290,9 @@ Who this helps: {…}
 - 每个账号只取了最近约 25 条帖子，样本时间窗很短（高频账号只覆盖不到 1 天），数据受当天热点影响（Muse Spark、Tesla Roadster）。
 - 部分早期样本缺少 in_reply_to 字段，所以回复分析只基于 520 条有回复对象的回复。
 - 后续：每天新增约 300–500 个账号到 CSV，同时对 Top 100 做第二轮采样（用 pagination 往前翻），并按周跟踪 @Gotwei 执行前后的曝光中位数变化。
+
+## Free account daily cap (observed Oct 16, 2026)
+- @Gotwei hit X's "daily post limit" at 19:06 Beijing time after about 217 posts in 24h (originals and replies combined, counted via search, so possibly an undercount). Practical cap: about 200+ per 24h.
+- It's unclear whether the window is a calendar day or a rolling 24h, so the morning after may still be capped. Do a small 3-post test before resuming.
+- During cold start, spread volume across the day (peak was 76/hour at 15–16h, too concentrated). Budget about 150–180 per day, leaving room for originals.
+- When the cap hits, stop at once and don't retry. Premium raises the cap, but it's the owner's purchase decision.
