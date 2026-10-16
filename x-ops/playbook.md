@@ -175,6 +175,13 @@ New: {a map/cheatsheet} of {topic}.
 - 置顶帖：一条代表作（深度清单或对比图），或者每周汇总，每周更新。
 - 依据：对标 TestingCatalog / AI Breakfast 等资讯号——名字带 AI；涨粉靠回复时头像宜极简字母标；横幅扛「给谁看 + 发什么」。
 
+
+### 本号实测（2026-10-16 半小时对比，n=3）
+- Muse Spark Open（新闻要点 + why it matters + 配图）：12 曝光 / 1 赞
+- NVIDIA App：7 / 0
+- ChatGPT vs Claude A/B 开放问：5 / 0
+- 暂定：冷启动原创优先「新闻要点 + why it matters + 配图」；A/B 开放问样本小且暂落后，先少用，积累更多样本后再判。
+
 ## 3. 可复用模板（英文）
 **T1 快讯（截图/视频）**
 ```
