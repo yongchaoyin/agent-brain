@@ -296,3 +296,4 @@ Who this helps: {…}
 - It's unclear whether the window is a calendar day or a rolling 24h, so the morning after may still be capped. Do a small 3-post test before resuming.
 - During cold start, spread volume across the day (peak was 76/hour at 15–16h, too concentrated). Budget about 150–180 per day, leaving room for originals.
 - When the cap hits, stop at once and don't retry. Premium raises the cap, but it's the owner's purchase decision.
+- Follow-up evidence: after hitting the cap at 19:06, one original post still went through at 19:30, but the self-reply right after it was blocked. That looks like a rolling 24h window that frees a slot or two at a time. When near the cap, keep the most important post (the original) and add its source reply later.
