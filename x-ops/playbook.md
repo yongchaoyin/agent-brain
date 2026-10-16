@@ -132,11 +132,13 @@ New: {a map/cheatsheet} of {topic}.
 - 自己帖子下的每一条评论都在 1 小时内回复。
 - 自回复里如果放 x.com 帖子链接，X 会自动渲染成引用卡片（2026-10-16 实测）。想借原帖的截图和热度时可以这样做；只想放来源时，用官方网页链接。
 
-### 主页
-- 名称：`wei news | AI daily` 这类写法，让人一眼看出赛道。
-- Bio 示例："AI news without the noise. Model launches, pricing changes & what they mean for builders. Daily, sourced, with my take." 别写成泛泛的 "Global AI news & insights"。
+### 主页（2026-10-16 定稿）
+- 显示名：`Wei AI`（handle `@Gotwei` 先不动）
+- Bio：`AI models, products & research — with a practical take for builders.`
+- 头像：黑底白字 `W`（时间线小尺寸更清晰）
+- 横幅：`Wei AI · Daily briefings for builders`
 - 置顶帖：一条代表作（深度清单或对比图），或者每周汇总，每周更新。
-- 头像用清晰的 logo，横幅写一句价值主张，再加一句发布节奏，比如 "Daily AI briefings, 9am ET"。
+- 依据：对标 TestingCatalog / AI Breakfast 等资讯号——名字带 AI；涨粉靠回复时头像宜极简字母标；横幅扛「给谁看 + 发什么」。
 
 ## 3. 可复用模板（英文）
 **T1 快讯（截图/视频）**
