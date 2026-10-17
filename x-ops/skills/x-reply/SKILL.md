@@ -14,7 +14,7 @@ description: Use when writing replies for @Gotwei (运营小婷's job) — choos
 
 ## What
 5. Add substance: a concrete fact, number, source, or reasoned pushback (https://x.com/Sophty_/status/2110896402251514276, https://x.com/m_adams/status/2110053908748148783). Plain agreement doesn't travel.
-6. Length: ≥200-char substantive replies got ~2× relative reach (v2.2: 0.083 vs 0.036–0.039); likes rise with length (median 2 → 6). Aim 40–200+ chars.
+6. Length (v2.3, supersedes the old "≥200 chars" rule, which came from late replies on small threads): length depends on parent type — see "v2.3 rules" below.
 7. Early image/GIF + short caption wins on mega-posts; late copycats get nothing (https://x.com/igor_pesin/status/2109627274773590076).
 8. A specific "how does X work" question gets author replies (https://x.com/fchollet/status/2109100717596381405) but few likes — use for relationships.
 9. Never: "🔥"/"Congrats"/"woah"/"LFG"/"thanks" only, snark, piling on, links, @-ing for traffic. One-word replies work only for established accounts (ns123abc "🫡" 13,250 imp https://x.com/i/status/2110114683348721757) — not us. Vary wording.
@@ -27,3 +27,15 @@ description: Use when writing replies for @Gotwei (运营小婷's job) — choos
 
 Note: some top accounts' high reply counts are community management under their own posts with tiny views (ai_for_success), vs. minchoi's quick reactions under big accounts (150–8.8K views) — see research/2026-10-16/creator-top-posts-batch1-raw.md.
 More examples & data: references/evidence.md.
+
+
+## v2.3 rules (2026-10-17, from overnight research; pending validation by data review)
+- Only reply to AI posts < 15 min old whose views are already climbing (thousands+). Late replies got 2–13 views.
+- No "A, B, or C?" endings. Lead with a stance; vary sentence shape.
+- By parent type:
+  - Big account, life/chit-chat post: deadpan joke or rhetorical question, ≤ 60 chars (top replies median 20–40 chars).
+  - Big account, AI launch/model post: one-line judgement, ≤ 80 chars.
+  - Technical post / mid-size account: 120–250 chars, a concrete number + one pointed follow-up; or a jargon quip (30–60 chars, e.g. "4k tokens context window btw"); or congrats + a usable resource.
+- Red lines: no swearing, insults, or attacks on specific people.
+- Volume: ≤ 1 reply per 5 min, ≤ 150 replies/day; posts+replies ≤ 170 per rolling 24h (free-account cap ~200 was hit on 2026-10-16).
+- Browser: one tab, ≤ 2 page loads/min, only one agent on the @Gotwei login at a time; stop on 429/splash.

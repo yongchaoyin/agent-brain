@@ -19,3 +19,9 @@
 
 ## 2026-10-15
 - Initial commit.
+
+## v2.3 — 2026-10-17
+- Merged overnight research (xyunying, lili, xiaoting, fupan, peitu) into research/2026-10-17/.
+- x-reply: replaced "≥200 chars" with parent-type length rules; freshness <15 min; no A/B/C endings; volume caps.
+- x-original-post: new formats, red lines, compute & funding category.
+- Added playbook.md stub.

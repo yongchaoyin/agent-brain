@@ -34,3 +34,16 @@ description: Use when writing an original @Gotwei post (运营丽丽's job) — 
 Name `Wei AI` (handle @Gotwei unchanged); bio `AI models, products & research — with a practical take for builders.`; minimal letter avatar; banner `Wei AI · Daily briefings for builders`; pin a best post or weekly recap, refresh weekly. Rationale: TestingCatalog/AI Breakfast-style names include "AI"; letter avatars read well in reply timelines; banner states who it's for + what. Assets in /workspace/gotwei (avatar_user.png, banner_user.png, bio.txt).
 
 Templates: references/templates.md · Evidence & top-post examples: references/evidence.md
+
+
+## v2.3 formats (2026-10-17)
+- Leak/BREAKING with real screenshot + source in self-reply; unsourced → "Reportedly…" or skip.
+- "BREAKING NEWS: <product> can now <everyday capability>" + self-reply with a concrete prompt.
+- Launch line: "<Model> is now free / open-weight / in public beta." + 2–4 spec bullets + demo/spec image.
+- "JUST IN:/New:" + a concrete number, < 200 chars (e.g. Accenture $29/mo Claude cap, 2M views).
+- "I asked <model> to <task>. It <unexpected result>." + screenshot.
+- Sharp one-line take or analogy ("X is the DeepSeek moment of Y"); quote-post a big lab launch + one-line stat (test 1–2).
+- Launch-day demo threads; practical subscription/quota-saving tutorials (13:30 slot).
+- New category: AI compute & funding, ≤ 1/day.
+- Avoid: link cards, high-frequency tip posts, flat fixed-schedule posts, A/B question endings.
+- New accounts grew by replying to big accounts in the first weeks (MilkRoadAI, blankspeaker, chetaslua).
