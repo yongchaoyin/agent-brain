@@ -49,3 +49,13 @@ Templates: references/templates.md · Evidence & top-post examples: references/e
 - New category: AI compute & funding, ≤ 1/day.
 - Avoid: link cards, high-frequency tip posts, flat fixed-schedule posts, A/B question endings.
 - New accounts grew by replying to big accounts in the first weeks (MilkRoadAI, blankspeaker, chetaslua).
+
+## @Gotwei own data + mid-size sample (2026-10-17)
+- Openers: "BREAKING:" or "<Company> 🔥:" beat "Oct. N:" date openers → no date openers.
+- Source self-reply within ~2 min (ours: median 16.5 vs 8) → always; links/disclaimers live in the self-reply.
+- First line = a complete, screenshot-able claim (product + number); media is proof, not the post.
+- Quoting a primary source: write a sharper line above it; bare quotes barely travel (own quotes ≈0.76× originals).
+- Launch day: short burst; post 2 = a test or next claim quoting post 1.
+- "Who beat whom by how much" comparisons beat roundups, thank-yous, sponsored tone.
+- Cadence: 7–10 originals/day max, format locked; replies 40–60/day; don't expect 1k followers in a week.
+- Images: our data favors images (17 vs 8), creator sample doesn't (0.86×) → keep images; test later.

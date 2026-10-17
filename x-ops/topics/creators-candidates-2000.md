@@ -1,0 +1,306 @@
+# AI creator candidates toward 2000-library
+
+Generated 2026-10-17 (Asia/Shanghai).
+- Web discovery: WebSearch/WebFetch curated lists (no browser).
+- Profile enrichment: `x` MCP `get_users_by_usernames` → `data/creators_discover.csv` (follower counts verified where present).
+- Excluded handles already in `data/creators.csv` or `data/creators_expand.csv`.
+
+**Priority (X运营):** English-language AI accounts with **0→10k cold-start** growth (tag `0-to-10k cold start`), analogous to `godofprompt`, `MilkRoadAI`, `blankspeaker`, `chetaslua`.
+
+**Counts:** 279 candidates in this file; 262 with live X profile rows in `creators_discover.csv`; 54 cold-start tagged.
+**Reads left after enrich:** 184 / 1000 today (stop floor ≤50).
+
+## 0-to-10k cold start (priority)
+
+- **@AIJasonZ** — followers: 50k-100k — AI Builder Club — note: `0-to-10k cold start` — web-only — source: https://ai-tldr.dev/influencers/
+- **@aikiframework** — followers: 46 — AI implementation frameworks — note: `0-to-10k cold start` — verified — source: https://blog.visionik.com/top-50-ai-folks-to-follow-on-x/
+- **@AILeaksAndNews** — followers: 7166 — AI leaks aggregator — note: `0-to-10k cold start` — verified — source: https://x.com/AILeaksAndNews
+- **@aitrendz_xyz** — followers: 23497 — Simple practical AI tips — note: `0-to-10k cold start` — verified — source: https://circleboom.com/blog/ai-influencers-to-follow-for-image-generation-and-prompts-on-x-twitter/
+- **@alex_prompter** — followers: 283768 — Alex Prompter; co-brand prompt firehose; joined ~2023 — note: `0-to-10k cold start` — verified — source: https://www.wikiprompt.org/blog/top-twitter-accounts-sharing-ai-prompts
+- **@astronomerozge1** — followers: 17200 — Surreal cosmic AI art — note: `0-to-10k cold start` — verified — source: https://circleboom.com/blog/ai-influencers-to-follow-for-image-generation-and-prompts-on-x-twitter/
+- **@azed_ai** — followers: 60773 — Design/typography AI prompts — note: `0-to-10k cold start` — verified — source: https://www.wikiprompt.org/blog/top-twitter-accounts-sharing-ai-prompts
+- **@bananababydoll** — followers: 9756 — Photoreal Nano Banana prompts — note: `0-to-10k cold start` — verified — source: https://circleboom.com/blog/ai-influencers-to-follow-for-image-generation-and-prompts-on-x-twitter/
+- **@bensbites** — followers: 374 — Ben's Bites brand — note: `0-to-10k cold start` — verified — source: https://etarget.com/who-to-follow/
+- **@BetOnAI_net** — followers: 1k-10k — AI newsletter brand — note: `0-to-10k cold start` — web-only — source: https://betonai.net/best-ai-influencers-to-follow-2026-x-reddit-youtube/
+- **@bri_guy_ai** — followers: 23778 — Portrait prompts / weekly AI zines — note: `0-to-10k cold start` — verified — source: https://circleboom.com/blog/ai-influencers-to-follow-for-image-generation-and-prompts-on-x-twitter/
+- **@bridgebench** — followers: 13544 — mentioned in x-ops research CSVs — note: `0-to-10k cold start` — verified — source: x-ops research
+- **@ColeMedin** — followers: 50k-100k — n8n / local agents — note: `0-to-10k cold start` — web-only — source: https://ai-tldr.dev/influencers/
+- **@corbin_braun** — followers: 65621 — Cursor + Ares AI coding workflows — note: `0-to-10k cold start` — verified — source: https://blog.visionik.com/top-50-ai-folks-to-follow-on-x/
+- **@corbin_brown** — followers: 6 — AI coding (ai-tldr Corbin_Brown) — note: `0-to-10k cold start` — verified — source: https://ai-tldr.dev/influencers/
+- **@craftian_keskin** — followers: 41819 — Midjourney dark arts styles — note: `0-to-10k cold start` — verified — source: https://circleboom.com/blog/ai-influencers-to-follow-for-image-generation-and-prompts-on-x-twitter/
+- **@Da7_Tech** — followers: 11902 — mentioned in x-ops research CSVs — note: `0-to-10k cold start` — verified — source: x-ops research
+- **@daveebbelaar** — followers: 1296 — AI agents production — note: `0-to-10k cold start` — verified — source: https://ai-tldr.dev/influencers/
+- **@ecommartinez** — followers: 170339 — Commerce/marketing AI prompts — note: `0-to-10k cold start` — verified — source: https://www.wikiprompt.org/blog/top-twitter-accounts-sharing-ai-prompts
+- **@egeberkina** — followers: 89102 — Daily AI image drops + prompts — note: `0-to-10k cold start` — verified — source: https://circleboom.com/blog/ai-influencers-to-follow-for-image-generation-and-prompts-on-x-twitter/
+- **@EngineerPrompt** — followers: 1258 — prompt eng channel — note: `0-to-10k cold start` — verified — source: https://ai-tldr.dev/influencers/
+- **@eptwts** — followers: 138753 — attention engineer; prompts + growth hacks (Visionik list) — note: `0-to-10k cold start` — verified — source: https://blog.visionik.com/top-50-ai-folks-to-follow-on-x/
+- **@heyzainkahn** — followers: 100k+ — Superhuman AI newsletter — note: `0-to-10k cold start` — web-only — source: https://www.newsletteroperator.com/p/ai-newsletter-war
+- **@interconnectsai** — followers: 9440 — Interconnects newsletter — note: `0-to-10k cold start` — verified — source: https://digg.com/u/x/interconnectsai
+- **@itsPaulAi** — followers: 220660 — AI productivity workflows — note: `0-to-10k cold start` — verified — source: https://fireply.ai/best-ai-twitter-accounts
+- **@jackfriks** — followers: 178909 — Solo AI apps with revenue; joined 2023 — note: `0-to-10k cold start` — verified — source: https://blog.visionik.com/top-50-ai-folks-to-follow-on-x/
+- **@LearnWithAbbay** — followers: 7790 — Structured educational AI prompts — note: `0-to-10k cold start` — verified — source: https://circleboom.com/blog/ai-influencers-to-follow-for-image-generation-and-prompts-on-x-twitter/
+- **@lexx_aura** — followers: 21392 — Photoreal AI portraits + JSON prompts — note: `0-to-10k cold start` — verified — source: https://circleboom.com/blog/ai-influencers-to-follow-for-image-generation-and-prompts-on-x-twitter/
+- **@LudovicCreator** — followers: 38174 — Most prolific AI prompt sharer on Wikiprompt index (image/video) — note: `0-to-10k cold start` — verified — source: https://www.wikiprompt.org/blog/top-twitter-accounts-sharing-ai-prompts
+- **@lyle_ai** — followers: 10k-50k — Template-style AI prompts — note: `0-to-10k cold start` — web-only — source: https://www.wikiprompt.org/blog/top-twitter-accounts-sharing-ai-prompts
+- **@meta_alchemist** — followers: 75104 — Claude experiments / agent architecture — note: `0-to-10k cold start` — verified — source: https://blog.visionik.com/top-50-ai-folks-to-follow-on-x/
+- **@Minahil42298354** — followers: 12866 — High-volume image prompts — note: `0-to-10k cold start` — verified — source: https://www.wikiprompt.org/blog/top-twitter-accounts-sharing-ai-prompts
+- **@moondreamai** — followers: 12811 — mentioned in x-ops research CSVs — note: `0-to-10k cold start` — verified — source: x-ops research
+- **@moritzkremb** — followers: 75101 — Prompt Warrior; documented 0→10k/~45k AI-thread growth — note: `0-to-10k cold start` — verified — source: https://www.thepromptwarrior.com/p/using-ai-write-viral-twitter-threads
+- **@natebjones** — followers: 8855 — AI daily strategy — note: `0-to-10k cold start` — verified — source: https://ai-tldr.dev/influencers/
+- **@neerajjj6785** — followers: 6306 — mentioned in x-ops research CSVs — note: `0-to-10k cold start` — verified — source: x-ops research
+- **@nmasc_** — followers: 56266 — AI news — note: `0-to-10k cold start` — verified — source: https://x.com/nmasc_
+- **@physical_int** — followers: 53306 — Physical Intelligence — note: `0-to-10k cold start` — verified — source: https://github.com/shanmukh05/awesome-tech-twitter-accounts
+- **@r4jjesh** — followers: 25040 — Playful AI edit prompts — note: `0-to-10k cold start` — verified — source: https://circleboom.com/blog/ai-influencers-to-follow-for-image-generation-and-prompts-on-x-twitter/
+- **@rileybrown_ai** — followers: 10k-50k — Vibecode educator (Visionik; verify vs rileybrownai) — note: `0-to-10k cold start` — web-only — source: https://blog.visionik.com/top-50-ai-folks-to-follow-on-x/
+- **@rileybrownai** — followers: 50k-100k — Vibe coding / A New Vibe podcast — note: `0-to-10k cold start` — web-only — source: https://ai-tldr.dev/influencers/
+- **@rovvmut_** — followers: 32357 — AI portraits cinematic prompts — note: `0-to-10k cold start` — verified — source: https://circleboom.com/blog/ai-influencers-to-follow-for-image-generation-and-prompts-on-x-twitter/
+- **@rubenhassid** — followers: 96371 — How to AI newsletter; viral prompt guides — note: `0-to-10k cold start` — verified — source: https://superx.so/creators/rubenhassid
+- **@RyanGreenblatt** — followers: 22943 — AI starter pack curated follow list — note: `0-to-10k cold start` — verified — source: https://xstarterpack.com/
+- **@Samann_ai** — followers: 5053 — AI video art + structured JSON prompts — note: `0-to-10k cold start` — verified — source: https://circleboom.com/blog/ai-influencers-to-follow-for-image-generation-and-prompts-on-x-twitter/
+- **@scaling01** — followers: 61255 — AI scaling news — note: `0-to-10k cold start` — verified — source: https://x.com/scaling01
+- **@Sheldon056** — followers: 13958 — Cinematic Nano Banana prompts — note: `0-to-10k cold start` — verified — source: https://circleboom.com/blog/ai-influencers-to-follow-for-image-generation-and-prompts-on-x-twitter/
+- **@SimplyAnnisa** — followers: 16661 — Photoreal lifestyle AI portraits — note: `0-to-10k cold start` — verified — source: https://circleboom.com/blog/ai-influencers-to-follow-for-image-generation-and-prompts-on-x-twitter/
+- **@TechieBySA** — followers: 36313 — Experimental AI tools/prompts — note: `0-to-10k cold start` — verified — source: https://circleboom.com/blog/ai-influencers-to-follow-for-image-generation-and-prompts-on-x-twitter/
+- **@TheAIAndy** — followers: 10k-50k — AI tool reviews — note: `0-to-10k cold start` — web-only — source: https://ai-tldr.dev/influencers/
+- **@typesafeai** — followers: 168413 — mentioned in x-ops research CSVs — note: `0-to-10k cold start` — verified — source: x-ops research
+- **@underwoodxie96** — followers: 44662 — AI video tutorials — note: `0-to-10k cold start` — verified — source: https://circleboom.com/blog/ai-influencers-to-follow-for-image-generation-and-prompts-on-x-twitter/
+- **@ValsAI** — followers: 27499 — mentioned in x-ops research CSVs — note: `0-to-10k cold start` — verified — source: x-ops research
+- **@YaseenK7212** — followers: 38753 — Gemini/Grok prompt shares — note: `0-to-10k cold start` — verified — source: https://circleboom.com/blog/ai-influencers-to-follow-for-image-generation-and-prompts-on-x-twitter/
+
+## Other AI candidates
+
+- **@01ayushgarg** — followers: 1359 — mentioned in x-ops research CSVs — verified — source: x-ops research
+- **@0xgaut** — followers: 149219 — tech and agents posting, 149k, active; tweets=32836 — verified — source: benchmark-candidates.csv
+- **@0xkydo** — followers: 15079 — mentioned in x-ops research CSVs — verified — source: x-ops research
+- **@_chenglou** — followers: 78342 — mentioned in x-ops research CSVs — verified — source: x-ops research
+- **@_EldarKurtic** — followers: 1113 — mentioned in x-ops research CSVs — verified — source: x-ops research
+- **@_KarenHao** — followers: 86037 — AI journalism — verified — source: https://fireply.ai/best-ai-twitter-accounts
+- **@_yutaroyamada** — followers: 869 — mentioned in x-ops research CSVs — verified — source: x-ops research
+- **@AdamMarblestone** — followers: 11541 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@AdityaJhajhar12** — followers: 1775 — mentioned in x-ops research CSVs — verified — source: x-ops research
+- **@aidan_gomez** — followers: 405 — Cohere (Visionik spelling) — verified — source: https://blog.visionik.com/top-50-ai-folks-to-follow-on-x/
+- **@ajaymehta** — followers: 4586 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@akothari** — followers: 63452 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@alexeheath** — followers: 509177 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@AlexGDimakis** — followers: 25432 — mentioned in x-ops research CSVs — verified — source: x-ops research
+- **@alexolegimas** — followers: 37842 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@Amanda_AIforEd** — followers: 446 — See Then Build AI curator — verified — source: https://seethenbuild.com/explore/curators
+- **@andrewchen** — followers: 449597 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@andy_matuschak** — followers: 63369 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@Apptronik** — followers: 23878 — mentioned in x-ops research CSVs — verified — source: x-ops research
+- **@ARozenshtein** — followers: 5639 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@art_zucker** — followers: 8454 — mentioned in x-ops research CSVs — verified — source: x-ops research
+- **@Artedeingenio** — followers: 63807 — Spanish AI image catalog (lower EN priority) — verified — source: https://www.wikiprompt.org/blog/top-twitter-accounts-sharing-ai-prompts
+- **@Arxiv_Daily** — followers: 49806 — daily AI paper feed (bot-like, lower); tweets=36127 — verified — source: benchmark-candidates.csv
+- **@asianometry** — followers: 18931 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@ATabarrok** — followers: 98221 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@badlogicgames** — followers: 76510 — Pi coding agent — verified — source: https://ai-tldr.dev/influencers/
+- **@balajis** — followers: 2263606 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@bchesky** — followers: 1696787 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@benjitaylor** — followers: 226060 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@benkuhn** — followers: 11522 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@benspringwater** — followers: 8199 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@benthompson** — followers: 286840 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@BerenMillidge** — followers: 5086 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@blader** — followers: 416499 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@blakeir** — followers: 69809 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@BotJunkie** — followers: 15405 — IEEE Spectrum robotics editor; tweets=8659 — verified — source: benchmark-candidates.csv
+- **@BrettFromDJ** — followers: 170958 — Design + AI — verified — source: https://blog.visionik.com/top-50-ai-folks-to-follow-on-x/
+- **@brian_armstrong** — followers: 4016695 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@brian_lovin** — followers: 159654 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@bridgemindai** — followers: 66762 — mentioned in x-ops research CSVs — verified — source: x-ops research
+- **@buccocapital** — followers: 189127 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@ByrneHobart** — followers: 61943 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@calebwatney** — followers: 23861 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@calebwward** — followers: 809 — See Then Build AI curator — verified — source: https://seethenbuild.com/explore/curators
+- **@catehall** — followers: 30676 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@CJHandmer** — followers: 69179 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@collision** — followers: 251147 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@colossusjeremy** — followers: 12158 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@danhilltech** — followers: 2956 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@danielgross** — followers: 406506 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@DarioAmodei** — followers: 851119 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@davemorin** — followers: 654513 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@DavidSacks** — followers: 1772091 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@DavidSHolz** — followers: 121676 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@destraynor** — followers: 47145 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@dharmesh** — followers: 601851 — HubSpot founder AI side projects — verified — source: https://blog.visionik.com/top-50-ai-folks-to-follow-on-x/
+- **@dhh** — followers: 926639 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@djrosent** — followers: 30131 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@DKThomp** — followers: 264749 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@dps** — followers: 26740 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@DrEliDavid** — followers: 860408 — AI/general commentary, 860k (too big, often off-topic); tweets=36610 — verified — source: benchmark-candidates.csv
+- **@dwr** — followers: 144224 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@dyett** — followers: 5706 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@EgeErdil2** — followers: 7335 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@ehartford** — followers: 10k-50k — Dolphin OSS LLMs — web-only — source: https://ai-tldr.dev/influencers/
+- **@eladgil** — followers: 737994 — No Priors — verified — source: https://ai-tldr.dev/influencers/
+- **@eliotpeper** — followers: 4286 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@elonmusk** — followers: 241499967 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@elvis_sars** — followers: 10k-50k — AI coding tutorials (Visionik) — web-only — source: https://blog.visionik.com/top-50-ai-folks-to-follow-on-x/
+- **@ezraklein** — followers: 2635714 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@FanaHOVA** — followers: 8237 — ex Latent Space — verified — source: https://ai-tldr.dev/influencers/
+- **@finkd** — followers: 2505960 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@finmoorhouse** — followers: 5792 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@FredaDuan** — followers: 40008 — Altimeter enterprise AI — verified — source: https://github.com/yudawdev/awesome-ai-on-x
+- **@friedberg** — followers: 624086 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@garrytan** — followers: 1141353 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@GavinSBaker** — followers: 355637 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@gilbert** — followers: 43676 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@gizakdag** — followers: 244386 — Viral AI art / Midjourney — verified — source: https://blog.visionik.com/top-50-ai-folks-to-follow-on-x/
+- **@GoogleForHealth** — followers: 33259 — mentioned in x-ops research CSVs — verified — source: x-ops research
+- **@gregisenberg** — followers: 740671 — Startup ideas / AI business — verified — source: https://blog.visionik.com/top-50-ai-folks-to-follow-on-x/
+- **@growing_daniel** — followers: 452987 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@gruber** — followers: 334700 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@gustaf** — followers: 36688 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@GuyParsons** — followers: 6 — See Then Build AI curator — verified — source: https://seethenbuild.com/explore/curators
+- **@gwern** — followers: 107092 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@haider1** — followers: 72255 — mentioned in x-ops research CSVs — verified — source: x-ops research
+- **@harjtaggar** — followers: 39548 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@helloiamleonie** — followers: 21387 — mentioned in x-ops research CSVs — verified — source: x-ops research
+- **@ilblackdragon** — followers: 120287 — Transformer coauthor — verified — source: https://xfollowlist.com/topics/llm-research
+- **@ivanhzhao** — followers: 86825 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@j_asminewang** — followers: 15409 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@jack** — followers: 12538944 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@jacksondahl** — followers: 42184 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@JacobTref** — followers: 8549 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@jaltma** — followers: 403279 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@jamesbriggs** — followers: 196 — RAG/agents tutorials — verified — source: https://ai-tldr.dev/influencers/
+- **@jasminewsun** — followers: 25485 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@jasoncrawford** — followers: 45579 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@javilop** — followers: 136484 — AI creative curation (Spanish), very active; tweets=77926 — verified — source: benchmark-candidates.csv
+- **@jeff_weinstein** — followers: 54486 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@JensenHuang** — followers: 1134388 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@jeremygiffon** — followers: 34166 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@jkcarlsmith** — followers: 13756 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@JohnNayAI** — followers: 10k-50k — AI agents in legal/compliance — web-only — source: https://blog.visionik.com/top-50-ai-folks-to-follow-on-x/
+- **@johnschulman2** — followers: 82842 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@johnternus** — followers: 1081392 — mentioned in x-ops research CSVs — verified — source: x-ops research
+- **@joshm** — followers: 92993 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@JoshuaKushner** — followers: 355575 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@kagigz** — followers: 7648 — mentioned in x-ops research CSVs — verified — source: x-ops research
+- **@kakakbibibi** — followers: 711 — mentioned in x-ops research CSVs — verified — source: x-ops research
+- **@karinanguyen_** — followers: 10k-50k — OpenAI UX ex-Anthropic — web-only — source: https://pasqualepillitteri.it/en/news/3633/ai-x-twitter-accounts-to-follow-2026
+- **@karrisaarinen** — followers: 93937 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@KelseyTuoc** — followers: 72088 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@Krishnaik06** — followers: 17549 — AI YouTube educator; tweets=443 — verified — source: benchmark-candidates.csv
+- **@krispuckett** — followers: 11340 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@lachygroom** — followers: 301166 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@LangChainAI** — followers: 100k+ — LangChain official — web-only — source: https://usefulai.com/feeds/x-accounts
+- **@lennysan** — followers: 452157 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@leopoldasch** — followers: 297969 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@levie** — followers: 3529377 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@lil_dill** — followers: 38668 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@lilianweng** — followers: 301671 — LilLog — verified — source: https://ai-tldr.dev/influencers/
+- **@livekit** — followers: 11298 — mentioned in x-ops research CSVs — verified — source: x-ops research
+- **@LlamaIndex** — followers: 50k-100k — LlamaIndex official — web-only — source: https://usefulai.com/feeds/x-accounts
+- **@LosAlamosNatLab** — followers: 62437 — mentioned in x-ops research CSVs — verified — source: x-ops research
+- **@lulumeservey** — followers: 149451 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@MatildaGlynn** — followers: 75 — mentioned in x-ops research CSVs — verified — source: x-ops research
+- **@matthew_berman** — followers: 132 — LLM reviews — verified — source: https://ai-tldr.dev/influencers/
+- **@mattyglesias** — followers: 979231 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@mazeincoding** — followers: 12729 — mentioned in x-ops research CSVs — verified — source: x-ops research
+- **@melvinjohnsonp** — followers: 5260 — mentioned in x-ops research CSVs — verified — source: x-ops research
+- **@MengTo** — followers: 189287 — Design+Code / AI landing pages — verified — source: https://blog.visionik.com/top-50-ai-folks-to-follow-on-x/
+- **@merettm** — followers: 94228 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@mgsiegler** — followers: 179312 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@michael_nielsen** — followers: 122889 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@mitsuhiko** — followers: 97750 — Flask / Pi agent — verified — source: https://ai-tldr.dev/influencers/
+- **@MKBHD** — followers: 6146184 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@MLabonne** — followers: 8 — Liquid AI / LLM Course — verified — source: https://ai-tldr.dev/influencers/
+- **@mntruell** — followers: 233631 — Cursor — verified — source: https://ai-tldr.dev/influencers/
+- **@modestproposal1** — followers: 126204 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@mtippett** — followers: 3371 — See Then Build AI curator — verified — source: https://seethenbuild.com/explore/curators
+- **@mwseibel** — followers: 305591 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@nabeelqu** — followers: 38337 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@nanransohoff** — followers: 17625 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@natfriedman** — followers: 496732 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@nayafia** — followers: 29723 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@nbaschez** — followers: 50647 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@nearcyan** — followers: 274348 — AI commentary, large; tweets=5729 — verified — source: benchmark-candidates.csv
+- **@nickaturley** — followers: 29226 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@nikitabier** — followers: 1353092 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@Noahpinion** — followers: 953008 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@noahrshinn** — followers: 42685 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@NoamShazeer** — followers: 84878 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@omooretweets** — followers: 155319 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@oneill_c** — followers: 22742 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@ozansihay** — followers: 78568 — AI filmmaker demos (video-first); tweets=30167 — verified — source: benchmark-candidates.csv
+- **@packyM** — followers: 231559 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@PalmerLuckey** — followers: 1260209 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@patrick_oshag** — followers: 363715 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@patrickc** — followers: 1840556 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@PatrickToulme** — followers: 18406 — mentioned in x-ops research CSVs — verified — source: x-ops research
+- **@paularambles** — followers: 49093 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@paulfchristiano** — followers: 17044 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@paulroetzer** — followers: 22037 — See Then Build AI curator — verified — source: https://seethenbuild.com/explore/curators
+- **@pawtrammell** — followers: 4181 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@periping** — followers: 450 — mentioned in x-ops research CSVs — verified — source: x-ops research
+- **@pierce** — followers: 66810 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@quintendf** — followers: 5452 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@QwenAIFans** — followers: 2946 — mentioned in x-ops research CSVs — verified — source: x-ops research
+- **@rauchg** — followers: 911584 — Vercel v0 — verified — source: https://ai-tldr.dev/influencers/
+- **@reinerpope** — followers: 18849 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@RobertTLange** — followers: 10145 — mentioned in x-ops research CSVs — verified — source: x-ops research
+- **@rSanti97** — followers: 17270 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@ryolu_** — followers: 98596 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@salonium** — followers: 37582 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@samwitteveenai** — followers: 50k-100k — Red Dragon AI — web-only — source: https://ai-tldr.dev/influencers/
+- **@sarahdingwang** — followers: 19632 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@sashikantsingh_** — followers: 4180 — mentioned in x-ops research CSVs — verified — source: x-ops research
+- **@seungonekim** — followers: 2093 — mentioned in x-ops research CSVs — verified — source: x-ops research
+- **@shadcn** — followers: 245605 — mentioned in x-ops research CSVs — verified — source: x-ops research
+- **@signulll** — followers: 271766 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@SimonBrandeis** — followers: 984 — mentioned in x-ops research CSVs — verified — source: x-ops research
+- **@simonlast** — followers: 11167 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@slatestarcodex** — followers: 169749 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@snowmaker** — followers: 64064 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@soleio** — followers: 126094 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@sonofalli** — followers: 29966 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@SpaceXAI** — followers: 1M+ — xAI/Grok official (may be xai alias) — web-only — source: https://usefulai.com/feeds/x-accounts
+- **@Steve_Yegge** — followers: 49627 — Gas Town multi-agent — verified — source: https://ai-tldr.dev/influencers/
+- **@Suhail** — followers: 450205 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@swyxio** — followers: 1594 — Latent Space alt — verified — source: https://ai-tldr.dev/influencers/
+- **@t3dotgg** — followers: 4787 — Theo / T3 Chat — verified — source: https://ai-tldr.dev/influencers/
+- **@t_blom** — followers: 89803 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@tamaybes** — followers: 18563 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@tan51616** — followers: 403 — mentioned in x-ops research CSVs — verified — source: x-ops research
+- **@TerenceLeungSF** — followers: 51228 — AI business influencer; tweets=23485 — verified — source: benchmark-candidates.csv
+- **@thdxr** — followers: 178242 — mentioned in x-ops research CSVs — verified — source: x-ops research
+- **@TheAhmadOsman** — followers: 79740 — mentioned in x-ops research CSVs — verified — source: x-ops research
+- **@theamberyang** — followers: 13986 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@theo** — followers: 407416 — t3.gg (may be t3dotgg) — verified — source: https://daily.dev/agentic-ai-hub/people-to-follow/
+- **@TheStalwart** — followers: 451378 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@thinkymachines** — followers: 184223 — Thinking Machines Lab — verified — source: https://github.com/shanmukh05/awesome-tech-twitter-accounts
+- **@thorstenball** — followers: 55743 — Amp / coding agents writing — verified — source: https://daily.dev/agentic-ai-hub/people-to-follow/
+- **@tibo_maker** — followers: 214542 — mentioned in x-ops research CSVs — verified — source: x-ops research
+- **@tobi** — followers: 518750 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@tonbistudio** — followers: 20149 — mentioned in x-ops research CSVs — verified — source: x-ops research
+- **@tsarnick** — followers: 81666 — AI interview/quote clips (T10 quote+video template); tweets=37908 — verified — source: benchmark-candidates.csv
+- **@tulseedoshi** — followers: 15718 — mentioned in x-ops research CSVs — verified — source: x-ops research
+- **@tylercowen** — followers: 425027 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@typesfast** — followers: 755547 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@viktoroddy** — followers: 73839 — See Then Build AI curator — verified — source: https://seethenbuild.com/explore/curators
+- **@visionik** — followers: 1519 — Author of Visionik top-50 AI X list — verified — source: https://blog.visionik.com/top-50-ai-folks-to-follow-on-x/
+- **@VitalikButerin** — followers: 7989784 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@Whats_AI** — followers: 11712 — See Then Build AI curator — verified — source: https://seethenbuild.com/explore/curators
+- **@willknight** — followers: 22307 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@willmacaskill** — followers: 63746 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@WillManidis** — followers: 142616 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@XiaomiMiMo** — followers: 39674 — mentioned in x-ops research CSVs — verified — source: x-ops research
+- **@yaborat** — followers: 10k-50k — BabyAGI creator — web-only — source: https://blog.visionik.com/top-50-ai-folks-to-follow-on-x/
+- **@YasminRazavi** — followers: 16541 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@yusukebe** — followers: 26923 — mentioned in x-ops research CSVs — verified — source: x-ops research
+- **@zack_overflow** — followers: 29233 — mentioned in x-ops research CSVs — verified — source: x-ops research
+- **@zebriez** — followers: 16143 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+- **@zoink** — followers: 350160 — AI starter pack curated follow list — verified — source: https://xstarterpack.com/
+
+## Sources
+- https://xstarterpack.com/
+- https://blog.visionik.com/top-50-ai-folks-to-follow-on-x/
+- https://seethenbuild.com/explore/curators
+- https://circleboom.com/blog/ai-influencers-to-follow-for-image-generation-and-prompts-on-x-twitter/
+- https://www.wikiprompt.org/blog/top-twitter-accounts-sharing-ai-prompts
+- https://ai-tldr.dev/influencers/
+- https://usefulai.com/feeds/x-accounts
+- Internal cold-start notes: xyunying.md / fupan.md / 0-1k-stage-batch1.md

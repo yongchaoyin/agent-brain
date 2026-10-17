@@ -99,3 +99,15 @@
 - 两种长度有效：30-60 字符行话段子（"4k tokens context window btw" 8.9K；"Anthropic saturated this benchmark ages ago" 15K）；130-250 字符增值补充/纠正（UnslothAI 给 Muse Spark Open GGUF 链接 10K）。
 - 模式：技术常数段子 / 恭喜+给可用资源 / "To be clear,"+精确数字纠正 / 圈内行话冷幽默。
 - 对 @Gotwei：技术帖可用"行话段子"替代部分"数字+追问"，待复盘验证。
+
+## 批次：8 个中号深度样本（10:56）
+账户：synthwavedd 47.3K / arthurmensch 89.5K / axisrobotics 64.4K / tianyi 50.8K / joshwoodward 75.4K / fofrAI 90.6K / btibor91 40.5K / kimmonismus 151.2K
+
+五条可复制规律：
+1. 第一行必须是完整可截图的主张（产品+数字），媒体是证据不是正文。Josh「Pro & Ultra… it's your time」123K vs 工艺说明 12–52K；fofr 五词视频 643K vs 日常视频 2–9K。
+2. 引用一手源时，上面写更锋利的一句；裸转发几乎没量（Tibor 有开场句 14.5K vs 无开场 2K）。
+3. URL/免责声明放自回复，主帖保持原生（Josh link reply 仅主帖 ~3% 曝光）。
+4. 发布日短爆发：第2帖用实测/下一预测 quote 第1帖（synth Argon 日：图表 29K → 实测幻觉 44K → Fable 预告 196K）。
+5. 「谁比谁高多少」的对比句 >> 汇总/感谢/赞助口吻（tianyi Flash 超 Pro ~1M；kim 赞助帖 9–12K vs Jensen 金句视频 227K）。
+
+对 @Gotwei：纯新闻搬运天花板约 0.15–0.4×粉丝（btibor）；0 粉阶段更要锁「主张+数字+一手源」。
