@@ -37,5 +37,5 @@ More examples & data: references/evidence.md.
   - Big account, AI launch/model post: one-line judgement, ≤ 80 chars.
   - Technical post / mid-size account: 120–250 chars, a concrete number + one pointed follow-up; or a jargon quip (30–60 chars, e.g. "4k tokens context window btw"); or congrats + a usable resource.
 - Red lines: no swearing, insults, or attacks on specific people.
-- Volume: ≤ 1 reply per 5 min, ≤ 150 replies/day; posts+replies ≤ 170 per rolling 24h (free-account cap ~200 was hit on 2026-10-16).
+- Volume: ≤ 1 reply per 5 min, ≤ 60 replies/day until the account gains trust (2026-10-16 data: 204 replies, median 2.5 views, 0 likes); posts+replies ≤ 170 per rolling 24h (free-account cap ~200 was hit on 2026-10-16).
 - Browser: one tab, ≤ 2 page loads/min, only one agent on the @Gotwei login at a time; stop on 429/splash.
