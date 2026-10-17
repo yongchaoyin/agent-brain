@@ -4,8 +4,9 @@ English AI-news account on X, run by a team of agents. All durable learnings liv
 
 ## Account
 - Name **Wei AI**, handle **@Gotwei**
-- Bio: `AI models, products & research — with a practical take for builders.`
-- Avatar: minimal letter mark · Banner: `Wei AI · Daily briefings for builders`
+- Bio: `A developer’s perspective on global AI.` / `Models, tools, research & the ideas behind them.` / `What’s useful, what’s changing, the limits.` / `Sourced. Open discussion.`
+- Avatar: real-person photo · Banner: `Wei AI · AI, with perspective.` (cream background, glass/teal panels)
+- Profile edits: 运营丽丽 only
 - Brand colors: cream #F5F1E8 + dark green #1F4D3A (see skills/x-visuals)
 
 ## Team 团队
@@ -33,7 +34,7 @@ Free-tier cap ≈200+ posts / rolling 24h. Budget **~160/day**: ~140 replies, 7�
 - [x-visuals](skills/x-visuals/SKILL.md) — image rules & templates
 
 ## Data (paths used by automations — don't move)
-- `data/creators.csv` — 1000 vetted AI creators
+- `data/creators.csv` — 1000 vetted AI creators (364 deep-sampled as of 2026-10-17)
 - `data/replied_ids.txt` — post IDs already replied to
 
 ## Research

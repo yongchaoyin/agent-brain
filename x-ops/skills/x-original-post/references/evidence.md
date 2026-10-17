@@ -46,3 +46,44 @@ Other v1: lists 3.00 bookmarks/1k; <120-char posts viral 16% but eng 0.70%. Limi
 @Gotwei day-0 best post: 23 imp (https://x.com/i/status/2110550427070791759).
 
 Browser format study (丽丽, ~30 top posts from 10 accounts): research/2026-10-16/original-format-raw.md. Testable claims list: research/2026-10-16/playbook-v2.2-testable-claims.md.
+
+## v2.4 deep sample (2026-10-17) — what changed
+231 accounts deep-sampled for the first time (profile-only rows before), 6296 posts, medians from posts ≥24h old, promoted-looking accounts excluded. Full method/tables: research/2026-10-17/creator-deep-sample.md, format-comparisons.csv.
+
+| Finding | v2.2 | v2.4 (2026-10-17) | Verdict |
+|---|---|---|---|
+| Any media vs text | 66%, 1.28 | 47 accts: 36%, 0.86 | **reversed** |
+| Image vs text | 58%, 1.15 (n=31) | 33 accts: 36%, 0.84 | **reversed** |
+| Video vs text | 67%, 1.50 (n=21) | 18 accts: 56%, 1.19 | weaker, still + |
+| Video vs image | — | 32 accts: 62%, 1.27; viral 15.4% vs 8.5% | new + |
+| Long >280 reach | 64%, 1.27 | 33 accts: 45%, 0.96 | weaker → neutral |
+| Long bookmark rate | 74% | 82%, 1.68× | **stronger** |
+| Media bookmark rate | 70% | 55%, 1.39× | ≈ |
+| <120 vs 120–280 chars | v1: <120 viral 16% | 55 accts: 33%, 0.84 | new: one-liners lose on median |
+| Body link | 73%, 1.12 (n=11) | 14 accts: 50%, 0.99 | confirmed neutral |
+| Quote posts | 29%, 0.81 | 96 accts: 34%, 0.84 | **stronger** (n×) |
+| Original + own self-reply | — | 34 accts: 79%, 1.28; viral 22% vs 9% | new + |
+| Launch opener (Introducing/NEW/Today/We're) | BREAKING/NEW 4/4, 3.22 | 14 accts: 86%, 2.11 (launch-confounded) | similar direction |
+| `Company:` opener | — | 7 accts: 71%, 1.16 | weak + |
+| First-person opener | 56%, 1.03 (v2) | 7 accts: 29%, 0.80 | weaker |
+| Question opener | — | 16 accts: 50%, 0.94 | neutral |
+| Emoji early | 48%, 0.87 | 18 accts: 67%, 1.34 | reversed again → unresolved |
+| Hour 21–02 Beijing | 45%, 0.98 | 93 accts: 47%, 0.98 | confirmed irrelevant |
+
+High performers (v2.4; rel = × account median original)
+| Account | Link | Imp | Likes | Bookmarks | rel | Format |
+|---|---|---|---|---|---|---|
+| felixrieseberg | https://x.com/felixrieseberg/status/2110023283169247623 | 4,637,480 | 21,499 | 46,517 | 251× | first-person insider intro, text |
+| nickcammarata | https://x.com/nickcammarata/status/2110757819427574056 | 3,475,644 | 18,342 | 18,726 | 194× | 276-char text take |
+| opencode | https://x.com/opencode/status/2110635747648909472 | 3,533,731 | 25,677 | 8,664 | 16.5× | 43-char "X is now free in Y" |
+| GoogleDeepMind | https://x.com/GoogleDeepMind/status/2105388084154056939 | 8,992,396 | 42,951 | 6,216 | 38.5× | Introducing + image |
+| OpenAIDevs | https://x.com/OpenAIDevs/status/2108624138369929725 | 1,807,494 | 6,937 | 1,420 | 16.5× | "Now in beta:" + video |
+| shiri_shh | https://x.com/shiri_shh/status/2105717583794274346 | 560,449 | 1,285 | 550 | 76.7× | quote + image |
+| krea_ai | https://x.com/krea_ai/status/2110760037128012146 | 451,966 | 2,073 | 999 | 21× | launch line + bullets + video |
+| btaylor | https://x.com/btaylor/status/2107535182119244176 | 358,155 | 2,945 | 2,353 | 28.7× | "Today we're announcing" + image |
+| SemiAnalysis_ | https://x.com/SemiAnalysis_/status/2105055045959995719 | 927,438 | 1,841 | 336 | 23× | "ALERT 🚨🚨" scoop + image |
+| nathanbenaich | https://x.com/nathanbenaich/status/2108096754365419873 | 140,366 | 683 | 759 | 57.5× | report launch + video |
+| yoavgo | https://x.com/yoavgo/status/2106503106833817918 | 128,914 | 1,581 | 369 | 14× | "wait what??" + number (quote) |
+| Sentdex | https://x.com/Sentdex/status/2106904650125640152 | 102,447 | 1,695 | 521 | 15× | "In my opinion, the best model … is X" |
+| mdancho84 | https://x.com/mdancho84/status/2105259648001376474 | 40,335 | 606 | 1,067 | 12× | "Some guy built…" list + image |
+@Gotwei (2026-10-17 check): best 32 imp (BREAKING + image, https://x.com/Gotwei/status/2111035132081541192); median original 10.5 (n=22); 0 followers.

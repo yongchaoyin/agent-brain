@@ -45,3 +45,41 @@ My pick for builders: {…}
 **T11 Infographic/map (AndrewYNg)** — `New: {a map/cheatsheet} of {topic}.\n\n{1 line on how to use it}` + own infographic. Highest bookmark rate; good pin.
 
 (Reply template T12 lives in x-reply.)
+
+## v2.4 templates (2026-10-17, from creator deep sample — links/metrics in evidence.md)
+
+**T13 Availability line** — `{Product/model} is now {free / in beta / open-weight} in {platform}.` Optional 1–3 bullets. Works when the fact itself is big (opencode 43 chars, 3.5M; OpenAIDevs "Now in beta: …" + video 1.8M).
+
+**T14 Launch + spec bullets + clip** (krea_ai 452K, 21×)
+```
+{Company} just opened {product} — {one-line what it does}.
+- {spec with number}
+- {spec with number}
+- {availability / price}
+{one-line take}
+```
+Media: official demo clip (video > image this run). Self-reply: source + extra detail.
+
+**T15 Clear opinion** (Sentdex 102K, 15×) — `In my opinion, the best {category} right now is {X}.
+
+{reason with a number}. {reason}.
+
+{caveat / who should skip it}.`
+
+**T16 Scoop alert** (SemiAnalysis_ 927K, 23×) — `ALERT 🚨: {specific, checkable claim}.
+{evidence: who/what/where}.
+{implication}.` Only with a real source; else "Reportedly…".
+
+**T17 Discovery list** (mdancho84 40K, 12×, 1,067 bookmarks) — `Someone built {a free X} on GitHub.
+
+Not {a}.
+Not {b}.
+{what it actually is}.
+
+- {item}
+- {item}
+- {item}` + screenshot. High bookmark format.
+
+**T18 Reaction with a number** (yoavgo 129K, 14×) — `wait what?? {surprising number/comparison}.` Use as a quote only on a big post (quotes lose in 66% of accounts overall).
+
+Length: aim 120–280 chars; always add a self-reply with source + one extra detail (originals with a self-reply won in 79% of accounts).

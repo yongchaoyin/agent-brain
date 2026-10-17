@@ -1,0 +1,30 @@
+name,accounts,win_pct,median_ratio,posts_A,posts_B,viral_A,viral_B
+any media vs text (orig),47,36,0.86,316,291,10.4,10.7
+video vs text (orig),18,56,1.19,92,100,10.9,8.0
+image vs text (orig),33,36,0.84,188,200,9.0,9.0
+video vs image (orig),32,62,1.27,182,212,15.4,8.5
+long>280 vs short (orig),33,45,0.96,185,253,9.2,10.3
+"<120 chars vs 120-280 (orig, short only)",55,33,0.84,297,331,11.1,11.8
+body link vs none (orig),14,50,0.99,86,105,8.1,4.8
+quote vs orig,96,34,0.84,775,841,12.1,12.7
+orig with self-reply thread vs without (A phase),34,79,1.28,118,247,22.0,8.9
+opener breaking vs statement (orig),1,100,2.62,2,10,50.0,10.0
+opener announce vs statement (orig),14,86,2.11,57,91,29.8,11.0
+opener company_colon vs statement (orig),7,71,1.16,16,55,12.5,3.6
+opener first_person vs statement (orig),7,29,0.8,31,50,19.4,14.0
+opener question vs statement (orig),16,50,0.94,70,167,7.1,8.4
+opener number vs statement (orig),2,50,1.59,5,31,20.0,3.2
+opener emoji_symbol vs statement (orig),6,50,1.02,26,47,3.8,2.1
+emoji in first 60 chars vs none (orig),18,67,1.34,88,190,12.5,9.5
+hour 21-02 BJ vs other (orig),93,47,0.98,557,580,12.2,10.7
+hour 00-06 BJ vs rest (orig),90,46,0.97,512,594,10.2,10.8
+hour 06-12 BJ vs rest (orig),42,62,1.09,178,368,13.5,9.8
+hour 12-18 BJ vs rest (orig),25,36,0.89,135,223,7.4,12.6
+hour 18-24 BJ vs rest (orig),66,50,1.01,348,504,11.5,10.3
+BOOKMARK/1k: long vs short,33,82,1.68,185,253,9.2,10.3
+BOOKMARK/1k: media vs text,47,55,1.39,316,291,10.4,10.7
+REPLY to >=100k vs <100k target,11,100,3.77,46,133,2.2,1.5
+REPLY to >=1M vs 100k-1M target,2,100,2.06,7,6,0.0,0.0
+REPLY body >=200 vs <200 chars,10,70,1.1,42,115,9.5,0.9
+REPLY body <60 vs 60-200 chars,28,43,0.97,198,154,0.5,0.6
+SELF-REPLY vs reply to others,62,98,6.33,479,645,0.8,1.2
