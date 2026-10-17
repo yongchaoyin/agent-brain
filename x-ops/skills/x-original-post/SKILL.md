@@ -4,9 +4,11 @@ description: Use when writing an original @Gotwei post (运营丽丽's job) — 
 ---
 # X original posts
 
+> **Voice & wording: follow skills/x-human-voice/SKILL.md first** (2026-10-18). Fixed openers (BREAKING:/JUST IN:/NEW:/`<Company> 🔥:`), the "Why it matters" line, fixed hook→bullets→take structure, em dashes and question endings are retired. Formats below are references, never templates; write a take in your own words.
+
 ## Format (latest research wins)
-1. Default format = **news key points + "Why it matters" + image**. Own test 2026-10-16 (n=3): Muse Spark Open news+image 12 imp/1 like > NVIDIA App 7/0 > ChatGPT-vs-Claude A/B question 5/0. **Drop A/B open-question posts.**
-2. Opener: `COMPANY: one-line news` / `BREAKING:` / `NEW:` / `Now in beta:` — who + did what + why it matters in line 1. Evidence: launch-style openers ("Introducing / NEW / Today / We're releasing") beat plain statements in 86% of 14 accounts (2.11×, 2026-10-17; confounded — these are real launches); `Company:` 71% of 7 (1.16×); BREAKING untestable this run (1 account). Earlier: BREAKING 4/4 accounts, 3.22× (v2.2, tiny n). Own: BREAKING 32 imp = our best (n=1). Don't lead with a date ("Oct. 15: …" posts all ≤11 imp).
+1. Default = the news in plain words + **your take** (what you think, what you tried, what you doubt) + image if informative. No "Why it matters" line (banned phrase, 2026-10-18). Own test 2026-10-16 (n=3): Muse Spark Open news+image 12 imp/1 like > NVIDIA App 7/0 > ChatGPT-vs-Claude A/B question 5/0. **Drop A/B open-question posts.**
+2. ~~Opener templates `COMPANY:` / `BREAKING:` / `NEW:`~~ retired 2026-10-18 (read as bot). Line 1 = who did what, said the way a person would; vary openers. Old evidence kept for history: Evidence: launch-style openers ("Introducing / NEW / Today / We're releasing") beat plain statements in 86% of 14 accounts (2.11×, 2026-10-17; confounded — these are real launches); `Company:` 71% of 7 (1.16×); BREAKING untestable this run (1 account). Earlier: BREAKING 4/4 accounts, 3.22× (v2.2, tiny n). Own: BREAKING 32 imp = our best (n=1). Don't lead with a date ("Oct. 15: …" posts all ≤11 imp).
 3. Leaks/beta tests > ordinary launches; "X is rolling out / testing …" + screenshot (btibor91 style). Mark rumors "spotted/unconfirmed".
 4. Screenshot/slide + one line of context is the top-volume format (https://x.com/AndrewCurran_/status/2108992955382210632 4.1M; https://x.com/Hesamation/status/2110675668161659043).
 5. Product/tool posts: ~10s screen recording + one-line caption (https://x.com/nutlope/status/2108989553872646390 168K).
@@ -18,8 +20,8 @@ description: Use when writing an original @Gotwei post (运营丽丽's job) — 
 
 ## Length & body
 9. Free tier: body ≤ **280 chars** hard cap. Long posts (>280): reach now neutral (45% of 33 accounts, 0.96×; v2.2 64%, 1.27× → weaker) but bookmarks **stronger** (82%, 1.68×). Only after Premium; until then put detail in the self-reply.
-10. Structure within 280: hook → 2–4 bullets (`-`/`→`) → one-line take. Specific numbers. Aim for **120–280 chars**: <120-char originals beat 120–280 in only 33% of 55 accounts (0.84×). Exception: one huge concrete fact can stand alone (opencode "DeepSeek V4.1 Flash is now free in OpenCode", 43 chars, 3.5M).
-11. Emoji: 0–1, as a label (`Product 🔥:`), never for engagement. Evidence flips between runs (v2 +, v2.2 48%/0.87×, 2026-10-17 67% of 18/1.34×) → **unresolved, no rule either way**.
+10. No fixed structure (retired 2026-10-18: hook→bullets→take); no length target, length follows content within 280. Old evidence: <120-char originals beat 120–280 in only 33% of 55 accounts (0.84×). Exception: one huge concrete fact can stand alone (opencode "DeepSeek V4.1 Flash is now free in OpenCode", 43 chars, 3.5M).
+11. Emoji: 0–1, never as a label (`Product 🔥:` retired 2026-10-18), never for engagement. Evidence flips between runs (v2 +, v2.2 48%/0.87×, 2026-10-17 67% of 18/1.34×) → **unresolved, no rule either way**.
 12. Avoid quote-posts as main format — **stronger** with a bigger sample: quotes beat originals in only 34% of 96 accounts (0.84×; v2.2 29%, 0.81×). Use a quote only for a one-line reaction to a huge launch (shiri_shh quote+image 560K, 77×).
 
 ## Sources
@@ -39,10 +41,10 @@ Templates: references/templates.md · Evidence & top-post examples: references/e
 
 
 ## v2.3 formats (2026-10-17)
-- Leak/BREAKING with real screenshot + source in self-reply; unsourced → "Reportedly…" or skip.
-- "BREAKING NEWS: <product> can now <everyday capability>" + self-reply with a concrete prompt.
+- (references, not templates) Leak with real screenshot + source in self-reply; unsourced → "Reportedly…" or skip.
+- "<product> can now <everyday capability>" said plainly + self-reply with a concrete prompt.
 - Launch line: "<Model> is now free / open-weight / in public beta." + 2–4 spec bullets + demo/spec image.
-- "JUST IN:/New:" + a concrete number, < 200 chars (e.g. Accenture $29/mo Claude cap, 2M views).
+- A concrete number in plain words (e.g. Accenture $29/mo Claude cap, 2M views).
 - "I asked <model> to <task>. It <unexpected result>." + screenshot.
 - Sharp one-line take or analogy ("X is the DeepSeek moment of Y"); quote-post a big lab launch + one-line stat (test 1–2).
 - Launch-day demo threads; practical subscription/quota-saving tutorials (13:30 slot).
@@ -51,11 +53,11 @@ Templates: references/templates.md · Evidence & top-post examples: references/e
 - New accounts grew by replying to big accounts in the first weeks (MilkRoadAI, blankspeaker, chetaslua).
 
 ## @Gotwei own data + mid-size sample (2026-10-17)
-- Openers: "BREAKING:" or "<Company> 🔥:" beat "Oct. N:" date openers → no date openers.
+- Openers: no date openers. (BREAKING:/<Company> 🔥: retired 2026-10-18, see x-human-voice.)
 - Source self-reply within ~2 min (ours: median 16.5 vs 8) → always; links/disclaimers live in the self-reply.
 - First line = a complete, screenshot-able claim (product + number); media is proof, not the post.
 - Quoting a primary source: write a sharper line above it; bare quotes barely travel (own quotes ≈0.76× originals).
 - Launch day: short burst; post 2 = a test or next claim quoting post 1.
 - "Who beat whom by how much" comparisons beat roundups, thank-yous, sponsored tone.
-- Cadence: 7–10 originals/day max, format locked; replies 40–60/day; don't expect 1k followers in a week.
+- Cadence: 7–10 originals/day max, format varied (not locked, 2026-10-18); replies 40–60/day; don't expect 1k followers in a week.
 - Images: our data favors images (17 vs 8), creator sample doesn't (0.86×) → keep images; test later.

@@ -1,5 +1,9 @@
 # Changelog (Beijing dates)
 
+## 2026-10-18
+- **New skill x-human-voice** (Drew: "Bot" reply, "AI flavor", "X is for discussion and opinions"). Offline analysis of 1,289 real replies / 697 originals from 146 creators (research/2026-10-18/human-voice.md): real replies end in "?" 6.1% (ours 63%), start lowercase 24% (ours 0), 61% no final punctuation, em dash 0.3%, median 6 words (p90 32, no cap; >40w replies most liked). Questions rare but answered 72%; pushback/quote-a-line replies get answered most. Banned-phrase list, ~1-in-20 question rate, no length cap, never answer bot accusations, timing jitter, pre-post check vs last 10 posts, 17 before/after rewrites.
+- x-reply: T12/T12b templates, per-parent char caps and "fact + question" pattern removed; points to x-human-voice. x-original-post: BREAKING:/NEW:/`<Company> 🔥:` openers, "Why it matters", hook→bullets→take structure and 120–280 char target retired; formats are references only.
+
 ## 2026-10-17
 - **Creator deep sample (v2.4)**: 234 more accounts deep-sampled (131 → 364 of 1000), 399 X reads; 158 verified, 80 flagged; **64 replaced** (46 inactive >60d, gwern protected, 4 RT-only/automation, grok bot, 12 off-topic/spam) with profile-verified AI accounts → library stays 1000. Notes: research/2026-10-17/creator-deep-sample.md, format-comparisons.csv, deep-sample-posts.csv, replaced.csv.
 - Rules changed by the bigger sample: media vs text **reversed** (36% of 47 accounts, 0.86×; image 0.84×) → video when available, images only if informative; video > image 1.27×; long posts reach-neutral (0.96×) but bookmarks 1.68×; quotes lose more clearly (34% of 96, 0.84×); originals with a self-reply +1.28× (79% of 34); <120-char one-liners lose to 120–280 (33% of 55); emoji unresolved; hour irrelevant confirmed (93 accounts). Replies: ≥100k targets 3.77× (11 accts), self-replies 6.33× (62 accts), short replies not penalized.
