@@ -7,7 +7,7 @@ description: Use when writing replies for @Gotwei (运营小婷's job) — choos
 > **Voice & wording: follow skills/x-human-voice/SKILL.md first** (2026-10-18). It overrides every wording/length/template rule below. Templates T12/T12b and the per-parent-type character caps are removed.
 
 ## Whom
-1. Prefer fresh posts from big AI accounts (≥100k followers) — **stronger** 2026-10-17: replies to ≥100k beat replies to <100k in 100% of 11 accounts (3.77×; pooled rel 0.020 <100k → 0.041 100k–1M → 0.056 ≥1M; v2.2 ~2.6×). Caveat: at 0 followers @Gotwei saw no lift yet (median 2 imp for every target tier, n=167) — freshness/position under the parent is what we lack.
+1. Prefer fresh posts from big AI accounts (≥100k followers) — held with more accounts: replies to ≥100k beat replies to <100k in 100% of 17 accounts (3.57×, pooled 10-17+18; pooled rel 0.023 <100k → 0.051 100k–1M → 0.056 ≥1M; v2.2 ~2.6×). Caveat: at 0 followers @Gotwei saw no lift yet (median 2 imp for every target tier, n=167) — freshness/position under the parent is what we lack.
 2. But big accounts' replies are ranked first, so a small account is also visible under **mid-size** AI posts — mix both (reply research, 2026-10-16).
 3. Target list: testingcatalog, btibor91, kimmonismus, ai_for_success, AILeaksAndNews, chetaslua, scaling01, iScienceLuvr, sama, karpathy, official labs, bcherny, OfficialLoganK; more in `data/creators.csv`. Track done IDs in `data/replied_ids.txt` (never reply twice).
 
@@ -16,7 +16,7 @@ description: Use when writing replies for @Gotwei (运营小婷's job) — choos
 
 ## What
 5. Add an opinion: agree/disagree with a reason, doubt, a joke, or your own experience; a fact or number only when it supports the take (https://x.com/Sophty_/status/2110896402251514276, https://x.com/m_adams/status/2110053908748148783). Plain agreement doesn't travel.
-6. Length: no word/char cap besides X's 280; length follows content (real median 6 words, p90 32). See x-human-voice.
+6. Length: no word/char cap besides X's 280; length follows content (real median 6 words, p90 32). See x-human-voice. Creator data agrees (pooled 10-17+18): <60 vs 60–200 chars 45% of 40 accounts, 0.99×; the old "≥200 chars wins" signal faded to neutral (57% of 14, 1.01×). Short with a take is fine (steipete → @thsottiaux, 35 chars, 140K: https://x.com/steipete/status/2111340668190965818).
 7. Early image/GIF + short caption wins on mega-posts; late copycats get nothing (https://x.com/igor_pesin/status/2109627274773590076).
 8. A specific "how does X work" question gets author replies (https://x.com/fchollet/status/2109100717596381405) but few likes — use for relationships.
 9. Never: "🔥"/"Congrats"/"LFG"/"thanks" only, piling on, @-ing for traffic. Short replies are fine when they carry a take (see x-human-voice). Never answer "bot" accusations.
@@ -24,7 +24,7 @@ description: Use when writing replies for @Gotwei (运营小婷's job) — choos
 11. ~~Template T12~~ removed 2026-10-18 (fact + question pattern made us sound like a bot: 63% of our replies ended in "?", real ~6%). See x-human-voice.
 
 ## Self-replies & own threads
-12. Every original gets a self-reply (source and/or extra detail). Self-replies beat replies to others in 98% of 62 accounts (6.33×, 2026-10-17; v2.2 ~3.6× → **stronger**), and originals with a self-reply out-reach those without (79% of 34 accounts, 1.28×). Only 12% of top accounts' self-replies carry links — add content, not just links.
+12. Every original gets a self-reply (source and/or extra detail). Self-replies beat replies to others in 99% of 78 accounts (6.04×, pooled 10-17+18; v2.2 ~3.6×), and originals with a self-reply out-reach those without (79% of 43 accounts, 1.39×). Only 12% of top accounts' self-replies carry links — add content, not just links.
 13. Reply to every comment under our posts within 1h.
 
 Note: some top accounts' high reply counts are community management under their own posts with tiny views (ai_for_success), vs. minchoi's quick reactions under big accounts (150–8.8K views) — see research/2026-10-16/creator-top-posts-batch1-raw.md.

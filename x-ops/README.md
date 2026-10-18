@@ -34,7 +34,7 @@ Free-tier cap ≈200+ posts / rolling 24h. Budget **~160/day**: ~140 replies, 7�
 - [x-visuals](skills/x-visuals/SKILL.md) — image rules & templates
 
 ## Data (paths used by automations — don't move)
-- `data/creators.csv` — 1000 vetted AI creators (364 deep-sampled as of 2026-10-17)
+- `data/creators.csv` — 1000 vetted AI creators (495 deep-sampled as of 2026-10-18)
 - `data/replied_ids.txt` — post IDs already replied to
 
 ## Research
