@@ -1,6 +1,7 @@
 # Changelog (Beijing dates)
 
 ## 2026-10-18
+- **x-human-voice phase 2** (25 X API reads, 08:05–08:15): 401 live replies under 10 big AI threads + 24 author→commenter replies. Big-thread replies 33% lowercase, 11.6% "?", median 15 words; ≤8w median 144 views vs >25w 62; early helps (0–5 min 367 vs 60–120 min 86) but the top reply (274K) was a 101-follower joke 18 min in. Authors answer challenges (10/24) and excited specific agreement (6/24), not summaries. Raw: research/2026-10-18/phase2_raw/.
 - **New skill x-human-voice** (Drew: "Bot" reply, "AI flavor", "X is for discussion and opinions"). Offline analysis of 1,289 real replies / 697 originals from 146 creators (research/2026-10-18/human-voice.md): real replies end in "?" 6.1% (ours 63%), start lowercase 24% (ours 0), 61% no final punctuation, em dash 0.3%, median 6 words (p90 32, no cap; >40w replies most liked). Questions rare but answered 72%; pushback/quote-a-line replies get answered most. Banned-phrase list, ~1-in-20 question rate, no length cap, never answer bot accusations, timing jitter, pre-post check vs last 10 posts, 17 before/after rewrites.
 - x-reply: T12/T12b templates, per-parent char caps and "fact + question" pattern removed; points to x-human-voice. x-original-post: BREAKING:/NEW:/`<Company> 🔥:` openers, "Why it matters", hook→bullets→take structure and 120–280 char target retired; formats are references only.
 

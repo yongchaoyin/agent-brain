@@ -102,10 +102,129 @@ Typos/informality occur and are left in ("they reviewing process", "also rhyme w
 ## Own-data reference
 Best-ever @Gotwei reply: short casual jab under @dtzy_88's DeepSeek test post, 1.5h late, 2.9K views / 15 likes; the author answered and that lifted it. Worst pattern: 63% of replies ended in "?", ~25 words each, all "X is the real story / the number that matters" + follow-up question; someone replied "Bot".
 
-## Phase 2 (pending)
-X API reads of top replies under big AI posts (sama, karpathy, OpenAI, AnthropicAI, kimmonismus, btibor91, scaling01, testingcatalog, Yuchenj_UW) and author-reply-back threads — scheduled after the 08:00 quota reset; appended in a later commit if done.
 
-## Raw stat output
+## Phase 2: live X sample (2026-10-18 08:05–08:15 UTC+8, 25 API reads, no browser)
+Method: 10 big threads (sama roadster 6.3M views, karpathy "gap" 6.6M, AnthropicAI eng blog 8.0M, OpenAI GPT-6 Astra Pro 2.0M, kimmonismus ×3 (DeepSeek on par with Opus 5 / Codex 28-day / OpenCode breach), scaling01 "Congratulations to OpenAI", Yuchenj_UW "OSS will never catch up", testingcatalog BREAKING DeepSeek). For each: the latest 25 direct replies in the 0–20 min window and in the 20 min–2 h window → **401 direct replies**. Plus 2 searches of replies *by* kimmonismus/scaling01/Yuchenj_UW/testingcatalog/btibor91/karpathy/sama with the comment they answered → **24 author→commenter replies**. Raw JSON: phase2_raw/, script p2.py.
+Caveat: each window returns only its most recent 25, so "0–5 min" and "20–60 min" are thin and the 5–20 / 60–120 buckets are the window ends. Views are the replies' own impressions.
+
+### Timing / position vs views (direct replies)
+| posted after parent | n | median views | mean views | got a reply |
+|---|---|---|---|---|
+| 0–5 min | 27 | 367 | 1,559 | 19% |
+| 5–20 min | 150 | 198 | 4,562 | 13% |
+| 20–60 min | 33 | 48 | 131 | 3% |
+| 60–120 min | 171 | 86 | 610 | 12% |
+By replier followers: <1k n=286 median 65 views; 1k–10k n=80 median 110; ≥10k n=35 median 826 (31% got a reply).
+→ Early still helps on mega-posts, but **the outliers are content, not speed**: the #1 reply in the whole sample (274K views, 4,253 likes) is from a 101-follower account, 18 min in: "30,000 merges a day. i've had one pull request open since march. it fixes a typo in the readme" (https://x.com/NattyStupidity/status/2110051706939793645). @Gotwei is <1k followers, so the joke has to carry it.
+
+### Style of big-thread replies (n=389 with text)
+- ends "?": 11.6% · lowercase start: **33.2%** · em dash: 1.3% · median 15 words.
+- ≤8 words: median 144 views · 9–25 words: 119 · >25 words: **62** (6% got a reply). Under mega-posts long replies sink; length pays in smaller technical threads (phase 1).
+- Bare image/GIF (no text): median 1,036 views (n=12). Humor: n=11, 27% got a reply.
+
+### Top replies under big posts (views / likes / replies)
+- "30,000 merges a day. i've had one pull request open since march. it fixes a typo in the readme" — 274,313 / 4,253 / 23 (101 followers, 18 min) https://x.com/NattyStupidity/status/2110051706939793645
+- "Back to friends???" — 113,925 / 1,626 / 17 (sama roadster) https://x.com/hajarkagalwa/status/2111135396285620269
+- "Did you cancel your order cancellation?" — 96,981 / 704 https://x.com/alx/status/2111136009303859261
+- "What did you take again? 💀 But if it helps you to talk to Elon, take more of it and talk to us!!" — 21,543 / 60 https://x.com/suomi55/status/2111135153871626519
+- "those with access to the frontier intelligence will not be the permanent underclass" — 15,697 / 72 (karpathy, 115 min late) https://x.com/minchoi/status/2109390523370975336
+- "that's 1 merge every 2-3 seconds, crazy stuff" — 11,308 views from a 15-follower account https://x.com/chudalx/status/2110050917848408321
+- "6 billion people (75%): almost no real contact with AI." — 10,062 / 133 (117 min late) https://x.com/0x0SojalSec/status/2109391110141559265
+- "So what ur telling is my pro 200 usage is gone?" — 8,675 (26 followers) https://x.com/EDMagnetic/status/2111214130162258190
+- "Nope. on par with Sonnet 5, and potentially stronger in agentic coding. But Opus 5 beats it in everything but maybe cost." — 6,785 / 23 / author answered https://x.com/0xdominus/status/2111375753636143136
+- "its crazy conisdering how cheap and fast it is, deepseek labs cooking" — 6,427 / 67 / author answered "Yes!! You can run it locally…" (typo kept) https://x.com/PawelJLisowski/status/2111378444734889989
+- "25M checkouts a day is deranged lol. at that point git isn't really slow, it's just built around the wrong creature (us)." — 4,173 https://x.com/MTorygreen/status/2110076059999985819
+- "openai gotta up their anti-distillation game like ant did" — 3,760 https://x.com/TheWhiteTower16/status/2111519931833733594
+- "cheapest rebrand i've seen" — 2,592 https://x.com/amybuildsAI/status/2111519953589575992
+- "the model upgrade cadence is getting silly now. blink and there's a new astra something that "got an upgrade" 😭" — 2,528 (29 followers) https://x.com/riversandponds/status/2111196602656509965
+- "seems like it broke something?" — 2,482 https://x.com/samson_builds/status/2111196651662848256
+
+### What gets the author to answer (24 author→commenter replies)
+Answered comment types: **direct disagreement / challenge / accusation** 10 (3 from one feud) (scaling01 answers almost every pushback: "it's not "minor"" → "they could've named it 4.5"; "Most used on openrouter." → "that is not what he said…"; "Why do you hate deepseek so much?…" → "I don't hate them at all", 9,611 views / 131 likes), **excited agreement with a specific detail** 6 ("deepseek labs cooking" → "Yes!! You can run it locally…", 6,214 / 30), **a joke** 2 ("He aged in reverse within hours?!" → ";D"; "Samsung legal is typing..." → "😡"), **a technical nuance or a specific question** 3 ("how true is the secret quantization…" → "it's cope") ("never bet against open source, except maybe on the harness" → Yuchenj recommends a harness), friends/personal/lab 3. Commenters answered ranged from **20 to 1.1M followers** (5 of 24 under 150 followers), so small accounts do get answers when the comment gives the author something to react to. Author answers are short (median ~6 words: "it's cope", "Crazy isn't it", "Yes, true that").
+No author answered a generic summary or a stapled follow-up question in this sample.
+
+### Raw phase-2 output
+```
+direct replies 401
+0-5 min                n= 27 medViews=    367 meanViews=    1559 medLikes=0 gotReply=19%
+5-20 min               n=150 medViews=    198 meanViews=    4562 medLikes=0.0 gotReply=13%
+20-60 min              n= 33 medViews=     48 meanViews=     131 medLikes=0 gotReply=3%
+60-120 min             n=171 medViews=     86 meanViews=     610 medLikes=0 gotReply=12%
+followers 0-1000       n=286 medViews=     65 meanViews=    1658 medLikes=0.0 gotReply=10%
+followers 1000-10000   n= 80 medViews=    110 meanViews=     648 medLikes=0.0 gotReply=8%
+followers 10000-1000000000.0 n= 35 medViews=    826 meanViews=    9051 medLikes=3 gotReply=31%
+ends ?                 n= 45 medViews=     82 meanViews=    5305 medLikes=0 gotReply=22%
+lowercase              n=129 medViews=    119 meanViews=     645 medLikes=0 gotReply=12%
+<=8w                   n=117 medViews=    144 meanViews=    3180 medLikes=1 gotReply=12%
+9-25w                  n=177 medViews=    119 meanViews=    2524 medLikes=0 gotReply=14%
+>25w                   n=107 medViews=     62 meanViews=     223 medLikes=0 gotReply=6%
+media/link only        n= 12 medViews=   1036 meanViews=    7547 medLikes=5.0 gotReply=17%
+humor                  n= 11 medViews=    191 meanViews=    2607 medLikes=1 gotReply=27%
+stats: ?end 11.6 lower 33.2 emdash 1.3 median words 15
+
+TOP by views
+274313 4253 rc23    18m fol    101 @AnthropicAI https://x.com/NattyStupidity/status/2110051706939793645 | 30,000 merges a day. i've had one pull request open since march. it fixes a typo in the readme
+113925 1626 rc17    15m fol  95760 @sama https://x.com/hajarkagalwa/status/2111135396285620269 | Back to friends???
+ 96981  704 rc9    17m fol1043751 @sama https://x.com/alx/status/2111136009303859261 | Did you cancel your order cancellation?
+ 56273  110 rc4    16m fol    321 @AnthropicAI https://x.com/glyphicon/status/2110051085213634683 | 
+ 21543   60 rc0    14m fol    689 @sama https://x.com/suomi55/status/2111135153871626519 | What did you take again? 💀 /  / But if it helps you to talk to Elon, take more of it and talk to us!!
+ 18389   96 rc4     1m fol  61311 @scaling01 https://x.com/scaling01/status/2111518644140200441 | I tested it myself. it actually says repeatedly its ChatGPT
+ 16887   27 rc2    19m fol   7144 @sama https://x.com/simonwu/status/2111136567955714448 | That’s very nice!!  It can hang upside down and jump and flip!
+ 15697   72 rc3   115m fol 391482 @karpathy https://x.com/minchoi/status/2109390523370975336 | those with access to the frontier intelligence will not be the permanent underclass
+ 11308    2 rc1    15m fol     15 @AnthropicAI https://x.com/chudalx/status/2110050917848408321 | that's 1 merge every 2-3 seconds, crazy stuff
+ 10994   58 rc1    19m fol  16228 @sama https://x.com/stilla1ex/status/2111136354050416821 | 
+ 10062  133 rc5   117m fol  60421 @karpathy https://x.com/0x0SojalSec/status/2109391110141559265 | 6 billion people (75%): almost no real contact with AI.
+  9243   11 rc0    15m fol  24185 @sama https://x.com/theJosephBlaze/status/2111135438517817431 | 
+  8675   11 rc1    87m fol     26 @OpenAI https://x.com/EDMagnetic/status/2111214130162258190 | So what ur telling is my pro 200 usage is gone?
+  7623    1 rc2    90m fol      3 @sama https://x.com/YedidStudio/status/2111154216563781811 | which ai was used to build the new tesla’s roadster? Was it @claudeai @grok or @OpenAI
+  7536   40 rc1    86m fol  69511 @sama https://x.com/trikcode/status/2111153335948493137 | If you can't beat them, join them
+  7508   18 rc0   134m fol  61311 @scaling01 https://x.com/scaling01/status/2111552078028124562 | 
+  6785   23 rc5     4m fol   1291 @kimmonismus https://x.com/0xdominus/status/2111375753636143136 | Nope. / on par with Sonnet 5, and potentially stronger in agentic coding. But Opus 5 beats it in everything but maybe cost.
+  6427   67 rc4    15m fol    624 @kimmonismus https://x.com/PawelJLisowski/status/2111378444734889989 | its crazy conisdering how cheap and fast it is, deepseek labs cooking
+  4173    4 rc1   115m fol  75442 @AnthropicAI https://x.com/MTorygreen/status/2110076059999985819 | 25M checkouts a day is deranged lol. at that point git isn’t really slow, it’s just built around the wrong creature (us). /  / agents don’t care about hav
+  4150    9 rc0     0m fol 151452 @kimmonismus https://x.com/kimmonismus/status/2111525510123770333 | 
+  3840    0 rc0    17m fol     47 @OpenAI https://x.com/BrandynShips/status/2111196640866681085 | Is it any more affordable?
+  3760   24 rc2     6m fol    148 @scaling01 https://x.com/TheWhiteTower16/status/2111519931833733594 | openai gotta up their anti-distillation game like ant did
+  3745    1 rc0   115m fol    854 @karpathy https://x.com/dguevar1/status/2109390562071892068 | I agree. This seems to capture the moment.
+  2992   13 rc1    17m fol  48288 @sama https://x.com/MoZarrinsadaf/status/2111135859399356645 | Super Intelligent gesture!
+  2784   34 rc2    17m fol     57 @kimmonismus https://x.com/yes96889391/status/2111379086790783211 | Closed-source models: Liang Wenfeng has arrived
+  2600    0 rc0   119m fol     34 @AnthropicAI https://x.com/_toxxictomato_/status/2110077037809414187 | That’s huge, can’t wait to try it out. We where waiting for this for ages
+  2592   13 rc0     6m fol   1729 @scaling01 https://x.com/amybuildsAI/status/2111519953589575992 | cheapest rebrand i've seen
+  2528    1 rc0    17m fol     29 @OpenAI https://x.com/riversandponds/status/2111196602656509965 | the model upgrade cadence is getting silly now. blink and there's a new astra something that "got an upgrade" 😭
+  2498    0 rc0    17m fol    247 @OpenAI https://x.com/heman10x/status/2111196618762707022 | hows this exactly use full ?? if the models themselves are nerfed
+  2482    2 rc0    17m fol    128 @OpenAI https://x.com/samson_builds/status/2111196651662848256 | seems like it broke something?
+
+AUTHOR REPLIES
+24
+kimmonismus | 0xdominus | 1291 | Nope. / on par with Sonnet 5, and potentially stronger in agentic coding. But Opus 5 beats it in everything but maybe cost. | Looking at the raw numbers, not real world usage obviously, it outperforms on key benchmarks like DeepSWE. But we all know that there is a difference between be | 6474 | 45 | https://x.com/kimmonismus/status/2111377076657824134
+Yuchenj_UW | TheAhmadOsman | 79777 | Opensource AI winning is inevitable at this point | so many ragebaits | 1259 | 11 | https://x.com/Yuchenj_UW/status/2111512544754188619
+scaling01 | FoundTheCode | 114 | since you have some frontier lab friends, ive always wondered, how true is the secret quantization of openai esp ant models /  / is it actually happening or just mass hysteria | it's cope | 35 | 0 | https://x.com/scaling01/status/2111593419814605168
+scaling01 | alive_nishant | 20 | You claimed "it is not even close to being the most used model". / Now their is evidence that you are wrong. /  / Do you have any data point to support your claim? /  / Or you are just trying to rage bait? | use google, it's not that hard to find out how many tokens openai, ant, google and bytedance process | 83 | 1 | https://x.com/scaling01/status/2111585346073112639
+scaling01 | theaidesk_ | 293 | orginal tweet @dummerspast39 !!! | i didn't steal shit /  / someone shared the screenshot in my comments and I linked to that comment /  /  /  / I have the guy blocked you are mentioning. I don't see shit fr | 1571 | 2 | https://x.com/scaling01/status/2111579476631101477
+scaling01 | QuixiAI | 21637 | it's not "minor" | they could've named it 4.5 | 114 | 1 | https://x.com/scaling01/status/2111570162134786276
+Yuchenj_UW | ivanzhouyq | 2513 | Truly incredible for its size and the fact that they continue improving performance on the same architecture with more post training. | also kudos to their MIT license | 279 | 1 | https://x.com/Yuchenj_UW/status/2111561050990764103
+kimmonismus | nagasankey | 133 | Samsung legal is typing... | 😡 | 496 | 1 | https://x.com/kimmonismus/status/2111531347097575801
+scaling01 | mochiMonster23 | 99 | Why do you hate deepseek so much? They literally force American labs to lower their prices. | I don't hate them at all | 9611 | 131 | https://x.com/scaling01/status/2111529937698197914
+scaling01 | RomanP918791 | 242 | Most used on openrouter. | that is not what he said and openrouter data still doesn't establish that | 307 | 3 | https://x.com/scaling01/status/2111523963839082662
+Yuchenj_UW | ragzoi | 41 | deepseek's own footnote says its terminal-bench 4.0 scores were run in the claude code framework. never bet against open source, except maybe on the harness | I do think oss models need better harness. /  / Omnigent is a “meta harness” open sourced by @databricks that can run any model in any harness, and we’re dogfooding | 731 | 9 | https://x.com/Yuchenj_UW/status/2111517304760816059
+kimmonismus | sunglassesface | 3644 | He aged in reverse within hours?! | ;D | 355 | 2 | https://x.com/kimmonismus/status/2111517234137047462
+scaling01 | FoundTheCode | 114 | my god your take has aged like fine sour milk | brother, they are comparing it to last gen models on benchmarks they have cherry picked and benchmaxxed /  / wait for third party private benchmarks | 65 | 1 | https://x.com/scaling01/status/2111494521611554978
+scaling01 | teortaxesTex | 77859 | "incapable of shipping good models anymore" / "get well soon" / "DeepSeek RL sucks" / "I'm sorry bro" / The really pathetic thing is that Lisan thinks he's being clever. As a German, he doesn't have a single  | your obsession with me is genuinely concerning /  / you should talk to someone | 390 | 2 | https://x.com/scaling01/status/2111493709409751363
+kimmonismus | SahilPanhotra | 2961 | wait for GLM 5.5 | Yes, true that | 684 | 2 | https://x.com/kimmonismus/status/2111421974090015022
+kimmonismus | LinusEkenstam | 245164 | I tried this, maybe it can be helpful? | Wtf @SpaceX hire this guy asap | 865 | 3 | https://x.com/kimmonismus/status/2111404305466966215
+kimmonismus | PawelJLisowski | 624 | its crazy conisdering how cheap and fast it is, deepseek labs cooking | Yes!! You can run it locally, with enough compute that is even affordable | 6214 | 30 | https://x.com/kimmonismus/status/2111381063142666748
+scaling01 | teortaxesTex | 77859 | You can easily achieve it: simply apologize for your retarded and disingenuous posturing, clown. | I'm sincere. I do feel bad for you. /  / You seem to be very irritated and anxious. If you need to talk to someone my dm's are open :) | 2429 | 11 | https://x.com/scaling01/status/2111377306803417146
+testingcatalog | deepseek_ai | 1156465 | 🚀 DeepSeek-V4.1-Flash-1017 is here! /  / Stronger benchmark performance, faster task completion, and shorter outputs than the previous version—a Pareto improvement in performance and cost. Now live on our | DeepSWE Seek! 🔥 | 23374 | 120 | https://x.com/testingcatalog/status/2111377155376713760
+kimmonismus | vikktorrrre | 11410 | He's 72? /  / Oh my gosh I literally was expected late 60s | Crazy isn’t it | 500 | 0 | https://x.com/kimmonismus/status/2111374885461311720
+scaling01 | teortaxesTex | 77859 | (1 hour later) / uh-huh. Suck on it, Lisan / best lab in China, without question | I honestly feel bad for you. I hope you get better soon! | 5726 | 36 | https://x.com/scaling01/status/2111374379280191773
+kimmonismus | VraserX | 23436 | Yeah, he certainly has a lot of charisma. | Seriously, you that I’ve met him in person. He is so humble and friendly, I’m serious. | 570 | 3 | https://x.com/kimmonismus/status/2111373650989642154
+kimmonismus | notjazii | 12110 | Big week incoming bro | I am ready!!! | 510 | 1 | https://x.com/kimmonismus/status/2111373455124004967
+kimmonismus | LinusEkenstam | 245164 | Did surgery yesterday  /  / Short story, got some benign stuff growing in the wrong spots, yikes  /  / caused a lot of pain, so they cut me open, took a bunch of em out /  / a few more to go.  /  / Now I’m in pain, c | Get well soon! | 703 | 3 | https://x.com/kimmonismus/status/2111359616022167923
+
+```
+
+
+## Raw stat output (phase 1)
 ```
 replies to others 1316 self-thread 381 originals 706
 
